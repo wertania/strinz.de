@@ -1,0 +1,7 @@
+{
+  "logoPath": "/images/logo.png",
+  "logoAlt": "Strinz Margarethä Logo",
+  "logoUrl": "/",
+  "logoText": "Strinz Margarethä",
+  "menuItems": [{ "text": "Home", "url": "/" }]
+}

@@ -1,0 +1,11 @@
+{
+  "navigation": [
+    { "title": "Datenschutz", "url": "/datenschutz" },
+    { "title": "Impressum", "url": "/impressum" }
+  ],
+  "company": {
+    "name": "Strinz Margarethä",
+    "url": "https://strinz.de"
+  },
+  "memberships": []
+}
