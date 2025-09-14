@@ -31,26 +31,10 @@ export default defineNuxtConfig({
   app: {
     head: {
       script: [
-        {
-          src: "/n8n/index.umd.cjs",
-          type: "text/javascript",
-        },
-        {
-          src: "/animated-background/three.min.js",
-          type: "text/javascript",
-        },
-        {
-          src: "/animated-background/vanta.net.min.js",
-          type: "text/javascript",
-        },
-        {
-          src: "/animated-background/vanta.dots.min.js",
-          type: "text/javascript",
-        },
-        {
-          src: "/animated-background/vanta.birds.min.js",
-          type: "text/javascript",
-        },
+        // {
+        //   src: "/n8n/index.umd.cjs",
+        //   type: "text/javascript",
+        // },
       ],
     },
   },
