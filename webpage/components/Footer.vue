@@ -17,7 +17,7 @@ import footerConfig from "~/content/_footer.json";
             {{ footerConfig?.company.name }}
           </h3>
           <p class="text-sm text-content dark:text-content-dark">
-            Ihr Partner für innovative Lösungen
+            Eine Ortschronik
           </p>
         </div>
 
@@ -50,7 +50,7 @@ import footerConfig from "~/content/_footer.json";
           <h3
             class="text-lg font-semibold text-primary dark:text-dark-primary mb-4"
           >
-            Folgen Sie uns
+            ---
           </h3>
           <div class="flex justify-center md:justify-end space-x-4">
             <template
@@ -74,58 +74,6 @@ import footerConfig from "~/content/_footer.json";
             </template>
           </div>
         </div>
-      </div>
-
-      <!-- Memberships Section -->
-      <div
-        v-if="footerConfig?.memberships"
-        class="border-t border-gray-200 dark:border-gray-700 pt-8 mb-8"
-      >
-        <div class="text-center">
-          <h3
-            class="text-lg font-semibold text-primary dark:text-dark-primary mb-6"
-          >
-            Mitgliedschaften
-          </h3>
-          <div class="flex flex-wrap justify-center items-center gap-8">
-            <template
-              v-for="membership in footerConfig.memberships"
-              :key="membership.name"
-            >
-              <a
-                :href="membership.url"
-                target="_blank"
-                rel="noopener noreferrer"
-                class="block transition-transform duration-200 hover:scale-105 hover:opacity-80"
-                :title="membership.name"
-              >
-                <img
-                  :src="membership.logo"
-                  :alt="membership.name"
-                  class="h-12 w-auto max-w-[120px] object-contain filter grayscale hover:grayscale-0 transition-all duration-300 dark:bg-white dark:rounded-md dark:p-2"
-                />
-              </a>
-            </template>
-          </div>
-        </div>
-      </div>
-
-      <!-- Copyright Section -->
-      <div
-        class="border-t border-gray-200 dark:border-gray-700 pt-6 text-center"
-      >
-        <p class="text-sm text-content dark:text-content-dark">
-          &copy; {{ new Date().getFullYear() }}
-          <a
-            :href="footerConfig?.company.url"
-            target="_blank"
-            rel="noopener noreferrer"
-            class="text-highlight dark:text-highlight-dark hover:text-highlight-secondary dark:hover:text-highlight-secondary-dark font-medium transition-colors duration-200 ml-1"
-          >
-            {{ footerConfig?.company.name }}
-          </a>
-          - Alle Rechte vorbehalten
-        </p>
       </div>
     </div>
   </footer>
