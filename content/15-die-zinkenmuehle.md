@@ -8,7 +8,7 @@ slug: die-zinkenmuehle
 
 Lage der Zinkenmühle im Jahr 1945
 
-![](image698.jpeg)
+![](images/image698.jpeg)
 
 Bevor es mit der eigentlichen Geschichte der Mühle losgeht, will ich an dieser Stelle schon einmal ein wichtiges Rätsel lösen:
 
@@ -22,7 +22,7 @@ Lage
 
 Die Zinkenmühle selbst liegt ca. 500 nordwestlich von StM. Sie liegt nicht direkt am Aubach. Sie wurde deshalb über einen eigenen Mühlbach versorgt. Dieser ist heute nur noch in Teilen erkennbar. Der Mühlbach zweigte in etwa auf Höhe des Spielplatzes ab, floss an der Straße "Am Mühlgraben" entlang, überquerte dann die Scheidertalstraße und floss dann unterhalb des "Neuer Mühlweg" bis zur Zinkenmühle und dort über das Mühlrad, welches sich innerhalb der Zinkenmühle befand, wieder in den Aubach hinein.
 
-![](image699.jpeg)
+![](images/image699.jpeg)
 
 *Der Mühlgraben ist noch heute in Google-Maps verzeichnet (Stand 2020)*
 
@@ -30,13 +30,13 @@ Der Mühlenbann
 
 Im Mittelalter konnte nicht jeder einfach eine Mühle gründen. Es gab in der Regel einen Mühlenbann, das bedeutet, dass es Mühlen gab, die quasi ein Monopol auf ihre Tätigkeit hatten. So auch für unsere Region. Für die nassauischen Eigenleute (Leibeigenen) galt bis 1514 der Adolfsecker Mühlenbann. Bisher dahin waren Strinzer Bürger gezwungen ihr Getreide in der Adolfsecker Mühle malen zu lassen.
 
-![](image700.png)
+![](images/image700.png)
 
 *Die Adolfsecker Mühle*
 
 Geschichte der Strinzer Mühle
 
-![](image701.jpeg)
+![](images/image701.jpeg)
 
 *Die Zinkenmühle in den 1980er Jahren*
 
@@ -298,15 +298,15 @@ Geboten wurde gutbürgerliche Küche.
 
 Bilder der Mühle aus dem Jahre 1995
 
-![](image702.jpeg)
+![](images/image702.jpeg)
 
-![](image703.jpeg)
+![](images/image703.jpeg)
 
-![](image704.jpeg)
+![](images/image704.jpeg)
 
-![](image705.jpeg)
+![](images/image705.jpeg)
 
-![](image706.jpeg)
+![](images/image706.jpeg)
 
 > Quelle: Wuschek/Hünstetten
 

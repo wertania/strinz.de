@@ -12,7 +12,7 @@ import { fileURLToPath } from "node:url";
 import sharp from "sharp";
 
 const ROOT = path.resolve(path.dirname(fileURLToPath(import.meta.url)), "../..");
-const SRC = path.join(ROOT, "data/media");
+const SRC = path.join(ROOT, "content/images");
 const OUT = path.join(ROOT, "site/public/bilder");
 const FULL = path.join(OUT, "gross");
 const THUMB = path.join(OUT, "klein");

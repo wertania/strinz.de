@@ -14,7 +14,7 @@ Kalkspalt
 
 Ein sehr häufiges in unserer Gemarkung aufzufindendes Mineral ist der Kalkspat aber auch Calcit, Kalzit oder Doppelspat genannt.
 
-![](image347.jpeg)
+![](images/image347.jpeg)
 
 Der Stein entwickelt verschiedene Kristall- beziehungsweise Aggregatformen, die entweder farblos oder von milchig weißer bis grauer, durch Verunreinigungen auch gelber, rosa, roter, blauer, grüner, brauner oder schwarzer Farbe sein können. Mit einer Mohshärte von 3 (Diamant = 10) gehört Calcit zu den weichen Mineralen.
 
@@ -22,7 +22,7 @@ Mandel
 
 Eine Mandel ist ein vollständig mit mineralischer Substanz gefüllter ehemaliger Hohlraum (Geode) in Vulkaniten.
 
-![](image348.jpeg)
+![](images/image348.jpeg)
 
 Ein Vulkanit ist ein Gestein, das infolge vulkanischer Aktivität durch rasche Abkühlung einer Gesteinsschmelze an der Erdoberfläche entsteht. Die Mandel besteht vermutlich aus Sandstein und Ferrit.
 
@@ -40,7 +40,7 @@ Nachfolgend können Sie sich einige Waldgeschichten anschauen.
 
 Der Wald als Ertragsquelle
 
-![](image349.jpeg)
+![](images/image349.jpeg)
 
 In frühen Jahren konnten waldreiche Gemeinden einen beträchtlichen Teil ihres Haushaltes durch Holzverkäufe betreiben. Durch die niedriger werdenden Holzpreise und die ansteigenden Ausgaben für Gehälter und Löhne sind die Reineinnahmen stark zurückgegangen. Der Wald wird allmählich zum Zuschussbetrieb für die Gemeinden.
 
@@ -72,23 +72,23 @@ Im Gemeindewalde werden am Dienstag den 16. Februar, vormittags 18 3/4 Klafter B
 
 > Quelle: Herzoglich-Nassauisches Intelligenzblatt / 1819
 
-![](image350.jpeg)
+![](images/image350.jpeg)
 
 *Strinzer Waldungen 1860*
 
 Impressionen aus der Waldarbeit
 
-![](image351.png)
+![](images/image351.png)
 
-![](image352.png)
+![](images/image352.png)
 
-![](image353.png)
+![](images/image353.png)
 
-![](image354.png)
+![](images/image354.png)
 
-![](image355.png)
+![](images/image355.png)
 
-![](image356.png)
+![](images/image356.png)
 
 ### Der "schlaue" Holzdiebstahl
 
@@ -186,7 +186,7 @@ Ein Beitrag von Helmut Hartwig
 
 ### Waldnamen
 
-![](image357.jpeg)
+![](images/image357.jpeg)
 
 *Strinzer Waldungen 1860*
 
@@ -217,13 +217,13 @@ Eichholz
 - Steinberg
 ## Die Strinzer Linde
 
-![](image358.jpeg)
+![](images/image358.jpeg)
 
 *Die alte Linde im Jahre 1929*
 
 Im Jahre 1984 wird die alte Dorflinde von einer Sturmbö erfasst und entwurzelt. Man schätzte das Alter auf ungefähr 100 Jahre.
 
-![](image359.jpeg)
+![](images/image359.jpeg)
 
 Es ist davon auszugehen, dass es sich dabei um ein sogenannte Kaiserlinde handelte.
 
@@ -246,7 +246,7 @@ Stimmt die Alterseinschätzung von 1984, so ist davon auszugehen, dass eines die
 
 Noch im selben Jahr wird eine neue Linde durch Ortsvorsteher Werner Petri und Willi Guckes im Beisein vieler Bürger gepflanzt.
 
-![](image360.jpeg)
+![](images/image360.jpeg)
 
 *Pflanzung der neuen Linde*
 
@@ -304,7 +304,7 @@ Auch der Steinbruch im Kohlwald ist recht klein. Dieser wurde wahrscheinlich nur
 
 ## Gemarkungs- und Wegenamen
 
-![](image361.jpeg)
+![](images/image361.jpeg)
 
 Wer kennt Sie schon noch, die alten Gemarkungsnamen.
 
@@ -312,9 +312,9 @@ Wie auf der obigen Karte zu sehen ist, war in frühen Jahren die Gemarkung in vi
 
 Damit die alten Flur- und Gemarkungsnamen nicht in Vergessenheit geraten, habe ich sie aufgeführt. Die einzelnen Namen könnt Ihr euch über die obigen Reiter anschauen.
 
-![](image362.jpeg)
+![](images/image362.jpeg)
 
-![](image363.jpeg)
+![](images/image363.jpeg)
 
 ### Gemarkungsnamen
 
@@ -1141,13 +1141,13 @@ Der rechteckige Trog, der im Verhältnis zu anderen Laufbrunnen in der Region re
 
 Der Laufbrunnen wurde im Jahre 2014 in der Michelbacher Hütte restauriert.
 
-![](image364.png)
+![](images/image364.png)
 
-![](image365.png)
+![](images/image365.png)
 
 *2 x Brunnenschacht in der Pfalzstraße*
 
-![](image366.png)
+![](images/image366.png)
 
 *Der restaurierte Brunnen am Brunnenplatz*
 
@@ -1157,13 +1157,13 @@ In der Scheidertalstraße gabe es früher zwei Laufbrunnen, Einen in der Nähe d
 
 Der Laufbrunnen an der Gaststätte wurde durch ein neueres Exemplar ersetzt und läuft heute noch (Stand: 2020)
 
-![](image367.png)
+![](images/image367.png)
 
-![](image368.png)
+![](images/image368.png)
 
 *Die Brunnen in der Scheidertalstraße*
 
-![](image369.png)
+![](images/image369.png)
 
 *Neuer Laufbrunnen an der „Gaststätte zum Golden Löwen“*
 

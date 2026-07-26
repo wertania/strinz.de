@@ -6,7 +6,7 @@ slug: titelei
 
 Chronik von Strinz-Margarethä
 
-![](image1.png)
+![](images/image1.png)
 
 *Von den Anfängen bis zum Jahr 2000*
 

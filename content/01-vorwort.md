@@ -36,6 +36,6 @@ Nun wünsche ich viel Spaß beim Stöbern in dieser Chronik
 
 Ihr Frank Schwarzer
 
-![](image2.jpg)
+![](images/image2.jpg)
 
 *Strinz-Margarethä im Jahre 1945*

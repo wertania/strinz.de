@@ -171,7 +171,7 @@ StM tritt dem Spritzenverein Strinz-Trinitatis bei . Dieser Gemeinschaft gehöre
 
 > Quelle: Chronik der Freiwilligen Feuerwehr / 2009
 
-![](image390.jpeg)
+![](images/image390.jpeg)
 
 *Spritzenrechnung von 1925*
 
@@ -187,7 +187,7 @@ Um Wasser saugen zu können, musste zuerst der Wasserbehälter mit Eimern befül
 
 Die Bedienung der Pumpen verlangte viel Kraft und so wurden bei längerem Einsatz die Bedienungsmannschaft gewechselt.
 
-![](image391.jpeg)
+![](images/image391.jpeg)
 
 *Der Zinkeimer von 1900*
 
@@ -203,11 +203,11 @@ Der Schriftzug "Gemeinde Strinzmargaretha" ist noch schwach zu erkennen.
 
 Bild Zinkeimer einfügen
 
-![](image392.png)
+![](images/image392.png)
 
 *Prämienquittung Feuerversicherung von 1886*
 
-![](image393.png)
+![](images/image393.png)
 
 *Brandschutzpolice von 1903*
 
@@ -245,7 +245,7 @@ Sie kann im 14. Jahrhundert, nach dem Brand des Klosters durch die Mönche aus d
 
 Die erste urkundliche Erwähnung fällt in das Jahr 1184. Papst Lucius III. bestätigt in dieser Urkunde dem Abt. Jofredus von dem Benedektiner-Kloster zu Bleidenstadt unter anderem den Besitz von Strinz-Trinitatis, Strinz-Margarethä und Libbach.
 
-![](image394.jpg)
+![](images/image394.jpg)
 
 *Hier ein Auszug aus der Urkunde (deutsche Übersetzung aus dem lateinischen):*
 
@@ -306,7 +306,7 @@ Zinser werden auch als Zensuale oder auch Wachszinser bezeichnet.
 
 Im Mittelalter gab es zunächst kaum öffentliche Sicherheitsbehörden oder eine allgemein zuständige Polizei, die verstreut angesiedelten Höfe mussten sich daher selbst um Schutz und Beistand bemühen. Dazu konnten sie sich unter Aufgabe ihres Eigentums und Freiheit freiwillig einer befestigten Stadt, einem Oberhof oder einer Klostergemeinschaft anschließen und standen so als Wachszinsige oder Klosterhörige unter meist kirchlichem Schutz. Im Fall von StM standen diese Menschen wohl unter dem Schutz des Kloster Bleidenstadt.
 
-![](image395.gif)
+![](images/image395.gif)
 
 *Als Zinser Schutz durch das Kloster Bleidenstadt*
 
@@ -400,7 +400,7 @@ StM das dem Kirchspiel der St. Peterskirche in Bleidenstadt angehörte, nahm som
 
 Der Bauer in der Zeit des 30jährigen Krieges stand früh morgens von seinem Strohlager in dem langen Hemd auf, das er auch tagsüber trug. Er - und auch der Bürger in der Stadt - hatten kein eigentliches Nachthemd. Das Hemd, das man am Leibe trug, trugt man auch tagsüber - tagein, tagaus...
 
-![](image396.jpeg)
+![](images/image396.jpeg)
 
 *Die Beine wurden in eine Bauernhose gesteckt. Die Bauernhose*
 
@@ -424,9 +424,9 @@ Im Sommer ging der Bauer barfuß, im Winter in Pantoffeln oder Schlappen, wie ma
 
 Bei Arbeiten im Schlamm trug der Bauer "Tripklompen". Das waren stabile Pantoffeln, die auf ein starkes Brett genagelt waren, unter dem zwei Querleisten das Abrutschen verhindern sollten.
 
-![](image397.jpeg)
+![](images/image397.jpeg)
 
-![](image398.jpeg)
+![](images/image398.jpeg)
 
 Auf dem Kopf trug man eine Mütze oder eine Kappe mit Ohrenklappen. Bei den Bauern hatte sie lediglich die Aufgabe, gegen die Witterung zu schützen; entsprechend vielfältig war die Form, die nur von der Funktion und nicht von der Mode beeinflusst war.
 
@@ -600,7 +600,7 @@ Demnach lebten in StM nur noch 70 Personen. Namen die heute hier noch vorkommen 
 
 Es ist wohl auch noch der Name Puff dazu zu zählen, denn 1684 ist Wilhelm Puff im Alter von 81 Jahren gestorben. Margaretha Pfuin folgte ihrem Ehemann bald nach. Da das Ehepaar im Verzeichnis der "Nachbarn" von 1658 nicht genannt wird, muss man annehmen, dass es entweder von auswärts zuzog, oder dass es eine Zeitlang, noch infolge des Krieges, einen anderen Wohnsitz hatte.
 
-![](image50.jpeg)
+![](images/image50.jpeg)
 
 *Kartenausschnitt von 1658*
 
@@ -674,7 +674,7 @@ Johann Wilhelm, Catharina, Anna Margret (Zweitname schwer lesbar), Erna
 
 Im hessischen Staatsarchiv Wiesbaden ist eine Urkunde erhalten geblieben, die die männlichen Bürger von StM aufgelistet hat.
 
-![](image399.jpeg)
+![](images/image399.jpeg)
 
 - Jahr Verzeichnisß der Mannschaft auch lediger Leut wie folget
 - 1681
@@ -711,7 +711,7 @@ Was bedeutet "aufs Rad gelegt"?
 
 Mit dem Begriff "aufs Rad gelegt" ist das seinerzeit übliche Rädern gemeint. Es handelt sich dabei um eine grausame Hinrichtungsform des Mittelalters und der Frühen Neuzeit.
 
-![](image400.png)
+![](images/image400.png)
 
 Die als Mörder und/oder Räuber Verurteilten wurden auf ein Schafott gebracht und auf dem Boden festgebunden. Vorrangiges Ziel des ersten Aktes war das qualvolle Verstümmeln des Leibes, nicht der Tod. Deshalb sah die gebräuchlichste Variante vor, das Knochenbrechen mit den Beinen zu beginnen. Dazu ließ der Scharfrichter das Richtrad (oft mit eiserner Kante) auf den Unterschenkel des Verurteilten fallen und arbeitete sich dann bis zu dessen Armen hinauf. Dabei waren Rhythmus und Anzahl der Schläge jeweils vorgeschrieben, manchmal auch die Speichenzahl des Richtrades. Um dessen Wirkung zu erhöhen, legte man scharfkantige Hölzer unter die Gelenke, sogenannte Krammen, Krippen oder Brecheln. Später gab es Vorrichtungen, in die der Verurteilte „eingespannt“ werden konnte. Obwohl nicht üblich, konnte der Scharfrichter angewiesen werden, den Verurteilten am Ende des ersten Aktes zu exekutieren, indem er beim Gnadenstoß auf Hals oder Herz zielte. Noch seltener geschah dies sofort zu Beginn (vom Kopf herab).
 
@@ -739,7 +739,7 @@ Tod der Ehefrau
 
 Im Jahre 1696 stirbt die Ehefrau von Pfarrer Neumann, Anna Elisabetha, geb. Hießin, Tochter eines Schultheißen (Bürgermeisters). Sie wird im Kirchenchor der damaligen Strinzer Kirche begraben.
 
-![](image401.jpeg)
+![](images/image401.jpeg)
 
 *Die alte Kirche in der die*
 
@@ -747,13 +747,13 @@ Ehefrau von Pfarrer Neumann
 
 begraben wurde.
 
-![](image402.jpeg)
+![](images/image402.jpeg)
 
 *Grabstein von Anna Elisabetha Neumann von 1696*
 
 Tod eines Sohnes in 1699
 
-![](image403.jpeg)
+![](images/image403.jpeg)
 
 Ein Sohn des Pfarrers, Johann Andreas (Schulmeister und Organist in Breithardt), verstarb im Jahre 1699 mit 20 Jahren, kurz vor seiner geplanten Hochzeit. Zum Gedenken an seinen Sohn lies Pfarrer Neumann die neben abgebildete Gedenktafel erstellen, die noch heute in der Kirche zu Breithardt hängt.
 
@@ -831,17 +831,17 @@ Das Backhaus gibt es leider nicht mehr, aber dafür noch Hinweise in den Kirchen
 
 Das Backhaus bestand schon 1707, wie Eintragungen aus dem Kirchenbuch belegen. Leider wurde es in den 50ern, nachdem es nicht mehr genutzt wurde, abgerissen. Noch heute nennt man das Grundstück auf dem das Backhaus stand "Backeswiese". Vom Backes existieren nur noch wenige Aufnahmen.
 
-![](image404.jpeg)
+![](images/image404.jpeg)
 
-![](image405.jpeg)
+![](images/image405.jpeg)
 
 *Das Backhaus in alten Ansichten*
 
 Das Backhaus war ein einfacher Zweckbau. In der Mitte stand der gemauerte Backofen, rechts davon gab es eine Arbeitsstube mit einer Durchreiche zum Ofen und linker Hand befand sich der Eingang mit Treppe zum Obergeschoß, wo sich eine Notwohnung befand. Das Innere des Backofens war mit Backofenstein ausgebaut.
 
-![](image406.jpeg)
+![](images/image406.jpeg)
 
-![](image407.png)
+![](images/image407.png)
 
 *Zeichnung von Helmut Hartwig*
 
@@ -851,13 +851,13 @@ Ein weiterer Grund für die Errichtung von Backhäusern bestand darin, die Feuer
 
 Die Reihenfolge des Backens wurde beim Bürgermeister ausgelost, so wurde das aufwändige Anheizen dem Zufall überlassen. Die nachfolgenden Benutzer profitierten davon und mussten nur nachheizen. Es kam des Öfteren vor, dass das Los zum Anheizen auf eine Familie fiel, die damit große Probleme hatte. Besonders an Festtagen wurden viele und große Kuchen gebacken.
 
-![](image408.jpeg)
+![](images/image408.jpeg)
 
-![](image409.jpeg)
+![](images/image409.jpeg)
 
 *Das Backhaus als Notunterkunft*
 
-![](image410.jpeg)
+![](images/image410.jpeg)
 
 Die Gemeinden waren früher gesetzlich verpflichtet, für in Not geratene Bürger und Asylsuchende eine Notwohnung bereit zu stellen. Dazu waren die Räume über dem Backofen, im Dachgeschoss des Backes, bestens geeignet. Besonders im Winter war diese Wohnung schön warm. Auch fiel für die Bewohner das eine oder andere Brot, oder sogar Kuchen, ab.
 
@@ -887,9 +887,9 @@ Gäste 1945
 
 Am Ende des 2. Weltkrieges (Mai 1945) hausten etwa 20 Personen aus Biebrich darin und kochten ab. Es waren Kesselflicker (Spengler). Polizeiliche Anfrage oder Anmeldung hatten sie sich erspart.
 
-![](image411.jpeg)
+![](images/image411.jpeg)
 
-![](image412.jpeg)
+![](images/image412.jpeg)
 
 *Das Bild links zeigt das Backhaus während der Strinzer Kerb im Jahre 1948*
 
@@ -897,7 +897,7 @@ Das zweite Bild zeigt das Backhaus aus einer anderen Perspektive. Der Ausschnitt
 
 aus einer Ortsansicht aus den 30er Jahren.
 
-![](image413.jpeg)
+![](images/image413.jpeg)
 
 Auf der alten Brücke. Hinten links das Backhaus.
 
@@ -909,11 +909,11 @@ Im Archiv der Gemeinde Hohenstein habe ich eine Karte von StM gefunden, in die d
 
 Mittels eines speziellen Architekturprogramms wurde das Strinz von 1782 wiederaufleben lassen.
 
-![](image414.jpeg)
+![](images/image414.jpeg)
 
 Hier die alte Karte, auf die die damaligen Gebäude eingezeichnet wurden. Die Gebäudehöhen sind nicht maßstabsgerecht, da die meisten Gebäude heute nicht mehr existieren.
 
-![](image415.jpeg)
+![](images/image415.jpeg)
 
 *Die Karte von 1782*
 
@@ -925,7 +925,7 @@ Bevor wir uns mit dieser Frage beschäftigen, sollten wir uns die Geschichte all
 
 Aus dem Jahre 1782
 
-![](image416.jpg)
+![](images/image416.jpg)
 
 Eine Dorfkarte aus dem Jahre 1782 zeigt, dass es auch schon im 18. Jahrhundert eine Brücke über den Aubach gab. Woraus die Brücke bestand ist allerdings nicht bekannt.
 
@@ -935,9 +935,9 @@ Die wohl erste Brücke über die Aubach wurde im Jahre 1841 erbaut. Sie war, wie
 
 Heute existieren nicht mehr viele Bilder von dieser alten Brücke. Die noch vorhandenen Bilder habe ich nachfolgend aufgeführt:
 
-![](image417.jpg)
+![](images/image417.jpg)
 
-![](image418.jpg)
+![](images/image418.jpg)
 
 *Auf der alten Brücke (links das alte Backhaus – Backes)*
 
@@ -947,15 +947,15 @@ Die Gemeindevertretung fasst 1949 den Beschluß, die Dorfstraße der Pfalz und d
 
 Um den Verkehr nicht zu sperren, baut Herr Zimmermeister Kreusel aus Hennethal eine Notbrücke und legt sie unterhalb der alten Brücke über den Bach.
 
-![](image420.jpeg)
+![](images/image420.jpeg)
 
-![](image421.png)
+![](images/image421.png)
 
 *Brückenneubau 2015*
 
 Bereits im Jahre 2012, musste die Tragfähigkeit der 1949 gebauten Brücke von 30 auf 16 Tonnen herabgesetzt werden, denn eine Untersuchung ergab, dass der Zustandswert der Brücke bei 3,9 liegt, was für größere Fahrzeuge nicht mehr ausreichend ist. Ab einem Zustandswert von 4,0 hätte die Brücke sogar komplett gesperrt werden müssen. 16 Tonnen Belastbarkeit ist ausreichend für Busse und Müllautos, nicht jedoch für voll beladene landwirtschaftliche Gespanne. D.h. diese dürfen die Brücke nicht mehr befahren und müssen den längeren Weg über die Brücke am Ortsausgang Richtung Breithardt einschlagen.
 
-![](image422.png)
+![](images/image422.png)
 
 ### Eine Gretchentragödie in Strinz
 
@@ -1008,7 +1008,7 @@ Die Sage vom hartherzigen Pfarrer
 
 Von einem Pfarrer erwartet man ein offenes Herz und eine offene Hand für die Armen.
 
-![](image423.jpeg)
+![](images/image423.jpeg)
 
 Zu StM lebte jedoch der Sage nach zu Beginn des 19. Jahrhunderts ein Geistlicher, der war geizig und hartherzig.
 Wie viele Pfarrer jener Zeit betrieb er nebenher eine Landwirtschaft und wurde wohlhabend dabei.
@@ -1072,7 +1072,7 @@ Auf das französische Vorbild ist zurückzuführen, dass auch in Deutschland, be
 
 Es dürfte jedermann bekannt sein, dass in den Schulen früher Prügelstrafen an der Tagesordnung waren. Weniger bekannt ist wohl, dass die Lehrer und Lehrerinnern verpflichtet waren, ihre Züchtigungen in ein Strafbuch einzutragen. So ein Strafbuch der Strinzer Schule existiert heute noch.
 
-![](image424.jpeg)
+![](images/image424.jpeg)
 
 *In diesem musste folgendes eingetragen werden:*
 
@@ -1118,7 +1118,7 @@ Den einsamen Rekord hält der 12jährige Schüler Carl, der am 03. November 1891
 
 Hier ein Auszug aus dem Strafbuch:
 
-![](image425.jpeg)
+![](images/image425.jpeg)
 
 ### Prozess um das Ochsengut
 
@@ -1144,13 +1144,13 @@ Als aber der Schultheiß Joh. Adam Enders als Erbe im Besitz des Ochsengutes war
 
 Da sich der Schultheiß auf den Kaufvertrag berief und die Mehrleistung ablehnte, kam es zum Prozess.
 
-![](image74.jpeg)
+![](images/image74.jpeg)
 
 *Ungefähre Lage des Pfaffengutes/Ochsengutes wo der neue Totenhof angelegt wurde*
 
 Zeitgenössische Inschrift
 
-![](image426.jpeg)
+![](images/image426.jpeg)
 
 Die Beweisaufnahme ergab, dass "seit unvordenklichen Zeiten" das Faselvieh "unbestimmt vom Ochsengutpächter habe gehalten werden müssen".
 
@@ -1206,7 +1206,7 @@ Dass ein reibungsloser Ablauf anstehender Steinbearbeitungen durch die meist ung
 
 > Quelle: villmar.business.t-online.de / Ortsverband Diez
 
-![](image427.jpeg)
+![](images/image427.jpeg)
 
 Das Zuchthaus Diez im Jahre 1837.
 
@@ -1216,7 +1216,7 @@ Im Vordergrund Gefangene die Marmor bearbeiten.
 
 Im Jahre 1824 wird die ehemalige Strinzer Kirche wegen Baufälligkeit geschlossen. Diese ehemals katholische Kirche hatte keinen Turm und ihr Kirchenchor zeigte, im Gegensatz zur heutigen Kirche, nicht nach Norden, sondern nach Osten.
 
-![](image401.jpeg)
+![](images/image401.jpeg)
 
 Trotzdem scheint diese Kirche aber eine Glocke besessen haben, denn diese ist in dem Buch "Inschriften des Rheingau-Taunus-Kreises" von 1997
 
@@ -1238,7 +1238,7 @@ Im Sommer des Jahres 1830 reißt ein mächtiger Sturm einen Teil des Daches der 
 
 ### Kirchenneubau
 
-![](image428.jpeg)
+![](images/image428.jpeg)
 
 Der Strinzer Lehrer Friederich berichtete - in der mittlerweile verschollenen Schulchronik - von den Kirchenbauarbeiten und überliefert uns ein gutes Bild von den damaligen Aktivitäten. In der Kirchenchronik, die seinerzeit von dem amtierenden Pfarrer Schmidtborn geführt wurde, wird der Kirchenneubau nur am Rande erwähnt.
 
@@ -1292,7 +1292,7 @@ Aus der Strinzer Chronik:
 
 Anlage eines neuen Totenhofes auf dem Acker des Herren Schultheiß Enders zwischen Strinz und der Zinkenmühle (Ochsengut/Pfaffenhof) unter dem Hennethaler Weg. Absteckung von 60 Ruthen.
 
-![](image74.jpeg)
+![](images/image74.jpeg)
 
 *Ungefähre Lage des Pfaffengutes/Ochsengutes wo der neue Totenhof angelegt wurde*
 
@@ -1322,7 +1322,7 @@ Commission wegen Anlage des neuen Kirchhofs (Begräbnisplatzes); mein vergeblich
 
 Die Einweihung der Kirche wird am 2. November 1834 von Pfarrer Schmidtborn im Zuge einer Predigt vorgenommen. Der Segen für den Neubau wird von Pfarrer Bleichenbach aus Strinz-Tinitatis gesprochen. Der Kirchengesang wird von Blasinstrumenten (9 Musikanten aus Idstein) begleitet, eine Orgel fehlt bei der Einweihung noch.
 
-![](image429.jpeg)
+![](images/image429.jpeg)
 
 8 Lehrer aus den Nachbardörfern sind zugegen, insgesamt wohnen über 1.000 Menschen der Veranstaltung bei. Und nicht nur zum eigentlichen Kirchenweihfest sondern auch zum bürgerlichen Kirchenweihfest, welches von Sonntag bis Freitag währt. Das Fest selbst wird - so schätzt Lehrer Friederich - die Gemeinde mehr als
 
@@ -1342,11 +1342,11 @@ Einweihung der neuen Kirche am 23. Sonntage nach Trinit., d. 2. November, bei we
 
 Renovierungsarbeiten in der Kirche (man beachte den Holzofen)
 
-![](image430.jpeg)
+![](images/image430.jpeg)
 
 ### Die Strinzer Orgel
 
-![](image431.jpeg)
+![](images/image431.jpeg)
 
 Die Einweihung der heutigen Strinzer Kirche wurde am 2. November 1834 von Pfarrer Schmidtborn im Zuge einer Predigt vorgenommen. Der Kirchengesang wird von Blasinstrumenten (9 Musikanten aus Idstein) begleitet, da eine Orgel bei der Einweihung noch fehlte. Die Orgel der alten Kirche sollte keine Verwendung mehr finden, denn:
 
@@ -1360,7 +1360,7 @@ Der Überlieferungen nach hatte das Werk in einem Nonnenkloster zu Mainz gestand
 
 Offenbar konnte sich die kleine arme Gemeinde im Untertaunus nach dem Kirchenbau keinen Orgelneubau leisten, sondern musste mit einem gebrauchten Instrument vorlieb nehmen. Die Nieder-Ingelheimer Kirchengemeinde stellte jedoch die Bedingung, dass „alle Verzierungen, namentlich auch die Figuren, welche nicht unbedingt zur Orgel gehören, hergestellt in Gold und Ölfarbe und in die neu zu erbauende Orgel verwendet werden." So verblieb der Schmuck, der ursprünglich zu der Orgel Strinz-Margarethä gehörte - sechs barocke Engelfiguren sowie geschnitzte Verzierungen - in der Saalkirche Nieder-Ingelheim, wo sie bis heute den Prospekt der klassizistischen Dreymann-Orgel zieren.
 
-![](image432.jpeg)
+![](images/image432.jpeg)
 
 Die Frage nach dem Alter der Orgel ist nicht eindeutig zu beantworten. Als gesichert gilt, dass sie vor der Auflösung der Mainzer Stifte und Klöster im Weißfrauenkloster dem liturgischen Gesang der Nonnen diente. Es ist wahrscheinlich, dass sie um das Jahr 1710 erbaut wurde. Damit ist es wohl gesichert, dass die Orgel von Strinz-Margarethä zu den ältesten Orgeln im Bereich der Evangelischen Kirche in Hessen und Nassau gehört.
 Nachdem über viele Jahre unklar war, wer dieses Werk schuf, kann nach mehreren Untersuchungen mittlerweile aufgrund der Pfeifensignaturen Johann Jakob Dahm (1658-1727) als Erbauer benannt werden.
@@ -1501,15 +1501,15 @@ Die Lehrer haben durch Ihren Gesang das schöne Fest verherrlicht. Die Versammlu
 
 Der Lehrer selbst ist wahrscheinlich bei der Einweihung seiner Schule gar nicht zu Wort gekommen!
 
-![](image433.jpeg)
+![](images/image433.jpeg)
 
 Erhaltenes Schulbuch aus dem Jahre 1866. Es gehörte Adolf Kadesch.
 
-![](image434.jpg)
+![](images/image434.jpg)
 
 *Unterricht im Schulgarten*
 
-![](image435.jpg)
+![](images/image435.jpg)
 
 *Im Klassenzimmer zu NS-Zeiten*
 
@@ -1569,7 +1569,7 @@ Die Schlacht bei Weißenburg am 4. August 1870
 
 Die Lage von Weißenburg
 
-![](image436.jpeg)
+![](images/image436.jpeg)
 
 *Schlachtplan*
 
@@ -1583,7 +1583,7 @@ Als die Franzosen das vor den deutschen Truppen liegende Hopfenfeld am Schloss G
 
 Gemälde der Schlacht bei Weißenburg
 
-![](image437.jpg)
+![](images/image437.jpg)
 
 *Die Franzosen sind chancenlos*
 
@@ -1603,7 +1603,7 @@ Feier zum 75ten Geburtstag von Kaiser Wilhelm I.
 
 Am Mittwoch den 22. März 1871 wurde der 75. Geburtstag von Kaiser Wilhelm I. gefeiert. Hierzu berichtet die Niederlibbacher Schulchronik.
 
-![](image438.jpeg)
+![](images/image438.jpeg)
 
 Nach einem feierlichen Vormittagsgottesdienst versammelten sich des Nachmittags die Schüler wieder in der Schule, denn das Wetter war außerordentlich günstig. 14 Grad Wärme im Schatten - so sollte auf Anordnung des Pfarrers Osterloh mit den Schülern zu StM ein gemeinschaftlicher Spaziergang vorgenommen werden. Da sich aber auch die Eltern der Schüler beim Schulhaus einfanden, um den Spaziergang mitzumachen, so hielt der Lehrer im Schulhof eine Anrede über die Bedeutung des Tages und brachte im Hof auf unseren siegreichen Heldenkaiser, dann auf
 
@@ -1647,7 +1647,7 @@ In StM wurde im 19. Jahrhundert ein sogenannter Kriegerverein gegründet. Dieser
 
 Im Feld gefundenes Eiserne Kreuz des Kriegervereins Strinz-Margarethä
 
-![](image439.jpeg)
+![](images/image439.jpeg)
 
 Kriegervereine wurden vereinzelt bereits nach den Koalitionskriegen gegründet. Seit 1842 bildeten sich besonders in Preußen zahlreiche so genannte Militär-Begräbnisvereine, nachdem König Friedrich Wilhelm IV. ihrer Gründung eine gesetzliche Grundlage gegeben und ihnen besondere Rechte verliehen hatte.
 
@@ -1677,13 +1677,13 @@ Auch in anderen Hohensteiner Gemeinden gab es Kriegervereine. So existiert im Ho
 
 Diese Relikte habe ich nachfolgend aufgeführt:
 
-![](image440.jpeg)
+![](images/image440.jpeg)
 
 *Im Feld gefundene Erinnerungsmedaille des Kriegervereins Breithardt*
 
-![](image441.jpeg)
+![](images/image441.jpeg)
 
-![](image442.jpeg)
+![](images/image442.jpeg)
 
 *Fahne des Kriegervereins Hohenstein (Burg Hohenstein) von 1908*
 
@@ -1735,7 +1735,7 @@ Eine Eisenbahn durch Strinz-Margarethä? Kaum vorzustellen. Aber es bestand tats
 
 Hier berichte ich Euch, über den heute kaum noch vorstellbaren Plan.
 
-![](image443.jpeg)
+![](images/image443.jpeg)
 
 *Foto: Wikipedia/Bernd Untiedt*
 
@@ -1757,7 +1757,7 @@ Im Jahre 1899 wurde im "Idsteiner Anzeiger" von ersten Vermessungsarbeiten an de
 
 Aus dem Jahre 1900 stammt eine Karte, aus der die damals vorhandenen Eisenbahnlinien hervorgehen. Diese Karte wurde handschriftlich um eine Eisenbahnlinie ergänzt, die einen Streckenverlauf von Langenschwalbach bis Strinz-Margarethä zeigt. Bei StM endet der Streckenverlauf, es ist aber davon auszugehen, dass dieser weiter bis Idstein führen sollte. Bei StM verzweigt die Bahnlinie und führt über Breithardt nach Laufenselden und weiter. Es ist wahrscheinlich, dass es sich hierbei um einen ersten Entwurf aus der Planungsphase der Taunuslängsbahn handelt.
 
-![](image444.jpeg)
+![](images/image444.jpeg)
 
 *Kartenausschnitt von 1900 mit Eisenbahnlinie von Langenschwalbach nach StM*
 
@@ -1782,7 +1782,7 @@ Am 24. November versammelten sich 60 Vertrauensleute von 38 Gemeinden, die für 
 Am 07.07. 1912 findet in StM wieder eine Versammlung statt, in der über den aktuellen Status des Taunusquerbahnprojektes gesprochen wird.
 (Quellen: Strinzer Chronik, Teil 2, Seite 12, Kirchenchronik)
 
-![](image445.jpeg)
+![](images/image445.jpeg)
 
 *Von der Strinzer Bevölkerung favorisierter Bahnverlauf*
 
@@ -1886,7 +1886,7 @@ Am 7.8.1913 erhängte sich einer der Söhne, Heinrich Wahl, von Beruf Wagenwärt
 
 Der zweite Sohn, Reinhard Wahl, fiel 1916 im ersten Weltkrieg bei Roy.
 
-![](image446.jpeg)
+![](images/image446.jpeg)
 
 Der dritte Sohn, Karl Wahl starb am 16. Mai 1917 - auch durch Selbstmord. Aufgrund einer schweren Erkältung in seiner Kindheit, hatte er eine sehr krumme Körperhaltung. Er war unverheiratet und berufslos. Er hat sich mit einer Rasierklinge den Hals aufgeschnitten und ist gegen 5 Uhr in seiner Wohnung tot aufgefunden worden. Infolge des Todes des Vaters (Zeitpunkt
 
@@ -1902,15 +1902,15 @@ Nachfolgend zwei Bilder vom Wahleck. Das Gebäude stand in der Kurve der Scheide
 
 Fahrrichtung Breithardt. Zur Entschärfung der Kurve wurde das Haus später abgerissen.
 
-![](image447.jpeg)
+![](images/image447.jpeg)
 
-![](image448.jpeg)
+![](images/image448.jpeg)
 
 ### Der Kettenbrief
 
 Sie sind uns allen bekannt - Kettenbriefe. Aber sicher werden Sie sich fragen wie ich dazu komme, hier auf der Seite etwas über Kettenbriefe zu schreiben.
 
-![](image449.jpeg)
+![](images/image449.jpeg)
 
 *Hier erst einmal die Wikipedia-Definition für Kettenbrief:*
 
@@ -1950,39 +1950,39 @@ Seinerzeit schickten sich die Schulen gegenseitig Photoalben aus Ihrem Land. Die
 
 Hier die Bilder aus dem Album:
 
-![](image450.jpeg)
+![](images/image450.jpeg)
 
-![](image451.jpeg)
+![](images/image451.jpeg)
 
-![](image452.jpeg)
+![](images/image452.jpeg)
 
-![](image453.jpeg)
+![](images/image453.jpeg)
 
-![](image454.jpeg)
+![](images/image454.jpeg)
 
-![](image455.jpeg)
+![](images/image455.jpeg)
 
-![](image456.jpeg)
+![](images/image456.jpeg)
 
-![](image457.jpeg)
+![](images/image457.jpeg)
 
-![](image458.jpeg)
+![](images/image458.jpeg)
 
-![](image459.jpeg)
+![](images/image459.jpeg)
 
-![](image460.jpeg)
+![](images/image460.jpeg)
 
-![](image461.jpeg)
+![](images/image461.jpeg)
 
-![](image462.jpeg)
+![](images/image462.jpeg)
 
-![](image463.jpeg)
+![](images/image463.jpeg)
 
-![](image464.jpeg)
+![](images/image464.jpeg)
 
-![](image465.jpeg)
+![](images/image465.jpeg)
 
-![](image466.jpeg)
+![](images/image466.jpeg)
 
 *Patenschaft mit Italien*
 
@@ -1990,37 +1990,37 @@ Auch mit einer italienischen Schule gab es eine Patenschaft. Der genaue Ort nich
 
 Hier die Bilder aus dem italienischen Album:
 
-![](image467.jpeg)
+![](images/image467.jpeg)
 
-![](image468.jpeg)
+![](images/image468.jpeg)
 
-![](image469.jpeg)
+![](images/image469.jpeg)
 
-![](image470.jpeg)
+![](images/image470.jpeg)
 
-![](image471.jpeg)
+![](images/image471.jpeg)
 
-![](image472.jpeg)
+![](images/image472.jpeg)
 
-![](image473.jpeg)
+![](images/image473.jpeg)
 
-![](image474.jpeg)
+![](images/image474.jpeg)
 
-![](image475.jpeg)
+![](images/image475.jpeg)
 
-![](image476.jpeg)
+![](images/image476.jpeg)
 
-![](image477.jpeg)
+![](images/image477.jpeg)
 
-![](image478.jpeg)
+![](images/image478.jpeg)
 
-![](image479.jpeg)
+![](images/image479.jpeg)
 
-![](image480.jpeg)
+![](images/image480.jpeg)
 
-![](image481.jpeg)
+![](images/image481.jpeg)
 
-![](image481.jpeg)
+![](images/image481.jpeg)
 
 ### Mienchen und Rudolf
 
@@ -2066,13 +2066,13 @@ Alle im Ort amüsierten sich darüber, denn schon am nächsten Morgen hatte der 
 
 > Quelle: Alte Strinzer Chronik / Kirchenchronik, Pfarrer Schilp
 
-![](image482.png)
+![](images/image482.png)
 
 ### Strinzer Jesus zu Geld gemacht
 
 Boden 3 / Regal 87 / Inventar-Nr. 37/36
 
-![](image483.jpeg)
+![](images/image483.jpeg)
 
 Nüchterner kann der Aufenthaltsort einer Christus-Statur wohl nicht beschrieben werden. Doch was hat es damit auf sich?
 
@@ -2110,7 +2110,7 @@ Maulwurf nichts davon merkte, wurde die Stelle wieder gut mit Erde abgedeckt. Be
 
 Die Fallensteller waren oft Buben im Alter von 10 – 14 Jahren. Diese haben in den Fangmonaten April bis August täglich die Fallen geleert und die Beute bei einem von der Gemeinde beauftragten Bauern abgeliefert, der die jeweilige Anzahl in eine Liste eintragen musste.
 
-![](image484.jpeg)
+![](images/image484.jpeg)
 
 *Maulwurffallen (Foto: Schwarzer)*
 
@@ -2124,7 +2124,7 @@ Heute existiert noch eine Maulwurf-Fangliste aus dem Jahre 1937. Diese belegt, d
 
 ### Die Strinzer Holzmaschine
 
-![](image485.jpeg)
+![](images/image485.jpeg)
 
 Bei der Strinzer Holzmaschine handelte es sich um eine große fahrbare Bandsäge, angetrieben von einem Einzylinder Deutz Dieselmotor, mit Verdampfungskühlung und einer Leistung von 8 PS. Sie hatte ein einfaches Getriebe mit Vor- und Rückwärtsgang und Riemenkupplung und war damit manövrierfähig.
 
@@ -2148,9 +2148,9 @@ Die Räder dieses "Ungetüms" stammen von einem Halbkettenfahrzeug aus dem 2. We
 
 Im Freilichtmuseum Hessenpark existiert heute noch eine baugleiche Maschine, die ich fotografiert habe:
 
-![](image486.jpeg)
+![](images/image486.jpeg)
 
-![](image487.jpeg)
+![](images/image487.jpeg)
 
 *Die Holzmaschine aus dem Hessenpark*
 
@@ -2194,19 +2194,19 @@ Strinz-Margarethä kann wirklich auf seine neue Schule mit Stolz blicken, die nu
 
 > Quelle: Zeitgenössische Zeitungsausschnitt / Verlag unbekannt
 
-![](image488.jpeg)
+![](images/image488.jpeg)
 
 *Einweihung der neuen Schule*
 
-![](image489.jpeg)
+![](images/image489.jpeg)
 
-![](image490.jpeg)
+![](images/image490.jpeg)
 
 *Schulklasse mit Leher Böhm Schulklasse mit Lehrer Witt*
 
-![](image491.jpeg)
+![](images/image491.jpeg)
 
-![](image492.jpeg)
+![](images/image492.jpeg)
 
 *Wie ging es weiter?*
 
@@ -2226,7 +2226,7 @@ Im Jahre 1982 zieht die Sonderschule nach Breithardt um.
 
 Da die im 19. Jahrhundert erbaute Strinzer Kirche in die Jahre gekommen war, musste diese in den 60er Jahren des 20. Jahrhunderts umfangreich renoviert werden. Die Kirche wurde seinerzeit auf einem alten Friedhof errichtet. Sie war seinerzeit ohne jegliche Isolierung direkt "auf den Boden" gesetzt worden.
 
-![](image493.jpeg)
+![](images/image493.jpeg)
 
 In 3 Bauabschnitten wurde die Kirche renoviert.
 
@@ -2274,7 +2274,7 @@ Mehrere Wehren im Einsatz
 Keuchend legten die Feuerwehrmänner die Schläuche - aber da fehlte es an Wasserdruck im Ortsnetz. Schnelle eine Bachstauung - endlich zischte es aus den Strahlrohren in die hochlodernde Glut. Die Funken gefährdeten das Wohnhaus - ausräumen, schnell! Männer, Frauen schleppten Hausrat, Möbel, Betten heraus.
 Als erste Nachbarwehr traf die aus Niederlibbach ein, die Wiesbadener Berufsfeuerwehr kam mit einem Löschzug, ebenso die Motorlöschautos von Bad Schwalbach und Idstein, die Wehren aus Hambach, Steckenroth, Hennethal, Breithardt, die Werkswehr der Michelbacher Hütte mit Bezirksbrandmeister Schramm, der dann das Kommando übernahm.
 
-![](image494.jpeg)
+![](images/image494.jpeg)
 
 *Schlepper beleuchten den Unglücksort*
 
@@ -2322,15 +2322,15 @@ Im Jahre 1961 wurde erstmals zur Teilnahme an dem Wettbewerb "Unser Dorf soll sc
 
 > Quelle: Heimatjahrbuch - Der Untertaunus, 1962
 
-![](image495.jpeg)
+![](images/image495.jpeg)
 
-![](image237.jpg)
+![](images/image237.jpg)
 
-![](image496.jpg)
+![](images/image496.jpg)
 
-![](image497.jpg)
+![](images/image497.jpg)
 
-![](image498.png)
+![](images/image498.png)
 
 ### Das alte Spritzenhaus muss weg
 
@@ -2342,15 +2342,15 @@ Das Spritzenhaus hatte eine Fläche von 15 qm (6 m lang, 2,50 m breit, 3m hoch).
 
 Impressionen:
 
-![](image499.jpeg)
+![](images/image499.jpeg)
 
-![](image500.jpeg)
+![](images/image500.jpeg)
 
-![](image501.jpeg)
+![](images/image501.jpeg)
 
-![](image502.jpeg)
+![](images/image502.jpeg)
 
-![](image503.jpeg)
+![](images/image503.jpeg)
 
 - Bild 1: Das Spritzenhaus im Jahre 1965
 - Bild 2: Gewitter am Spritzenhaus
@@ -2367,7 +2367,7 @@ Am 18.02.1985 berichtete der Wiesbadener Kurier:
 
 "So blieb es mal wieder einmal den kleinen Vereinen und Gruppierungen überlassen, Glanzpunkte zu setzen. Ganz vorneweg dabei die Leut` aus StM. Ihr Karussell blieb konkurrenzlos."
 
-![](image504.jpeg)
+![](images/image504.jpeg)
 
 *Das "Willimobil" bei der 800-Jahr-Feier 1984*
 
@@ -2421,7 +2421,7 @@ Die Empörung über die Entscheidung der Landesregierung ebbte schnell ab. Der G
 
 > Quelle: Hessisches Staatsarchiv / Wiesbaden
 
-![](image505.jpeg)
+![](images/image505.jpeg)
 
 ### Die neue Glocke
 
@@ -2439,15 +2439,15 @@ Zu einem Festtag für die ganze Gemeinde gestaltete sich die feierliche Einholun
 
 Es gab in der Gemeinde wohl kaum einen Einwohner, der nicht der feierlichen Einholung der neuen Kirchenglocke beiwohnte. In langem Zuge holte man die Glocke unter dem Vorantritt der Schulkinder mit Lehrer Witt, den Fahnen der beiden Ortsvereine, dem Bürgermeister und der Gemeindevertretung, sowie eines Großteils der Einwohnerschaft in den Ort ein. Auf einem Lastkraftwagen wurde die festlich dekorierte Glocke durch den Ort gefahren, beiderseits flankiert von den ganz in Weiß gekleideten Ehrenjungfrauen. Mit dankbarem Herzen säumten die Einwohner der Gemeinde den Straßenrand, als die neue Glocke, die im Verein mit der aus dem Jahre 1450 stammenden alten Glocke, das frühere Geläut wiederherstellen soll, durch den Ort gefahren wurde.
 
-![](image506.jpeg)
+![](images/image506.jpeg)
 
-![](image507.jpeg)
+![](images/image507.jpeg)
 
-![](image508.jpeg)
+![](images/image508.jpeg)
 
 *Einzug der Glocke*
 
-![](image509.jpeg)
+![](images/image509.jpeg)
 
 *Feierlichkeiten*
 
@@ -2497,7 +2497,7 @@ Muss noch recherchiert werden.
 
 Am 08.10.1977 stürzt ein Starfighter der Bundesluftwaffe ins Strinzer Feld. Hier der Bericht aus dem Wiesbadener Kurier:
 
-![](image510.jpeg)
+![](images/image510.jpeg)
 
 *Starfighter" explodiert - Piloten unverletzt*
 
@@ -2527,7 +2527,7 @@ Mit diesem Absturz verlor die Bundeswehr ihren 191. "Starfighter" vom Typ F 104.
 
 Seinerzeit wurden die vielen Starfighterabstürze zum Politikum. Deshalb sollten nur wenige Informationen an die Öffentlichkeit dringen. Dies führte dazu, dass die Absturzstellen erst wieder freigegeben wurden, wenn die Unfallstelle penibel geräumt war. Trotzdem schafften es die Behörden nicht, diese "Besenrein" zu säubern. Deshalb ist es möglich noch Kleinstteile zu finden. Das hier abgebildete Bruchstück, was seinerzeit direkt nach der Geländefreigabe von Helmut Hartwig gefunden wurde, misst gerade einmal 2 cm. Es ist ein Zeugnis dafür, wie stark die Explosion gewesen sein muss, die den Starfighter beim Aufprall zerstörte.
 
-![](image511.jpeg)
+![](images/image511.jpeg)
 
 *Ein Stückchen Starfighter*
 
@@ -2535,7 +2535,7 @@ Fund der Blackbox nach 40 Jahren.
 
 Im Jahre 2019 wurde dieses Aufzeichnungsgerät bei Aufräumarbeiten auf einem Strinzer Speicher wiederentdeckt. Dieses wurde einige Jahre nach dem Absturz von einem Strinzer Jungen entdeckt, mit nach Hause genommen und dann vergessen.
 
-![](image512.jpeg)
+![](images/image512.jpeg)
 
 Das Gerät wurde mir nach erneutem Fund geschenkt. Da ich bei näherem Hinsehen noch Tonbänder in dem Gerät gefunden habe, habe ich dieses der Bundesluftwaffe gemeldet.
 
@@ -2549,7 +2549,7 @@ Strinz-Margarethä, 22.02.2019.
 
 Ein Stück „Starfighter“ taucht nach über 40 Jahren im Untertaunus auf. Und damit auch ein Stück Fluggeschichte der Bundeswehr. Angefangen hat es aber mit einer kleinen gelben Metallkiste...
 
-![](image513.jpeg)
+![](images/image513.jpeg)
 
 Der Starfighter mit der Kennung 28 18, der 1977 abgestürzt ist.
 
@@ -2557,19 +2557,19 @@ Der Starfighter mit der Kennung 28 18, der 1977 abgestürzt ist.
 
 Da staunte Frank Schwarzer, als ein Nachbar vor der Tür seines Hauses in Strinz-Margarethä stand. Dieser hatte ein Stück eines F-104 „Starfighters“ in der Hand. Das Flugzeug war vor über 40 Jahren über dem kleinen Ort im südhessischen Taunus abgestürzt. Auf den ersten Blick eine unscheinbare gelbe Metallkiste, die allerdings den Flugdatenschreiber der abgestürzten F-104 enthält. Und damit ein Stück Geschichte der Luftwaffe.
 
-![](image514.jpeg)
+![](images/image514.jpeg)
 
 *Der Flugdatenschreiber des Starfighter 28 18. (Quelle: Luftwaffe/Frank Schwarzer)*
 
 „Der Nachbar hat sie als Kind im Bach in der Nähe der Unglücksstelle gefunden“, berichtet Schwarzer, der die Geschichte des kleinen Ortes aufarbeitet. „Da ich ein kleines Heimatmuseum habe“, so Frank Schwarzer weiter, „war ich wohl nach all den Jahren der richtige Ansprechpartner für diesen Fund.“ Offenbar wurde damals bei den Aufräumarbeiten etwas übersehen. Oder der Nachbar war einfach schneller. „Ich hab‘ ihn besser nicht gefragt“, sagt Schwarzer und lacht.
 
-![](image515.jpeg)
+![](images/image515.jpeg)
 
 *Die Unfallstelle im Jahr 1977. (Quelle: Bundeswehr/GenFlSichhBw)*
 
 Viele im Ort können sich an den 7. Oktober 1977, den Tag des Absturzes, noch gut erinnern. Tiefflüge waren damals alltäglich für die kleine Gemeinde im Untertaunus. Erst die ungewöhnlichen Geräusche des Jets mit der Bundeswehr-Kennung 28+18 schreckten die Einwohner auf. Sie hörten laute Explosionen. Der folgende Absturz dann eine Sache von Sekunden. Die Piloten konnten sich mit dem Schleudersitz retten. Und landeten per Fallschirm. „Auch, wenn ich alt genug bin“, sagt der 54-jährige Schwarzer, „kenne ich den Tag nur aus Erzählungen und Zeitungsberichten.“ Und jetzt hält der Heimathistoriker ein Stück dieser Geschichte in Form einer Metallkiste in der Hand.
 
-![](image516.jpeg)
+![](images/image516.jpeg)
 
 *Robert Doniat Ende der 70-er Jahre im Starfighter. (Quelle: Robert Doniat/Archiv)*
 
@@ -2579,7 +2579,7 @@ Ebenfalls gut an den Tag erinnern kann sich Robert Doniat, Oberstleutnant der Re
 
 Der Starfighter, mit nur einem Triebwerk konstruiert, war nicht dafür gebaut, ohne Schub in der Luft zu bleiben. Die Stummelflügel brachten wenig Auftrieb. Selbst zur Landung musste das Triebwerk die nötige Geschwindigkeit liefern. Diese Form brachte dem Flugzeug jene markante Raketenform, die fast jeder schon einmal gesehen hat. Aber sie machte es auch zum Gegenteil eines Segelfliegers. Und ließen die F-104 binnen Sekunden auf ein Feld stürzen.
 
-![](image517.jpeg)
+![](images/image517.jpeg)
 
 *Die Unfallstelle in Strinz-Margarethä. (Quelle: Bundeswehr/GenFlSichhBw)*
 
@@ -2587,13 +2587,13 @@ Explosionen am Himmel
 
 Viele Anwohner glaubten an eine Explosion des Flugzeugs. „Der doppelte Knall waren jedoch unsere beiden Schleudersitze, mit denen wir uns aus dem Flugzeug schossen“, erzählt Doniat. Der Raketenantrieb der Sitze garantierte einen Sicherheitsabstand zum abstürzenden Flieger. Nicht alle Piloten des Starfighters hatten so viel Glück wie Robert Doniat und Hauptmann Gerhard Lohde, der vor ihm saß und das Flugzeug steuerte: Die Mehrheit der Abstürze endete damals tödlich. Von 916 Maschinen stürzten 269 ab und 116 Piloten kamen dabei ums Leben. Dies brachte dem Flugzeug in den 60-er Jahren den unschönen Namen „Witwenmacher“ ein. Eine Unglücksrate, die heute in der Luftwaffe völlig undenkbar ist.
 
-![](image518.jpeg)
+![](images/image518.jpeg)
 
 *Trümmerteile auf dem Feld. (Quelle: Bundeswehr/GenFlSichhBw)*
 
 Die Berichte in den Zeitungen zum Absturz waren geprägt von der Zeit und den Diskussionen um die F-104. So ist etwa von den „glücklichsten Menschen der Welt die Rede“, wenn es um die beiden Piloten geht. Robert Doniat ist auch heute noch sehr professionell und wirkt fast gelassen, wenn er zurückdenkt: „Natürlich waren wir glücklich, dass alles recht glimpflich abgelaufen ist. Aber es war auch beruhigend zu wissen, dass alles funktioniert. Man konnte sich auf die Technik verlassen.“ Nur sehr wenige Piloten mussten mehr als einmal aus dem Starfighter „aussteigen“. „Kein angenehmes Gefühl, wenn das komplette Rückgrat zusammengestaucht wird“, erinnert er sich. „Aber es blieb bei dem einen Mal - und eine Erfahrung, aus der wir gelernt haben.“
 
-![](image519.jpeg)
+![](images/image519.jpeg)
 
 *Robert Doniat heute. (Quelle: Robert Doniat/Archiv)*
 
@@ -2601,13 +2601,13 @@ Liebe und Privileg
 
 Der Zuneigung der Piloten zu „ihrem“ Starfighter konnten die Abstürze nichts anhaben. Sie liebten das Flugzeug, wie auch Doniat ohne Zögern zugibt. Schließlich war die F-104 „das Höchste, was man in der Bundeswehr fliegen konnte“, wie er berichtet. Verständlich, gab es doch zu dieser Zeit kein Flugzeug, das schneller oder höher flog. Der Starfighter brach alle Rekorde. Noch heute, so erzählt Doniat, der sich auch als Reservist engagiert, treffen sich bei der ILA (Internationale Luft- und Raumfahrtausstellung Berlin) die ehemaligen Starfighter-Piloten. „Ein Zusammenhalt“, sagt Doniat mit Stolz, „den man bei keinem anderen Flugzeug hat.“ Offensichtlich empfanden es viele als Privileg, diesen Jet fliegen zu dürfen. Trotz, oder gerade wegen, der Schwierigkeiten und der Gefahr. Die F-104, so hieß es, verzeihe keine Fehler.
 
-![](image520.jpeg)
+![](images/image520.jpeg)
 
 *Das Innenleben des Flugschreibers. (Quelle: Luftwaffe/Frank Schwarzer)*
 
 Die kleine gelbe Metallkiste, das letzte „überlebende“ Bauteil der 28+18, hat Frank Schwarzer jetzt der Luftwaffe übergeben. Eine Auswertung ist nicht mehr notwendig, der Unfall ist längst geklärt. Aber der Flugschreiber wird – jetzt Teil der Geschichte der Luftwaffe – im Militärhistorischen Museum Flugplatz Berlin-Gatow ausgestellt. Kaum 100 Meter von einem Starfighter entfernt, der dort als Ausstellungsstück steht. Die schlanke Spitze Richtung Himmel. So als wäre er eigentlich gar nicht auf dem Boden. Sondern würde einfach weiterfliegen.
 
-![](image521.jpeg)
+![](images/image521.jpeg)
 
 Frank Schwarzer übergibt Oberstabsfeldwebel Karl-Heinz Reinberg die „gelbe Kiste“.
 
@@ -2625,7 +2625,7 @@ In der Folge gehört StM zur preußischen Provinz Hessen-Nassau. Laut Strinzer C
 
 Da die Strinzer nun "echte Preußen" sind, werden die männlichen Bürger fortan zum preußischen Militärdienst herangezogen und zwar in die sogenannte Reserve. Dies, nachdem sie sich einer Musterung unterzogen haben.
 
-![](image522.jpeg)
+![](images/image522.jpeg)
 
 In der preußischen Armee wurden Reserveeinheiten aufgebaut, um in einem möglichen Krieg die Berufssoldaten zu unterstützen.
 
@@ -2639,19 +2639,19 @@ Reservistenflasche
 
 Reservistenflasche von August Fuhr (Vorder- und Rückseite)
 
-![](image523.jpeg)
+![](images/image523.jpeg)
 
 *Reservistenbilder*
 
-![](image524.jpeg)
+![](images/image524.jpeg)
 
-![](image525.jpeg)
+![](images/image525.jpeg)
 
 Bild 1 zeigt den Strinzer Reinhard Kugelstadt auf seinem Abschiedsfoto (Reservistenbild) von der 10. Companie Königin Augusta/Berlin, Garde-Grenadier-Regiment Nr. 4, bei dem er von 1902 - 1904 diente.
 
 Bild 2 zeigt den Strinzer Bürger August Fuhr auf dem Reservistenbild der Versuchskompanie der Artillerie / Prüfungskommission, Schießplatz Cummersdorf-Berlin. Dieser Einheit gehörte Fuhr von 1902 bis 1904 an.
 
-![](image526.jpeg)
+![](images/image526.jpeg)
 
 Ein in der Gemarkung gefundener Reservisten-Pfeifenkopf aus der Zeit um 1900.
 
@@ -2663,7 +2663,7 @@ Vorahnung
 
 Am 14. Juni 1914 feiern die ca. 350 Einwohner des kleinen Taunusdörfchen Strinz-Margarethä ausgelassen das 10. Stiftungsfest des Turnvereins. Die Lage zwischen Deutschland und seiner Nachbarstaaten ist angespannt. In der Festrede werden deshalb die aktuellen Völkerverhältnisse zum Anlass genommen, um auf die deshalb erforderliche Ertüchtigung der jungen Leute zu verweisen, fast so, als würde man mit einem baldigen Krieg rechnen. Wie schnell die Vorhersehungen des Redners eintreffen werden, konnte zu diesem Zeitpunkt niemand ahnen.
 
-![](image527.png)
+![](images/image527.png)
 
 Nur zwei Wochen später wird der Thronfolger Österreich-Ungarns, Erzherzog Franz Ferdinand, und seine Gemahlin Sophie Chotek, bei einem Staatsbesuch in Sarajevo ermordet. Dieser Mord führt zur Kriegserklärung Österreichs-Ungarns an Serbien und somit zum Beginn des 1. Weltkrieges. Als Verbündeter der Österreicher greift Deutschland am 1. August in den Krieg ein. Das beschauliche Leben der Strinzer Bürger wird sich von nun an rapide verändern.
 
@@ -2679,7 +2679,7 @@ Die ersten militärpflichtigen Männer verlassen den Ort, um an die Front nach F
 
 Ein Maurer, der mit dem Bau einer Scheune in der heutigen Schulstraße begonnen hatte, musste seine Arbeit, nachdem er bereits die Grundmauern erstellt und mit dem Datum 1914 und den Initialen des Hauseigentümers versehen hatte, unterbrechen, da auch er eingezogen wurde. Er selbst wird den Bau nicht mehr zu Ende bringen.
 
-![](image528.jpeg)
+![](images/image528.jpeg)
 
 Insgesamt werden es 78 Strinzer Männer sein, die im Krieg eingesetzt werden. Einige werden nicht mehr zurückkehren.
 
@@ -2703,7 +2703,7 @@ Im Februar 1915 werden z.B. sämtliche Getreidevorräte und Mehl beschlagnahmt. 
 
 In diesem Monat wird den Einwohnern der Schrecken des Krieges besonders vergegenwärtigt, als die Meldung vom ersten gefallenen Strinzer, Adolf Christmann, die Runde macht, der bei der Erstürmung des Mont-Tetu in Frankreich zu Tode kommt.
 
-![](image529.jpeg)
+![](images/image529.jpeg)
 
 *(Siehe auch unter: Tod am Mont Tetu)*
 
@@ -2729,7 +2729,7 @@ Im Februar 1916 wird der Gefallene Reinhard Walter unter großer Anteilnahme der
 
 Nachdem die letzten verfügbaren Metallvorräte abgegeben sind, werden im Januar 1917 die Zinnprospektpfeifen der Orgel beschlagnahmt.
 
-![](image530.png)
+![](images/image530.png)
 
 Auch wenn im Februar noch Schweine zum Schlachten im Ort vorhanden sind ist das Schlachtergebnis doch sehr dürftig. So berichtet der Pfarrer in die Kirchenchronik:
 
@@ -2877,7 +2877,7 @@ Weihe der neuen Glocke am 15. Mai, 1. Pfingstfeiertag.
 
 > Quelle: Programm zur Glockenweihe / Archiv der Gemeinde Hohenstein
 
-![](image531.jpeg)
+![](images/image531.jpeg)
 
 ### Granatennagelungen in Strinz
 
@@ -2895,37 +2895,37 @@ Im Gemeindearchiv Hohenstein existiert noch das Sammelbuch aus dieser Zeit, in d
 
 Hier ein Auszug aus dem Sammelbuch
 
-![](image532.jpeg)
+![](images/image532.jpeg)
 
-![](image533.jpeg)
+![](images/image533.jpeg)
 
-![](image534.jpeg)
+![](images/image534.jpeg)
 
 ### Tod am Mont Tetu
 
 Höhe 191, eine schnöde Bezeichnung für einen Berg in Frankreich, der zur Todesfalle für den Strinzer Soldaten Adolf Christmann werden soll.
 
-![](image529.jpeg)
+![](images/image529.jpeg)
 
 03. Februar 1915, irgendwo in Frankreich, genauer gesagt, irgendwo bei Massiges. Die 5. Kompanie des Reserve-Infanterie-Regiment Nr. 80 steht bereit, um einen Hügel zu erstürmen, der die höchste Erhebung der „Hand von Massiges“ darstellt, den, wie die Deutschen ihn nennen „Kanonenberg“. Die Franzosen nennen ihn "Mont Tetu". Dieser Hügel gilt als strategisch wichtig, da man von ihm aus das nähere Umland bestens einsehen kann.
 
-![](image535.jpeg)
+![](images/image535.jpeg)
 
 *Lage von Massiges*
 
 Der Mont Tetu
 
-![](image536.jpeg)
+![](images/image536.jpeg)
 
 Noch wird die Höhe 191 von französischen Truppen besetzt. Doch man will die Höhe nicht einfach so erstürmen. Die militärische Führung hat sich vorgenommen, vor dem Sturm, die Franzosen im wahrsten Sinne des Wortes in die Luft zu jagen. Dazu werden 6 Stollen in den Berg - bis unter die gegnerischen Linien - getrieben. Es sollten aber später nur 4 Stollen zur Sprengung gebracht werden. Die Franzosen wissen von den Grabungen und können einen Stollen durch innere Sprengung vorzeitig zerstören. Ein anderer Stollen wird durch die Deutschen gesprengt, um einen darunterliegenden französischen Stollen abzuquetschen. Nach Fertigstellung der Stollen werden diese in mehreren Nächten mit insgesamt 300 Zentner Schwarzpulver und Dynamit gefüllt. Am 01. Februar 1915 sind die Stollen sprengfertig.
 
-![](image537.png)
+![](images/image537.png)
 
 Um 06:00 Uhr in der Früh beginnt die deutschen Artillerie die französische Befestigungslinie konzentriert mit Haubitzen, Feldkanonen und schweren Mienenwerfern zu beschießen.
 
 Ab 11:50 wird das Feuer noch einmal verstärkt.
 
-![](image538.png)
+![](images/image538.png)
 
 *Foto einer Tunnelsprengung*
 
@@ -2933,7 +2933,7 @@ Genau um 12:00 Uhr werden die Sprengladungen in den Stollen gezündet und jagen 
 
 Unmittelbar nach der Explosion, steigen die Deutschen aus ihren Schützengräben und beginnen mit der Erstürmung, unter Umgehung der tiefen Trichter. Die 5. Kompanie von Adolf Christmann, unter Führung von Leutnant d. L. Kilburg, hat die Aufgabe, auf dem rechten Flügel bis zu den äußeren Gräben auf dem Südhang der Höhe vorzurücken.
 
-![](image539.jpeg)
+![](images/image539.jpeg)
 
 Viele überlebende Franzosen sind so geschockt von den Detonationen, dass sie sich ohne Gegenwehr gefangen nehmen lassen. Andere kämpfen erbittert gegen die heranstürmenden Deutschen. Am Ende erringen die Deutschen die Überhand. Um 16:00 ist die Höhe 191 fest in deutscher Hand. Von den Franzosen werden 4 Offiziere und 150 Mann gefangen genommen und viele Waffen erbeutet.
 
@@ -2941,9 +2941,9 @@ Das Vorgehen bleibt aber nicht ohne Verluste auf deutscher Seite. 3 Offiziere un
 
 Das Schlachtfeld selbst bietet einen schrecklichen Anblick. Die meisten Schützengräben brechen unter den Druckwellen, die die Explosionen verursachen, in sich zusammen. Überall liegen Hunderte von Toten, Massen von Waffen, Ausrüstung und Munition.
 
-![](image540.png)
+![](images/image540.png)
 
-![](image541.jpeg)
+![](images/image541.jpeg)
 
 Gräber deutscher Soldaten unmittelbar am Krater Vernehmung eines französischen Capitain nach der Schlacht
 
@@ -2995,7 +2995,7 @@ Quelle: Armee-Verordnungsblatt / Ausgabe 867 / Verlustliste vom 28. Januar 1916)
 Christmann, Adolf
 Adolf Christmann diente in der 5. Kompanie des Reserve-Infanterie-Regiment Nr. 80 im Range eines Musketiers.
 
-![](image542.jpeg)
+![](images/image542.jpeg)
 
 Er fiel am 03.02.2015 beim Sturm auf die französischen Stellungen am Mont Tetu in Frankreich. Er war der erste Strinzer, der im 1. Weltkrieg gefallen ist.
 
@@ -3014,7 +3014,7 @@ Quelle: Gemeinde
 Deuser, Adolf
 Adolf Deuser wurde durch einen Unfall schwer verletzt und starb am 25.06.2017. Quelle: Deutsche Verlustlisten / B 380 / 16.04.1918
 
-![](image543.jpeg)
+![](images/image543.jpeg)
 
 Der von hier gebürtige Schlosser Adolf Deuser z. Zt. wohnhaft gewesen mit seiner Familie in Wiesbaden, ist in der letzten Woche leider durch einen Unfall beim Heere um sein Leben gekommen. Er war von der Stadt aus reklamiert und wäre also in nächster Zeit zurückgekommen.
 
@@ -3024,7 +3024,7 @@ Deuser, K.
 K. Deuser überlebte den Krieg
 Quelle: Gemeinde
 
-![](image544.jpeg)
+![](images/image544.jpeg)
 
 Deuser, Richard
 Richard Deuser wurde am 15.06.18 als schwer verwundet gemeldet.
@@ -3066,7 +3066,7 @@ Enders, Philipp
 Phillip Enders überlebte den Krieg.
 Quelle: Gemeinde
 
-![](image545.jpeg)
+![](images/image545.jpeg)
 
 Enders, Wilhelm
 Wilhelm Enders hat den Krieg überlebt.
@@ -3076,7 +3076,7 @@ Faust, Emil
 Emil Faust starb am 06.09.17 nach Krankheit.
 Quelle: Deutsche Verlustlisten / Nr. 995 / 22.11.17 + Gemeinde
 
-![](image546.jpeg)
+![](images/image546.jpeg)
 
 Fey, Ludwig
 Ludwig Fey überlebte den Krieg
@@ -3086,7 +3086,7 @@ Fuhr, Adolf
 Adolf Fuhr diente in der 8. Kompanie (Regiment unbekannt)
 Er wurde einmal leicht verwundet und kehrte nach dem Krieg nach StM zurück. Quelle: Deutsche Verlustlisten / Pr 482 / 17.03.16 + Gemeinde
 
-![](image547.jpeg)
+![](images/image547.jpeg)
 
 Fuhr, August
 August Fuhr überlebte den Krieg.
@@ -3094,7 +3094,7 @@ Quelle: Gemeinde
 
 Fuhr, Wilhelm
 
-![](image548.jpeg)
+![](images/image548.jpeg)
 
 *Wilhelm Fuhr fiel am 30.11.1917*
 
@@ -3104,7 +3104,7 @@ Funk, H.
 H. Funk überlebte den Krieg.
 Quelle: Gemeinde
 
-![](image549.jpeg)
+![](images/image549.jpeg)
 
 Grulke, Max
 Der Landsturmmann Max Grulke wurde am 11.05.1915 als schwer verwundet gemeldet.
@@ -3113,7 +3113,7 @@ Quelle: Deutsche Verlustlisten / Pr 221 / 11.05.15
 Gräter, August
 August Gräter diente als Seesoldat der Seewehr I der Kaiserliche Marine und wurde am 16.07.1915 als schwer verwundet gemeldet. Er starb aber schon am 16.07.1915. Quelle: Deutsche Verlustlisten / Pr 308 - M 44 / 28.08.15 + Gemeinde
 
-![](image550.jpeg)
+![](images/image550.jpeg)
 
 Gräter, Gustav
 Gustav Gräter überlebt den Krieg.
@@ -3127,7 +3127,7 @@ Guckes, Wilhelm
 Wilhelm Guckes überlebte den Krieg.
 Quelle: Gemeinde
 
-![](image551.jpeg)
+![](images/image551.jpeg)
 
 Guckes, Adolf
 Adolf Guckes überlebte den Krieg.
@@ -3137,13 +3137,13 @@ Hankammer, Adolf
 Adolf Hankammer überlebte den Krieg.
 Quelle: Gemeinde
 
-![](image552.jpeg)
+![](images/image552.jpeg)
 
 Hankammer, August I
 August Hankammer überlebte den Krieg.
 Er wurde nach dem Krieg mit dem "Ehrenkreuz des Weltkrieges" ausgezeichnet. Quelle: Gemeinde / Privat
 
-![](image553.jpeg)
+![](images/image553.jpeg)
 
 Hankammer, August II
 August Hankammer überlebte den Krieg.
@@ -3153,9 +3153,9 @@ Hankammer, Reinhardt I
 Reinhardt Hankammer überlebte den Krieg.
 Quelle: Gemeinde
 
-![](image554.jpeg)
+![](images/image554.jpeg)
 
-![](image555.jpeg)
+![](images/image555.jpeg)
 
 Hankammer, Reinhardt II
 Reinhardt Hankammer überlebte den Krieg.
@@ -3165,7 +3165,7 @@ Hankammer, Wilhelm
 Wilhelm Hankammer fiel am 21.10.1915
 Quelle: Gemeinde
 
-![](image556.jpeg)
+![](images/image556.jpeg)
 
 Hankammer, Wilhelm
 Der am 23.05.1893 geborene Wilhelm Hankammer diente in der 3. Kompanie des Füsilier-Regiment Nr. 38 im Range eines Unteroffiziers.
@@ -3177,7 +3177,7 @@ Quelle:
 ***Deutsche Verlustlisten / Pr 1345 / 21.01.19
 Gemeinde
 
-![](image557.jpeg)
+![](images/image557.jpeg)
 
 Hankammer, Wilhelm Ludwig
 Wilhelm Ludwig Hankammer überlebte den Krieg.
@@ -3203,11 +3203,11 @@ Hanson, Reinhardt
 Der Sergeant Reinhardt Hanson wurde am 04.11.18 als gefallen gemeldet.
 Quelle: Deutsche Verlustlisten / Pr 1285 / 04.11.18 + Gemeinde
 
-![](image558.jpeg)
+![](images/image558.jpeg)
 
 Hartwig, A.
 
-![](image559.jpeg)
+![](images/image559.jpeg)
 
 A. Hartwig hat den Krieg überlebt
 Quelle: Gemeinde
@@ -3216,13 +3216,13 @@ Hartwig, K.
 K. Hartwig hat den Krieg überlebt.
 Quelle: Gemeinde
 
-![](image560.jpeg)
+![](images/image560.jpeg)
 
 Heiler, Karl
 Karl Heiler überlebte den Krieg.
 Quelle: Gemeinde
 
-![](image561.jpeg)
+![](images/image561.jpeg)
 
 Heinzmann, Rudolf
 Rudolf Heinzmann wurde am 18.09.17 als verwundet gemeldet.
@@ -3235,7 +3235,7 @@ Heinzemann, Moritz
 Moritz Heinzemann diente in der 11. Kompanie einer unbekannten Einheit und fiel am 16.05.1915.
 Quelle: Deutsche Verlustlisten / Pr 451 / 10.02.16 + Gemeinde
 
-![](image562.jpeg)
+![](images/image562.jpeg)
 
 Herdling, Reinhardt
 Reinhardt Herdling hat den Krieg überlebt.
@@ -3288,7 +3288,7 @@ Müller IX, Wilhelm
 Wilhelm Müller diente in der 11. Kompanie einer unbekannten Einheit. Er fiel am 05.06.1916.
 Quelle: Deutsche Verlustlisten / Pr 606 / 14.08.16 + Gemeinde
 
-![](image563.jpeg)
+![](images/image563.jpeg)
 
 Paulsen, Julius
 Der am 19.08.1889 geborene Julius Paulsen diente in der 10. Kompanie des Infanterie Regiment Nr. 159. Er wurde zuerst als vermisst gemeldet, bis sich herausstellte, dass er in Gefangenschaft geraten ist.
@@ -3312,7 +3312,7 @@ Quelle: Gemeinde
 
 Petri, Wilhelm
 
-![](image564.jpeg)
+![](images/image564.jpeg)
 
 Der am 16.01.1898 geborene Wilhelm Petri wurde im Krieg leicht verwundet.
 
@@ -3320,7 +3320,7 @@ Den Krieg selbst hat er überlebt.
 
 Quelle: Deutsche Verlustlisten / Pr 907 / 10.08.17 + Gemeinde
 
-![](image565.png)
+![](images/image565.png)
 
 Plank (Plant), Adolf
 Adolf Plank diente in der 12. Kompanie des Infanterieregiments Nr. 171. Er wurde zuerst als vermisst* gemeldet, später als bisher vermisst, in Gefangenschaft** (A. N.).
@@ -3339,7 +3339,7 @@ Rücker, Hermann
 Hermann Rücker überlebte den Krieg
 Quelle: Gemeinde
 
-![](image566.jpeg)
+![](images/image566.jpeg)
 
 Sänger, August
 August Sänger überlebte den Krieg.
@@ -3349,7 +3349,7 @@ Schäfer Wilhelm
 Wilhelm Schäfer überlebte den Krieg.
 Quelle: Gemeinde
 
-![](image567.jpeg)
+![](images/image567.jpeg)
 
 Schauss, Karl
 Karl Schauss wurde im Jahre 1918 als vermisst gemeldet. Ob er den Krieg
@@ -3384,17 +3384,17 @@ Schmidt, Wilhelm
 Wilhelm Schmidt diente in der 6. Kompanie des Reserve Infanterie Regiment Nr. 81. Er wurde im Krieg leicht verletzt.
 Quelle: Deutsche Verlustlisten / Pr 334 / 22.09.15
 
-![](image568.jpeg)
+![](images/image568.jpeg)
 
 Schneider, A.
 A. Schneider überlebte den Krieg.
 Quelle: Gemeinde
 
-![](image569.jpeg)
+![](images/image569.jpeg)
 
 Schneider, A.
 
-![](image570.jpeg)
+![](images/image570.jpeg)
 
 A. Schneider überlebte den Krieg.
 
@@ -3413,13 +3413,13 @@ Karl Rudolf Schneider wurde im Jahre 1916 leicht verwundet gemeldet.*
 Er überlebte den Krieg nicht.
 Quelle: Deutsche Verlustlisten / Pr 654 / 09.10.16 + Gemeinde
 
-![](image571.jpeg)
+![](images/image571.jpeg)
 
 Schneider, Moritz
 Moritz Schneider dient in der 1. Kompanie des Reserve Infanterie Regiment Nr. 67. Er fiel am 03.08.1916.
 Quelle: Deutsche Verlustlisten / Pr 634 / 15.09.16 + Gemeinde
 
-![](image572.jpeg)
+![](images/image572.jpeg)
 
 Seel, Adolf
 Adolf Seel überlebte den Krieg.
@@ -3438,7 +3438,7 @@ Wilhelm Stösinger wurde laut den "Deutsche Verlustlisten" am 29.04.1916 durch e
 Offensichtlich überlebte er den Krieg.
 Quelle: Deutsche Verlustlisten / Pr 1111 / 12.04.18 /Gemeinde
 
-![](image573.jpeg)
+![](images/image573.jpeg)
 
 Thiele, August
 August Thiele diente in der 10. Kompanie des Infanterieregiments Nr. 78.
@@ -3461,7 +3461,7 @@ Wahl, Reinhard
 Reinhard Wahl fiel am 08.09.1916.
 Quelle: Deutsche Verlustlisten / Pr 511 / 20.04.16 + Gemeinde
 
-![](image574.jpeg)
+![](images/image574.jpeg)
 
 Wahl, Reinhard
 Der Gefreite Reinhard Wahl wurde am 04.11.1916 als gefallen gemeldet.
@@ -3473,7 +3473,7 @@ Quelle: Gemeinde
 
 Walter, Reinhard
 
-![](image575.jpeg)
+![](images/image575.jpeg)
 
 Reinhard Walter fiel am 08.02.1916.
 
@@ -3484,7 +3484,7 @@ Der am 21.01.1880 geborene Adolf Weber wurde am 28.09.14 verwundet.
 Er überlebte den Krieg und war von 1919 - 1945 Bürgermeister von Strinz.
 Quelle: Deutsche Verlustlisten / Pr 816 / 24.04.17 + Gemeinde
 
-![](image576.jpeg)
+![](images/image576.jpeg)
 
 Weber, August
 August Weber überlebte den Krieg.
@@ -3494,7 +3494,7 @@ Weber, Karl
 Karl Weber überlebte den Krieg.
 Quelle: Gemeinde
 
-![](image577.jpeg)
+![](images/image577.jpeg)
 
 *Weber, Ludwig*
 
@@ -3533,13 +3533,13 @@ In dieser Box ist quasi die Zeit von 1914 bis 1918 eingefroren worden. Deshalb h
 
 Ich habe die Geschichte des Briefeschreibers ausgewertet und dessen Kriegserlebnisse in einer separaten Ausarbeitung „Briefe von Ludwig“ aufbereitet.
 
-![](image579.jpeg)
+![](images/image579.jpeg)
 
 ### Fahrräderverzeichnis
 
 Im Jahre 1921 wird die Gemeinde von der besetzenden Französischen Rhein-Armee aufgefordert, ein Verzeichnis der zur Requisition geeigneter Fahrräder gemäß Verordnung Nr. 64 der Hohen Interalliierten Kommission zu erstellen. Die Eintragungen haben in alphabetischer Ordnung zu erfolgen. Der Zählung unterliegen nur Herrenfahrräder.
 
-![](image580.jpeg)
+![](images/image580.jpeg)
 
 Diese Aufzählung gibt einen guten Überblick, welche Fahrradmarken in StM vertreten waren.
 
@@ -3570,11 +3570,11 @@ Nachfolgen die Fahrräder im Einzelnen:
 | August Schneider | Landmann | Luft | Naumann/Germania | 1908 |
 | Hermann Schneider | Tüncher | Luft | NSU |   |
 
-![](image581.jpeg)
+![](images/image581.jpeg)
 
 ## Geschichten aus der Zeit des Nationalsozialismus
 
-![](image582.jpg)
+![](images/image582.jpg)
 
 *Nazionalsozialistischer Aufmarsch in der Scheidertalstraße (Zeitstellung und Anlass unbekannt)*
 
@@ -3582,7 +3582,7 @@ Nachfolgen die Fahrräder im Einzelnen:
 
 Der Kontrollwahn der Nationalsozialisten führte dazu, dass die Gemeinden genaueste statistische Erhebungen zu ihrem Ort und der Gemarkung abzuliefern hatten. Solch eine Auswertung aus dem Jahre 1935 ist im Hohensteiner Archiv erhalten geblieben und gibt uns nun genaueste Auskunft über die Zusammensetzung des Ortes im Jahr 1935.
 
-![](image583.jpeg)
+![](images/image583.jpeg)
 
 *Statistische Erhebung zur Standorterforschung von Strinzmargarethä*
 
@@ -3641,7 +3641,7 @@ b) landwirtschaftliche Betriebe: Rinder (0,13), Kühe (2,5), Ochsen (0,05), Pfer
 - Bevölkerungsabwanderung: 1925 - 1935: 36 Einwohner (6 Familien)
 - Bevölkerungszuwanderung: 1925 - 1935: 6 Einwohner (2 Familien)
 - - Gruppe V –
-![](image584.jpeg)
+![](images/image584.jpeg)
 
 *Durchschnittliches Heiratsalter: a) Männer: 27 Jahre / b) Frauen: 23 Jahre*
 
@@ -3729,7 +3729,7 @@ Alle Angaben der Bauern wurden in eigenen Karteikarten geführt.
 
 ### Pfarrer flieht in die Wehrmacht
 
-![](image585.jpeg)
+![](images/image585.jpeg)
 
 Pfarrer hatten es zu Zeiten des Nationalsozialismus nicht einfach. Sie wurden sehr oft angefeindet. So erging es auch dem Strinzer Pfarrer Walter Maus der seit 1936 Pfarrer in Strinz war. Als er 1936 seine Pfarrstelle antrat, über nahm er den Religionsunterricht in der Strinzer Schule. Dies wurde ihm aus politischen Gründen aber untersagt, sodass der Schullehrer wieder den Religionsunterricht übernehmen musste.
 
@@ -3741,7 +3741,7 @@ Pfarrer Maus wurde aber auch ein Opfer des Krieges. Er starb 12. Mai 1945 in Kri
 
 Der kaum erkennbare Bunkereingang
 
-![](image586.jpeg)
+![](images/image586.jpeg)
 
 Beim Einmarsch der Amerikaner, saßen die Strinzer Bürger in Luftschutzbunkern und ausgebauten Kellern.
 
@@ -3755,11 +3755,11 @@ Nachdem in den 90ern Luftschutzbunker in der Eifel einstürzten, wurde beschloss
 
 So hat der Bunker noch heute eine friedliche Funktion. Der Bunkereingang besteht heute noch.
 
-![](image587.jpeg)
+![](images/image587.jpeg)
 
-![](image588.jpeg)
+![](images/image588.jpeg)
 
-![](image589.jpeg)
+![](images/image589.jpeg)
 
 *Zeitgenössiche Bilder vom Bau des Bunkers*
 
@@ -3774,7 +3774,7 @@ das stark ist, zuverlässig, treu, gehorsam und anständig...
 Der kleine Junge wird einmal ein deutscher Soldat werden,
 das kleine Mädchen eine deutsche Mutter“.
 
-![](image590.jpeg)
+![](images/image590.jpeg)
 
 Während der nationalsozialistischen Diktatur wurde die Zahl der Kindergartenplätze in Deutschland mehr als verdoppelt (Versorgungsquote 1941: 31 %).
 
@@ -3814,7 +3814,7 @@ Der Bauer August Christmann fragte auf dem Amtsgericht in Wehen nach, ob er sein
 
 Als in den Jahren 1943/44 die Kriegsfolgen auch unsere Region heimsuchten, und in unvorstellbarem Ausmaß die größeren Städte bombardiert wurden, kam es zu einer enormen Flucht der Menschen aus den Städten auf das Land, in die kleinen Dörfer, die kein Angriffsziel darstellten. Die Zahl der Obdachlosen war allerdings so groß, dass die Unterbringung von der örtlichen Verwaltung nicht organisiert werden konnte, sie wäre damit überfordert gewesen. Da bereits alle Lebensbereiche des Volkes bewirtschaftet und reglementiert waren, war auch diese Sache in der Zuständigkeit des Kreiswohnungsamtes geregelt. Alle Wohnhäuser, meist Bauernhäuser, die von Großfamilien -Großeltern, Eltern und deren Kindern- bewohnt waren, wurden vom Wohnungsamt begutachtet. In der Regel wurde für die Unterbringung der Ausgebombten ein größeres Zimmer beschlagnahmt und Familien mit fünf und auch in Einzelfällen mehr Personen eingewiesen. Die Eigentümer mussten sich nun, so gut es ging, mit „Fremden“ in der Wohnung arrangieren, alles mit ihnen teilen und meist auch mit Lebensmitteln versorgen. Alles zu teilen bedeutete: Wasser, Strom, Heizmaterial für Herd und Ofen sowie das „Plumpsklo“ und vieles mehr. Die Versorgung mit Lebensmitteln war für Alle mit der „Lebensmittelkarte“ geregelt. Selbst für die Bauern, sogenannte Selbstversorger, war die Lebensmittelkarte von Bedeutung, denn sie mussten ihre Erzeugnisse „abliefern“, die über den geregelten Eigenbedarf hinausgingen. Das „Abliefern“ wurde streng kontrolliert, man hatte durch Viehzählungen und über den Anbau der Feldfrüchte genaue Zahlen, auf die die Kontrolleure aufbauen konnten. Mit der Versorgung von Evakuierten, die ihre Lebensmittelmarken entsprechend abgeben mussten, konnte das Ablieferungssoll gemindert werden. Es konnte jedoch oft nicht Alles, was jemand nach der Lebensmittelkarte zustand, geliefert werden, weil es einfach nicht vorhanden war.
 
-![](image591.jpeg)
+![](images/image591.jpeg)
 
 *Das Behelfsheim Schulstraße Ecke Pfalzstraße*
 
@@ -3837,13 +3837,13 @@ vertriebene wurden hier sesshaft.
 
 Ein Beitrag von Helmut Hartwig
 
-![](image592.jpeg)
+![](images/image592.jpeg)
 
 *Das Neubaugebiet in der Schulstraße*
 
 ### Bomben auf Strinz?
 
-![](image593.jpeg)
+![](images/image593.jpeg)
 
 Auch wenn Strinz kein adäquates Ziel für Bombenangriffe darstellte, musste man die alliierten Bomben doch fürchten. Die Bomber überflogen in der Regel StM von Norden kommend in Richtung Frankfurt. Dabei wurden Sie von einer Flakbatterie bei Wehen unter Beschuss genommen. Wurde ein Bomber getroffen, mussten schnellstmöglich die Bomben zum eigenen Schutz der Besatzung abgeworfen werden.
 
@@ -3853,25 +3853,25 @@ Eine B17 beim Bombenabwurf
 
 Der hier abgebildete Splitter wurde mit einem Metallsuchgerät in der Strinzer Gemarkung gefunden. Er stammt sehr wahrscheinlich von einer Flugabwehrgranate. Diese Flakgranaten explodierten in vorgegebener Höhe in viele Einzelteile, mit dem Ziel, Bomber zu zerstören. Die meisten Einzelteile fielen dann wieder auf die Erde zurück.
 
-![](image594.jpeg)
+![](images/image594.jpeg)
 
 Dass solche herabstürzenden Splitter auch für die Bevölkerung darstellen konnte, beweisen die nachstehend abgebildeten Plakate, die ausdrücklich vor der Splittergefahr warnten.
 
-![](image595.jpeg)
+![](images/image595.jpeg)
 
-![](image596.jpeg)
+![](images/image596.jpeg)
 
 Bombeneinschläge gab es nahe der Zinkenmühle, am Kirchberg, und östlich von Strinz in Richtung Niederlibbach. Noch heute zeugen im Wald verstreute Bombentrichter von diesen Abwürfen.
 
 Bei der Bombe die nahe der Zinkenmühle explodierte, handelte es sich um eine Luftmine. Luftminen haben eine sehr große Sprengkraft und explodieren schon in der Luft. Dabei sollen sie die Dächer von Häusern abdecken. Nachfolgend kommen dann Bomber mit Brandbomben, die dann in die abgedeckten Häuser fallen und diese entzünden. Insofern wurde dort, wo die Luftmiene explodierte auch eine große Anzahl von Brandbomben abgeworfen.
 
-![](image2.jpg)
+![](images/image2.jpg)
 
 *Bombentrichter am Kirchberg*
 
 Durch den Einschlag am Kirchberg wurden mehrere Fenster in der Strinzer Schule zerstört.
 
-![](image597.jpeg)
+![](images/image597.jpeg)
 
 In den Trichtern östlich von StM hat man zum Teil - nach dem Einmarsch der Amerikaner - tote Pferde verscharrt.
 
@@ -3886,37 +3886,37 @@ Aus der Chronik
 1945: Am 3. Februar fallen hinter dem Schulhaus Bomben auf den Kirchberg. Durch die
 Detonation werden acht Fensterscheiben im Schulhaus zertrümmert
 
-![](image598.jpeg)
+![](images/image598.jpeg)
 
 *Lancaster Bomber beim Abwurf einer Luftmine und Brandbomben*
 
-![](image599.jpeg)
+![](images/image599.jpeg)
 
 Ein bei Wingsbach notgelandeter Lancaster Bomber. Hat er zuvor die Bomben bei Strinz abgeworfen?
 
 Hierbei handelt es sich um ein Fragment eines englischen Kopfzünder 846 für eine Flüssigkeitsbrandbombe 30 lb den ich in der Gemarkung gefunden habe.
 
-![](image600.jpeg)
+![](images/image600.jpeg)
 
 Produziert wurde dieser Zünder im Januar 1942.
 
 ### Feldpostbriefe
 
-![](image601.jpeg)
+![](images/image601.jpeg)
 
-![](image602.jpeg)
+![](images/image602.jpeg)
 
 Zurzeit liegen mir ca. 300 Feldpostbriefe der Brüder Adolf und Willi Fuhr aus StM vor, die ich aufarbeite.
 
 Die Brüder wurden beide im Jahr 1940 zum Kriegsdienst herangezogen und fielen beide im Jahre 1942.
 
-![](image603.jpeg)
+![](images/image603.jpeg)
 
 ### Als Kriegsgefangener in Strinz
 
 600.000 französische Soldaten gerieten im 2. Weltkrieg in Kriegsgefangenschaft. Die meisten von ihnen kamen in die Landwirtschaft, wo die Bauern fehlten, die ihrerseits im Kriegseinsatz waren. So auch Raoul Labonne, der spätere Bürgermeister unserer Partnergemeinde Aube in der Normandie.
 
-![](image604.jpeg)
+![](images/image604.jpeg)
 
 In Strinz-Margarethä befand sich seinerzeit eine Außenstelle des Kriegsgefangen-Stammlager 12 A Limburg. In diesem Stammlager war Raoul Labonne, bevor er nach Strinz kam, interniert.
 
@@ -3930,13 +3930,13 @@ Das Schicksal der einzelnen Gefangenen lag auch immer in den Händen der Familie
 
 Eine im Strinzer Feld mit dem Metalldetektor gefundene Erkennungsmarke eines französischen Kriegsgefangenen.
 
-![](image605.jpeg)
+![](images/image605.jpeg)
 
 *Interview mit Raoule Labonne*
 
 Im Jahre 1980 gab es im ZDF eine Sendung mit dem Titel: "Unser Franzos". Hier gab der Strinzer Kriegsgefangene und spätere Bürgermeister von Aube/Normandie ein Interview zu seiner Gefangenenzeit in StM.
 
-![](image606.jpeg)
+![](images/image606.jpeg)
 
 *Labonne beim Interview*
 
@@ -3948,7 +3948,7 @@ Bei der Ankunft in Strinz-Margarethä sind wir zuerst dem Bürgermeister vorgest
 
 Also gleich nach dem Essen habe ich mich dann auf der Kommandantur gemeldet, dort hatte man mir ein Bett gegeben. Das war eine Art Strohmatratze mit einer kurzen Decke. Die war viel zu kurz für mich, weil ich so groß bin. Ich musste sie diagonal legen. Es war furchtbar kalt, ich lag direkt unter einem Wellblechdach. Es waren ungefähr minus elf Grad.
 
-![](image607.jpeg)
+![](images/image607.jpeg)
 
 Morgens gegen fünf Uhr bin ich aufgestanden; bin zum Hof gegangen. Herr Petri sagte mit: Raoul, gugge mol, gugge mol. Das heißt, ich habe das gar nicht richtig verstanden. Also, wie man z.B. die Kühe putzt. Unangenehm war es die Kühe zu striegeln; es stank, deshalb habe ich ein Taschentuch
 
@@ -3970,7 +3970,7 @@ Erzählen Sie uns doch etwas über das Radio
 
 In dem kleinen Zimmer in dem ich wohnte gab es ein kleines Radio. Es war nicht besonders gut; es funktioniert nicht besonders gut. Aber abends ließ ich es laufen und stieß dabei auf das Schweizer Radio. So hatte ich sämtliche Informationen über die Bewegungen der deutschen Truppen. Ich hatte eine große Europakarte und Informationen über die Truppenbewegungen.
 
-![](image608.jpeg)
+![](images/image608.jpeg)
 
 Jeden Abend kamen die Nachbarn, man traf sich bei mir. Sie kamen mich besuchen und fragten: Raoul, wo befindet sich jenes oder jenes Regiment? Wenn die Nachrichten zu Ende waren habe ich das Radio abgeschaltet.
 
@@ -3982,7 +3982,7 @@ Ich hatte gehört, dass die Landung stattgefunden hatte.
 
 Rückkehr nach 22 Jahren
 
-![](image609.jpeg)
+![](images/image609.jpeg)
 
 Es dauerte dann noch fast ein Jahr, bis die Amerikaner Strinz erreichten. Am 28. März 1945 war es dann soweit. Raoule Labonne nahm die Verhandlungen mit den einrückenden Amerikanern auf. Kurz darauf verließ er Strinz-Margarethä mit den Worten: Ich komme wieder!
 
@@ -4039,7 +4039,7 @@ Hinter dem Schulhaus fallen Bomben auf den Kirchberg. Durch die Detonation werde
 
 Ein amerikanisches Aufklärungsflugzeug überfliegt StM und
 
-![](image610.gif)
+![](images/image610.gif)
 
 macht ein Foto.
 
@@ -4049,7 +4049,7 @@ Mittwoch, 7. März 1945
 
 Amerikanische Truppen unterbrechen die Sprengkabel zur Ludendorfbrücke in Remagen und vereiteln damit deren Sprengung. Damit hatten die US-Truppen ab dem 7. März 1945 einen Rheinübergang. Einem weiteren Vormarsch der Alliierten auch in unser Gebiet hinein steht somit nichts mehr im Wege.
 
-![](image611.jpeg)
+![](images/image611.jpeg)
 
 Die erstürmte Brücke von Remagen
 (Bildquelle: Bundesarchiv, Bild 173-0422/CC-BY-SA)
@@ -4060,7 +4060,7 @@ Der Lehrer des Dorfes, Richard Weißer, wird wegen Krankheit aus dem Militärdie
 
 Montag, 12. März 1945
 
-![](image612.jpeg)
+![](images/image612.jpeg)
 
 In StM werden die ersten deutschen Soldaten einquartiert. Berichtet wird u.a. von drei Unteroffizieren aus der Freudenberg-Kaserne bei Wiesbaden. Es handelt sich um die Unteroffiziere Scherer, Schogt und Feda. Sie lagern in einem Gehöft auf Strohsäcken auf dem Boden. Sie sollen als Offiziere an die Front befördert werden, was ihnen „gegen die Natur geht“. Der eine, ein Austauschgefangener mit nur einem Auge, war in Afrika in Gefangenschaft gewesen und hatte allerlei erlebt in Die Freudenbergkaserne dieser Zeit.
 
@@ -4078,7 +4078,7 @@ Freitag, 16. März 1945
 
 An diesem Tag kommen verschiedene Truppengattungen nach StM und beziehen Quartier. In dem besagten Gehöft werden drei Mann von einem Infanterie-Trupp einquartiert. Sie machen tagsüber Holz und schneiden es auf der Kreissäge zum Fahren der Autos, die mittels Holzvergaser angetrieben werden. An diesem Tag wird noch eine Evakuierte aus Eschenhahn in das Gehöft geholt - zum Nähen. In der Stube wird sehr lebhaft.
 
-![](image613.jpeg)
+![](images/image613.jpeg)
 
 *Panzer mit Holzvergaser*
 
@@ -4086,7 +4086,7 @@ Sonntag, 18. März 1945
 
 Wachmannschaften mit Gefangen kommen nach StM. In dem benannten Gehöft werden 30 Gefangene und 3 Wachleute einquartiert. Bei den Wachleuten handelt es sich um Bauern aus der Gegend von Bad Kreuznach. Zur Verpflegung der Menschen wird am laufenden Band auf beiden zur Verfügung stehenden Herden gekocht. Kartoffeln, Dörrobst, Kaffee, Suppen – alles kommt aufs „Brett“.
 
-![](image614.jpeg)
+![](images/image614.jpeg)
 
 *Gefangene Franzosen*
 
@@ -4100,7 +4100,7 @@ Dienstag, 20. März bis Samstag, 24. März 1945
 
 Immer mehr Tiefflieger tauchen über unserer Gemarkung auf. Sie gehen so tief herunter, dass in der Bevölkerung die Angst besteht sie würden die Menschenmassen in den einzelnen Gehöften entdecken und diese beschießen. Denn, die Flugzeuge schießen auf alles was sich bewegt. So sind die Bauern auf dem Felde gezwungen öfters in Deckung zu gehen. In dieser Woche werden viele Pferde und Kühe Opfer der Flieger, z.B. in Breithardt und Hennethal, denn die Hafersaat kommt in Gang und so ist man gezwungen die Felder zu bestellen.
 
-![](image615.jpeg)
+![](images/image615.jpeg)
 
 *Tieffliegerangriff*
 
@@ -4116,7 +4116,7 @@ Montag, 26. März 1945
 
 Die amerikanischen Truppen überqueren den Rhein bei Kaub, unter dem Kommando von General George J. Patton.
 
-![](image616.jpeg)
+![](images/image616.jpeg)
 
 An diesem Montagmorgen herrscht trügerische Ruhe in StM. Es folgt noch eine Schulentlassung des ältesten Jahrgangs von 3 Jungen und 4 Mädchen.
 
@@ -4162,9 +4162,9 @@ Die deutschen Soldaten erreicht die Meldung, dass die Truppenspitze der Amerikan
 
 Die Soldaten stellen die Geschütze zum Feuern bereit auf, das eine in der Nähe vom Spritzenhaus, das andere am Hirtenpfad, das dritte in dem Weg der zur Mühle führt und zwar direkt hinter der Scheune von Christmanns. Die Geschütze werden auf die Kreuzung Breithardt/Hennethal ausgerichtet, um die ankommenden Panzer zu beschießen.
 
-![](image617.jpeg)
+![](images/image617.jpeg)
 
-![](image618.jpeg)
+![](images/image618.jpeg)
 
 Mancher Dorfbewohner nimmt Abschied von seinem Heim und begibt sich in den Luftschutzbunker.
 
@@ -4176,9 +4176,9 @@ Inzwischen befindet sich das Dorf schon im Blickfeld von amerikanischen Beobacht
 
 Zeitgenössischer Blick von der heutigen Waldstraße auf Strinz
 
-![](image619.jpeg)
+![](images/image619.jpeg)
 
-![](image620.jpeg)
+![](images/image620.jpeg)
 
 *Panzer auf dem Vormarsch*
 
@@ -4190,7 +4190,7 @@ Ein Unteroffizier kommt herbeigeeilt und meldete:“ Die Panzerspitze ist in Bew
 
 Die Soldaten erhalten den Befehl, nicht zuletzt aufgrund des Drucks aus der Bevölkerung, sofort abzurücken und die Batterie tritt schnell den Rückzug an, doch bleiben ein Geschütz und ein Munitionswagen an der Wirtschaft Schneider liegen. Um das Geschütz unbrauchbar zu machen, wird das Kanonenrohr von deutschen Soldaten im Oberdorf bei Schneiders gesprengt und von dem ein großer Splitter in das Wohnhaus von Diefenbachs einschlägt. Durch die Explosion fängt der in der Nähe stehende Munitionswagen Feuer und explodiert mit lautem Getöse. Die ganze Hofreite von Gastwirt Schneider, die Scheune von Bürgermeister Weber und Wilhelm Diefenbach sowie das Wohnhaus von Petris wird das Opfer dieser unüberlegten Handlung. 20 Schafe, ein Hund und das Vieh verbrennen beim Gasthaus Schneider.
 
-![](image621.jpeg)
+![](images/image621.jpeg)
 
 Bürger, die sich bis dahin noch nicht im Luftschutzbunker befinden, suchen ihr Heil in den Kellern ihrer Häuser.
 
@@ -4222,13 +4222,13 @@ Die noch im Ort verbliebenen Kriegsgefangen sind voller Freude, da ihre Gefangen
 
 Nun werden die Häuser sofort von den Amerikanern nach deutschen Soldaten abgesucht, das Gewehr und Pistolen nach vorn immer schussbereit gehalten, suchen sie alles ab.
 
-![](image622.jpeg)
+![](images/image622.jpeg)
 
 Dabei werden einige deutsche Soldaten aufgebracht die sich in den Hinterhöfen verstecken.
 
 Ein Lastwagen der SS kommt von Hennethal her und stößt fast mit den Panzern zusammen.
 
-![](image623.jpeg)
+![](images/image623.jpeg)
 
 Kurzerhand wird er in Brand geschossen. Die Soldaten flüchten in Richtung Zinkenmühle, über das Feld, nach dem Wald zu.
 
@@ -4248,7 +4248,7 @@ Rektor Weißer wird zum militärischen Befehlshaber gerufen. Dieser teilt ihm mi
 
 Amerikanischer Vormarsch
 
-![](image624.jpeg)
+![](images/image624.jpeg)
 
 Damit endet für das kleine Dorf der 2. Weltkrieg und die Naziherrschaft.
 
@@ -4272,7 +4272,7 @@ Umgebettet am 18.4.1956 aus Strinz-Margarethä
 Günter Bräsching (laut Kirchenbuch und Sterberegister „Brösching“) wurde evangelisch beerdigt. Er war scheinbar nicht verheiratet, da als Angehörige überall seine Eltern erwähnt werden.
 Im Umbettungsprotokoll wird als Verwundung „re. Schulterblatt und re. Jochbein zertr., Becken zertr“ erwähnt. Günter Bräsching war 1,78m groß.
 
-![](image625.jpeg)
+![](images/image625.jpeg)
 
 - Letzte Ruhestätte von Günter Bräsching in Idstein
 - Paul Horstmann
@@ -4284,17 +4284,17 @@ Dieser (noch) unbekannte Soldat ist beim Einmarsch in StM ums Leben gekommen. La
 
 Diese Tafel zeigt nur die gefallenen Mitglieder des Turnvereins auf.
 
-![](image626.jpeg)
+![](images/image626.jpeg)
 
 ### Das Sonder Kfz 6
 
 Am Ende des zweiten Weltkrieges standen viele zurückgelassene Fahrzeug in unserer Gemarkung herum, die nicht sofort entfernt wurden. Dazu gehörte ein Halbkettenfahrzeug welches wehrmachtsintern als Sd.Kfz 6 bezeichnet wurde. Von den Fahrzeugen wurde abgeschraubt, was noch brauchbar schien. Ein begehrtes Gut bei Kettenfahrzeugen waren die Laufräder über die die einzelnen Ketten gelaufen sind. Diese konnten, da sie mit Vollgummi bereift waren, sehr gut für Karren verwendet werden. Dabei mussten zuerst mühsam die Ketten zerlegt und entfernt werden, um an die Räder zu kommen. Kleinteile wurden dabei achtlos zu Boden geworfen.
 
-![](image627.jpeg)
+![](images/image627.jpeg)
 
 Solch eine Stelle habe ich in unserer Gemarkung ausfindig gemacht und konnte noch einige dieser Kleinteile bergen. Durch eine umfangreiche Recherche im Internet konnten die gefundenen Teil einem Sd.Kfz 6 zugeordnet werden.
 
-![](image628.jpeg)
+![](images/image628.jpeg)
 
 *Räderverwendung*
 
@@ -4304,7 +4304,7 @@ Mehr Informationen zur Strinzer Holzmaschine finden Sie unter "Die Strinzer Holz
 
 Auch an Kutschen fanden die Räder Verwendung, wie hier an einer Kutsche der Kerb von 1949 zu sehen ist.
 
-![](image630.jpeg)
+![](images/image630.jpeg)
 
 *Fahrzeuggeschichte*
 
@@ -4319,7 +4319,7 @@ Auch Sie verbrachte einen Teil des 2. Weltkrieges in Strinz-Margarethä. Über d
 
 Hier ihre Erinnerungen an die Zeit in Strinz:
 
-![](image631.jpeg)
+![](images/image631.jpeg)
 
 *Marei (mit Zöpfen) mit ihren Geschwistern im Strinzer Feld*
 
@@ -4375,7 +4375,7 @@ Siehe auch unter Nachkriegszeit
 
 Ein weiteres Bild von Marei mit Ihren Geschwistern Peter, Gudula und Sabine
 
-![](image632.jpeg)
+![](images/image632.jpeg)
 
 *Wiedersehen nach 71 Jahren*
 
@@ -4393,7 +4393,7 @@ Bevor es für Frau Hartlaub wieder nach Frankfurt ging, wurde vereinbart, dass n
 
 Nachfolgendes Bild zeigt die Damen beim Brunnen- und Brücken-Einweihungsfest.
 
-![](image633.jpeg)
+![](images/image633.jpeg)
 
 *Marei Hartlaub / Irma Kugelstadt*
 
@@ -4465,7 +4465,7 @@ Alfred Hankammer
 
 Geboren: 1917
 
-![](image634.jpeg)
+![](images/image634.jpeg)
 
 - Beruf: Landwirt und Schuhmacher
 - Eingezogen am: 14.11.1938
@@ -5249,7 +5249,7 @@ Der Ausscheller war in StM der wichtigste Überbringer der neuesten Mitteilungen
 
 Das Schellenbuch
 
-![](image635.jpeg)
+![](images/image635.jpeg)
 
 *Auszug aus dem Schellenbuch*
 
@@ -5321,7 +5321,7 @@ Die Zuwendung an Lebensmittel wurde über sogenannte Lebensmittelkarten geregelt
 
 Erhalten gebliebene Lebensmittelkarte aus dem Archiv der Gemeinde Hohenstein
 
-![](image636.jpeg)
+![](images/image636.jpeg)
 
 *Ausgabe durch die Besatzer*
 
@@ -5349,7 +5349,7 @@ Deren Verteilung an die Bevölkerung wurde durch sogenannte Spinnstoffpunkte ger
 
 Nachweis über den Erhalt von Arbeitsschuhen auf Spinnstoffpunkte (Nachname durch Red. entfernt)
 
-![](image637.jpeg)
+![](images/image637.jpeg)
 
 *Verteilungsregeln*
 
@@ -5377,7 +5377,7 @@ Nachschub an Punkten
 
 Wenn durch die vorbeschriebenen Ausgaben der Punktebestand erschöpft war, musste die Gemeinde bei der Regierung in Bad Schwalbach Meldung machen. Die Gemeinde wurde dann mit neuen Punkten versorgt.
 
-![](image638.jpeg)
+![](images/image638.jpeg)
 
 *Auszug aus dem Ausgabebuch für Spinnstoffpunkte*
 
@@ -5385,7 +5385,7 @@ Wenn durch die vorbeschriebenen Ausgaben der Punktebestand erschöpft war, musst
 
 ### Kleiner Grenzverkehr
 
-![](image639.jpeg)
+![](images/image639.jpeg)
 
 *Grenzbereich bei Zollhaus (roter Punkt)*
 
@@ -5397,7 +5397,7 @@ Doch bevor man daran denken konnte, musste man sich erst einmal einen “Interzo
 
 Mit dem Adler auf "großer Reise"
 
-![](image640.jpeg)
+![](images/image640.jpeg)
 
 Wir hatten das Glück, dass wir mit einem Pkw (Adler) fahren konnten, denn alles war bewirtschaftet und wer privat mit einem der wenigen Autos fahren wollte, musste sich dazu auch eine Genehmigung und das Benzin besorgen. Das hat dankenswerterweise der Fahrer für uns erledigt.
 
@@ -5411,9 +5411,9 @@ Alle Konfirmationsgäste, die von außerhalb kamen waren von Freitag bis Montag 
 
 Bei der Rückreise der Gäste aus der amerikanischen Zone kam es zu einer nicht vorgesehenen Änderung wegen des Regenwetters, das am Montagvormittag eingesetzt hatte. Die Gäste aus Panrod mussten an die Station der Kleinbahn nach Nastätten gehen, bei diesem Wetter. Aber unser guter Fahrer hatte ein Einsehen mit der Linagoth und hat ihr angeboten in dem kleinen „Adler“ noch mitfahren zu können, was sie natürlich auch gerne angenommen hat. Nun machte sich der Petter Paul alleine auf den Weg zur Station der Kleinbahn, um von Nastätten bis Zollhaus wieder mitfahren zu können.
 
-![](image641.jpeg)
+![](images/image641.jpeg)
 
-![](image642.jpeg)
+![](images/image642.jpeg)
 
 *Ehemalige Streckenführung der Ein Zug der "Nassauischen Kleinbahn"*
 
@@ -5427,11 +5427,11 @@ Der Bürgermeister hat dann nach Panrod telefoniert und angekündigt, dass der P
 
 Nachfolgende Ablichtungen zeigen das original Grenzübertrittspapiere zur obigen Geschichte.
 
-![](image643.jpeg)
+![](images/image643.jpeg)
 
-![](image644.jpeg)
+![](images/image644.jpeg)
 
-![](image645.jpeg)
+![](images/image645.jpeg)
 
 *Ein Beitrag von Helmut Hartwig*
 
@@ -5451,15 +5451,15 @@ Jeder Bürger musste eine Eidesstattliche Versicherung abgeben mittels derer er 
 
 Nachfolgend das Formular zur Eidesstattlichen Versicherung:
 
-![](image646.jpeg)
+![](images/image646.jpeg)
 
 > Quelle: Archiv der Gemeinde Hohenstein
 
 ### Not macht erfinderisch
 
-![](image647.jpeg)
+![](images/image647.jpeg)
 
-![](image648.jpeg)
+![](images/image648.jpeg)
 
 Nach dem 2. Weltkrieg war die Not sehr groß. Vieles war nicht zu bekommen und so war Improvisationsgeist gefragt.
 
@@ -5469,7 +5469,7 @@ Die hier gezeigte Zünderbüchse wurde zu einem Wäschesprenger umgearbeitet. Da
 
 Nachdem die Büchse von mir gereinigt wurde, kann diese auch wieder als Wäschesprenger genutzt werden.
 
-![](image649.jpeg)
+![](images/image649.jpeg)
 
 *Schwerter zu Pflugscharen*
 

@@ -14,6 +14,9 @@ from xml.etree import ElementTree as ET
 ROOT = Path(__file__).resolve().parent.parent
 PARTS = ROOT / "assets/quelle/file"
 DATA = ROOT / "data"
+# The plates are written next to the Markdown so that content/ is a complete,
+# self-contained export of the chronicle that reads correctly on its own.
+MEDIA = ROOT / "content/images"
 
 W = "{http://schemas.openxmlformats.org/wordprocessingml/2006/main}"
 R = "{http://schemas.openxmlformats.org/officeDocument/2006/relationships}"
@@ -172,7 +175,7 @@ def main():
             blocks.append({"i": len(blocks), "type": "auto-toc", "text": "",
                            "entries": entries})
 
-    media = DATA / "media"
+    media = MEDIA
     media.mkdir(parents=True, exist_ok=True)
     written = 0
     for name in z.namelist():

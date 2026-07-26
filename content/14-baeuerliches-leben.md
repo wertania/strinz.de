@@ -40,7 +40,7 @@ Dies lag wohl auch überwiegend an fehlender Hygiene. Schuld daran war sicherlic
 
 > Quelle: Dr. Klaus Koniarek / Bad Sooden-Allendorf, Wehen und sein Grund
 
-![](image668.png)
+![](images/image668.png)
 
 *Strinzer Ehepaar in der Landwirtschaft*
 
@@ -94,9 +94,9 @@ Um sieben Uhr wird zu Abend geläutet. Die Kinder eilen schleunigst nach Hause. 
 
 > Quelle: Das war ihr Leben / Helge Schmidt / 1985
 
-![](image669.png)
+![](images/image669.png)
 
-![](image670.png)
+![](images/image670.png)
 
 *Bei der Getreideernte*
 
@@ -128,13 +128,13 @@ Die zweite Flurbereinigung war schon auf ein neues Zeitalter programmiert, für 
 
 (Ein Beitrag von Helmut Hartwig)
 
-![](image671.png)
+![](images/image671.png)
 
 *Im Feld bei der Heuernte*
 
-![](image672.png)
+![](images/image672.png)
 
-![](image673.png)
+![](images/image673.png)
 
 *Landarbeit mit Kühen und Pferd*
 
@@ -203,7 +203,7 @@ Dann nimmt man sie vom Herd und schöpft sie mit einem in Butter getauchten Löf
 
 in eine irdene Schüssel. Bestreut wird der Schluckerter mit Zucker und Zimt.
 
-![](image674.png)
+![](images/image674.png)
 
 *Nachgekochter Schluckerter*
 
@@ -253,7 +253,7 @@ Hühner:	Weichfutter (Schrot mit gedämpften Kartoffeln), Hafer, Weizen, Grünfu
 
 ## Nichts zu meckern
 
-![](image675.jpeg)
+![](images/image675.jpeg)
 
 Um die Fortpflanzung der Tiere im Dorf zu gewährleisten, wurde von jeder im Dorf vorhandenen Tierart ein männliches Exemplar gehalten. Früher auf dem sogenannten Ochsengut, später in Einzelhaltung durch benannte Personen.
 
@@ -301,7 +301,7 @@ Es ist dem Bockhalter verboten:
 
 ## Hausschlachtung
 
-![](image676.png)
+![](images/image676.png)
 
 Hausschlachtungen waren in früherer Zeit fester Bestandteil des Dorflebens und der Daseinsvorsorge der im Dorf lebenden Familien. Wenn man die vergangenen 100 Jahre betrachtet, mit den verheerenden Notlagen, während und nach dem ersten und noch verstärkt während und nach dem 2. Weltkrieg, konnte man nur überleben, wenn man Tiere aufzog, die für den Eigenbedarf geschlachtet werden konnten.
 
@@ -337,25 +337,25 @@ Ein Beitrag von Helmut Hartwig
 
 Nachfolgend einige Utensilen für die Schlachtung:
 
-![](image677.png)
+![](images/image677.png)
 
-![](image678.png)
+![](images/image678.png)
 
-![](image679.png)
+![](images/image679.png)
 
-![](image680.png)
+![](images/image680.png)
 
-![](image681.png)
+![](images/image681.png)
 
-![](image682.png)
+![](images/image682.png)
 
-![](image683.png)
+![](images/image683.png)
 
-![](image684.png)
+![](images/image684.png)
 
-![](image685.png)
+![](images/image685.png)
 
-![](image686.png)
+![](images/image686.png)
 
 ## Der Kartoffeldämpfer
 
@@ -381,15 +381,15 @@ Ein Beitrag von Helmut Hartwig
 
 Nachfolgend noch zwei Bilder aus der original Betriebsanleitung, die Zubehörgeräte zur Kartoffelwäsche zeigen.
 
-![](image687.jpeg)
+![](images/image687.jpeg)
 
-![](image688.jpg)
+![](images/image688.jpg)
 
 *Bild 1: Trommelwäsche aus Streckmetall mit Vorreinigungstrommel*
 
 Bild 2: Quirlwäsche mit seitlichem Schlammabsatzraum
 
-![](image689.png)
+![](images/image689.png)
 
 *Der Kartoffeldämpfer im Einsatz in der Schulstraße*
 
@@ -397,7 +397,7 @@ Bild 2: Quirlwäsche mit seitlichem Schlammabsatzraum
 
 Im Jahre 1935 gab es in StM 385 Rinder. 1966 gab es immer noch 426 an der Zahl. Danach nahm deren Anzahl stetig ab. Heute (Stand: 18.02.2020) gibt es leider keine Rinder mehr in StM. Die Pferde haben im Dorf die Hoheit übernommen.
 
-![](image690.jpeg)
+![](images/image690.jpeg)
 
 Ein Pferd konnten sich früher nur wenige leisten. Wenn anderswo Pferde vor Kutschen oder Pflüge gespannt wurden, nutzte man in den Dörfern Rinder für die Verrichtung dieser Tätigkeiten.
 
@@ -425,15 +425,15 @@ Bild einfügen
 
 ## Dreschhalle und Dreschmaschine
 
-![](image2.jpg)
+![](images/image2.jpg)
 
 *Die Feldscheuer an der Kreuzung nach Hennethal und Breithardt*
 
-![](image691.png)
+![](images/image691.png)
 
 *Die alte Dreschmaschine*
 
-![](image692.png)
+![](images/image692.png)
 
 *Rechts die Dreschhalle*
 
@@ -441,7 +441,7 @@ Bild einfügen
 
 Bis Mitte der 60iger Jahre waren die landwirtschaftlichen Betriebe in StM kleinbäuerliche strukturiert, die durchschnittliche Größe dürfte etwa bei 7 ha. gelegen haben.
 
-![](image693.png)
+![](images/image693.png)
 
 Die Ackerflächen wurden bis dahin noch nach dem Prinzip der Dreifelderwirtschaft bestellt, die auch eine entsprechende Viehhaltung zum Ziel hatte. Ein Drittel der Gemarkung diente dem Anbau von Hackfrüchten und Klee (Deutscher Rotklee) in erster Linie als Futtergrundlage für die Rinderviehhaltung. Als Winterfutter waren die Futterrüben (Dickwurz), auch Runkelrüben genannt, neben dem Heuvorrat die Grundlage für die Winterfütterung in der Milchviehhaltung.
 
@@ -453,16 +453,16 @@ Die Dickwurzfutterrationen wurden jeden Tag frisch auf der Rübenmühle (Dickwor
 
 Von der Zeugwäsche ist heute nichts mehr zu sehen. Sie wurde im Jahre 1988 im Rahmen der Kanalerneuerung in der Pfalzstraße rückgebaut.
 
-![](image694.png)
+![](images/image694.png)
 
-![](image695.png)
+![](images/image695.png)
 
 *Rüben waschen an der Zeugwäsche*
 
-![](image696.png)
+![](images/image696.png)
 
 *Vorbeifahrt an der Zeugwäsche*
 
-![](image697.png)
+![](images/image697.png)
 
 *Die Zeugwäsche*

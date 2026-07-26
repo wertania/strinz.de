@@ -30,7 +30,7 @@ Die zweite Silbe epha = afa ist das keltische Wort für Bach. Danach bedeutet St
 
 ## Bedeutung von Margarethä
 
-![](image3.jpeg)
+![](images/image3.jpeg)
 
 Der Beiname Margarethä ist kirchlichen Ursprungs. Die heilige Margaretha war eine der 14 Nothelfer. Jedenfalls war die erste Kirche unseres Dorfes der heiligen Margaretha gewidmet.
 
@@ -46,7 +46,7 @@ Darstellung
 
 Wohl kaum ein Ortsname hat sich im Laufe der Jahrhunderte so verändert wie der von Strinz-Margarethä. Dies liegt wohl hauptsächlich daran, dass eine Unterscheidung zwischen dem gleichnamigen Strinz (später Trinitatis) hermusste.
 
-![](image4.jpeg)
+![](images/image4.jpeg)
 
 *Ortseingang 1972*
 
@@ -98,7 +98,7 @@ Dem Wiedersprich allerdings eine Urkunde aus dem Hessischen Staatsarchiv aus dem
 
 Wer war die Frau, die 305 nach Christus hingerichtet werden musste, damit man hunderte Jahre später, unserem Ort seinen markanten Beinamen geben konnte?
 
-![](image5.jpeg)
+![](images/image5.jpeg)
 
 Lest hier ihre Geschichte.
 

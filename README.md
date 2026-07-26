@@ -7,7 +7,9 @@ year-by-year chronicle from 1100 to 2000.
 ```
 assets/quelle/file/  the original Word document, committed as a split zip
 tools/               the pipeline that turns it into content
-content/             the chronicle as Markdown, one file per chapter
+content/             the chronicle as Markdown, one file per chapter,
+                     with all 714 plates in content/images — a self-contained
+                     export that reads on its own
 data/                the same content as JSON, for the site
 site/                the Astro site; `npm run build` writes site/dist
 ```
@@ -25,10 +27,8 @@ cd site && npm install
 npm run dev                  # or: npm run build  -> site/dist
 ```
 
-`content/*.md` and `data/*.json` are committed, so a clone builds right away.
-The 714 plates are not committed twice — the first build unpacks them from the
-Word document, which needs Python once. Rebuilding the content after a change
-to the source document:
+`content/` and `data/*.json` are committed, so a clone builds right away and
+needs Python only to rebuild the content after a change to the source document:
 
 ```bash
 python3 tools/pipeline.py
@@ -37,8 +37,8 @@ cd site && npm test          # builds, then runs data + browser tests
 
 | step | script | what it does |
 | --- | --- | --- |
-| 1 | `tools/extract_docx.py` | reads the docx verbatim into `data/document.json`: paragraph styles, outline levels, tables, list levels, run formatting and the position of every image. |
-| 2 | `tools/write_markdown.py` | decides what each block *is* and writes `content/*.md`. |
+| 1 | `tools/extract_docx.py` | reads the docx verbatim into `data/document.json` and writes the 714 plates to `content/images`: paragraph styles, outline levels, tables, list levels, run formatting and the position of every image. |
+| 2 | `tools/write_markdown.py` | decides what each block *is* and writes `content/*.md`, linking the plates relatively. |
 | 3 | `tools/verify_markdown.py` | compares every word of the Markdown with the docx. |
 | 4 | `tools/build_site_data.py` | the same classification, emitted as `data/content.json`. |
 | 5 | `site/scripts/optimize-images.mjs` | 113 MB of mixed scans → WebP in two sizes. |

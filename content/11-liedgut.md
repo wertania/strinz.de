@@ -50,9 +50,9 @@ Im Jahre 1945 schrieb der damalige Strinzer Rektor Richard Weiser das Strinzer L
 
 Nachfolgend der Original Text und eine Veröffentlich aus der Idsteiner Zeitung von 1945.
 
-![](image388.jpeg)
+![](images/image388.jpeg)
 
-![](image389.jpeg)
+![](images/image389.jpeg)
 
 *Bild 1: Original des Strinzer Liedes aus der Strinzer Chronik*
 

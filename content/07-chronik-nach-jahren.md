@@ -26,7 +26,7 @@ In Oberlibbach ist eine Ansiedlung aus dieser Zeit nachweisbar. Ob auch in der S
 
 Ein weiterer Beweis für menschliche Aktivitäten in unserer Region sind die Hügelgräber in unserem Gebiet. Eines davon, welches in Karten fälschlicherweise als "Römergrab" bezeichnet wird, befindet sich an der Grenze nach Hennethal an der Eisenstraße.
 
-![](image33.jpeg)
+![](images/image33.jpeg)
 
 *Ungefähre Lage des heutigen StM während der Hallstadtzeit (Quelle: Wikipedia)*
 
@@ -38,7 +38,7 @@ Unsere hiesige Region wird vom Stamm der Mattiaken bewohnt. Dieser ist wahrschei
 
 82 nach Christus und 85 nach Christus kämpften römische Truppen in den sogenannten Chattenkriegen gegen Chatten, die im Taunus und im Gießener Becken lebten. In der Folge entstehen die Grenzbefestigungen des Taunuslimes.
 
-![](image34.jpeg)
+![](images/image34.jpeg)
 
 Die spätere Strinzer Gemarkung liegt direkt am obergermanischen Limes zwischen den römischen Kleinstkastellen Zugmantel und Adolfseck.
 
@@ -48,9 +48,9 @@ Rekonstruktion eines Chattendorfes
 
 Infolgedessen gehört die Strinzer Gemarkung nicht zum römischen Reich, sondern zur sogenannten Magna Germania die nicht von römischen Truppen besetzt werden konnte.
 
-![](image35.jpeg)
+![](images/image35.jpeg)
 
-![](image36.jpeg)
+![](images/image36.jpeg)
 
 *Mattiakergebiet (Quelle: Wikipedia) Römische Legionäre (Quelle: Wikipedia - Matthias Kabel)*
 
@@ -70,7 +70,7 @@ Im Jahre 305 wird eine Frau hingerichtet, die hunderte Jahre später Namensgeber
 
 #### Allgemeine Ereignisse
 
-![](image37.jpeg)
+![](images/image37.jpeg)
 
 Im Jahre 375 beginnt die große Völkerwanderung. Mit der Aussicht auf ein besseres Leben im Römischen Reich, machen sich viele Völker auf, in die Gebiete, die günstigere Lebensbedingungen versprechen.
 
@@ -86,7 +86,7 @@ Rekonstrukion von Attila
 
 Durch den Tod des Hunnenführers Attila zerfällt das Reich der Hunnen.
 
-![](image38.png)
+![](images/image38.png)
 
 *Das Reich der Hunnen*
 
@@ -96,7 +96,7 @@ Durch den Tod des Hunnenführers Attila zerfällt das Reich der Hunnen.
 
 Das Strinzer Gebiet gehört zu Austrasien das den östlichen Teil des Frankenreiches beschreibt. Austrasien (also Land im Osten) war meist ein selbstständiges fränkisches Teilkönigreich mit der Hauptstadt Metz. Das Gebiet umfasste die fränkischen Gebiete um Rhein, Maas und Mosel und neben Metz die Orte Reims, Köln und Trier, dazu die Gebiete der besiegten germanischen Stämme.
 
-![](image39.jpeg)
+![](images/image39.jpeg)
 
 > Quelle: Wikipedia
 
@@ -112,7 +112,7 @@ Der Angelsachse Bonifatius wird vom Papst mit der Christianisierung der germanis
 
 Die Benediktiner-Abtei Kloster Bleidenstadt wird als Mainzer Eigenkloster wahrscheinlich durch Erzbischof Lullus von Mainz gegründet.
 
-![](image40.jpeg)
+![](images/image40.jpeg)
 
 Neben vielfachem Streubesitz umfasste das Klostergut die Ortschaften Breithardt, Seitzenhahn, Wehen, Hahn, Strinz-Margarethä, Michelbach, Orlen, Neuhof, Wingsbach, Born, Steckenroth, Reßfeld bei Adolfseck, Ober- und Niederlibbach, Heimbach und den Bleidenstädter Grund.
 
@@ -126,7 +126,7 @@ Das Kloster wird für viele Jahre die Geschicke von Strinz-Margarethä bestimmen
 
 Strinz-Margarethä gehört zum Herzogtum Franken. Das Herzogtum Franken war eines der Stammesherzogtümer des ostfränkischen Reichs, die sich gegen Ende der Karolingerzeit Anfang des 10. Jahrhunderts herausbildeten. Sein Gebiet umfasste das heutige Hessen, das nördliche Baden-Württemberg, Südthüringen, weite Teile von Rheinland-Pfalz und Teile der Herzogtum Franken heute fränkischen Gebiete in Bayern.
 
-![](image41.jpeg)
+![](images/image41.jpeg)
 
 *812*
 
@@ -146,7 +146,7 @@ Strinz-Margarethä gehört zum Herzogtum Franken. Das Herzogtum Franken war eine
 
 - Das Gebiet von StM fällt dem Königreich von Ludwig dem Deutschen zu.
 
-![](image42.png)
+![](images/image42.png)
 
 ## Chronik von 1000 – 1200
 
@@ -316,7 +316,7 @@ Pestgebiete
 
 > Quelle: Wikipedia
 
-![](image43.jpeg)
+![](images/image43.jpeg)
 
 ### 1355
 
@@ -1174,7 +1174,7 @@ Schultheiß: Hans Reich
 
 Für die nassauischen Eigenleute (Leibeigenen) gilt bis 1514 der Adolfsecker Mühlenbann. Bisher waren Strinzer Bürger gezwungen ihr Getreide in der Adolfsecker Mühle malen zu lassen. Graf Phillipp von Idstein gestattet seinem Untersaßen Philipp zu Strinz-Margarethen an diesem Ort (StM) eine Mühle zu bauen, in welcher die Bewohner malen zu lassen verpflichtet sein sollen. Der Müller muss dafür eine jährliche Pacht von 3 Malter Korn und 50 Ostereier (!) geben, aber mit Rücksicht auf die Kosten des Neubaus im ersten Jahr frei sein.
 
-![](image44.jpeg)
+![](images/image44.jpeg)
 
 *Stich von der Adolfsecker Mühle*
 
@@ -1298,7 +1298,7 @@ Strinz-Margarethä zahlt dem Stift St. Martin in Idstein 2 1/2 Goldgulden
 
 > Quelle: Die Stifte St. Walpurgis in Weilburg und St. Martin in Idstein / Neuauflage 1980
 
-![](image45.jpeg)
+![](images/image45.jpeg)
 
 *Die Stiftskirche St. Martin Idstein (Foto: Schwarzer)*
 
@@ -1320,7 +1320,7 @@ Strinz-Margarethä zahlt dem Stift St. Martin in Idstein 2 1/2 Goldgulden
 
 ﻿
 
-![](image46.jpeg)
+![](images/image46.jpeg)
 
 *Quittung aus 1545 über 6 fl. Manngeld*
 
@@ -1344,7 +1344,7 @@ Strinz-Margarethä zahlt dem Stift St. Martin in Idstein 2 1/2 Goldgulden
 
 (Quellen: Die Stifte St. Walpurgis in Weilburg und St. Martin in Idstein / Neuauflage 1980 / HStA Bestand 36 Nr. U 65)
 
-![](image47.jpeg)
+![](images/image47.jpeg)
 
 *Karte aus dem Jahre 1550*
 
@@ -1804,7 +1804,7 @@ Herrn Georg Gleyppurgio damaliger Pfarrer in Strinz.Margarethä in Francken, das
 
 > Quelle: Wehen und sein Grund, Dr. Eduard Wilhelmi, 1957
 
-![](image48.jpeg)
+![](images/image48.jpeg)
 
 *Gräueltaten im 30jährigen Krieg (Bildquelle: Wikipedia)*
 
@@ -2034,7 +2034,7 @@ Pfarrer: Georg Pistorius
 
 > Quelle: Wehen und sein Grund, Dr. Eduard Wilhelmi, 1957
 
-![](image49.jpeg)
+![](images/image49.jpeg)
 
 *Karte von 1630*
 
@@ -2471,7 +2471,7 @@ Einwohner: 70
 
 - Erste Erwähnung einer Schule in StM.
 
-![](image50.jpeg)
+![](images/image50.jpeg)
 
 *Kartenausschnitt von 1658*
 
@@ -2622,7 +2622,7 @@ Pfarrer: Johannes Neumann
 
 (siehe auch unter Die Strinzer von 1681)
 
-![](image51.jpeg)
+![](images/image51.jpeg)
 
 *Urkunde von 1681*
 
@@ -2681,7 +2681,7 @@ Pfarrer: Johannes Neumann
 
 (Alte Strinzer Chronik, Band 1, Seite 43)
 
-![](image52.jpeg)
+![](images/image52.jpeg)
 
 *Betroffene Gebiete des pfälzischen Erbfolgekrieges (Quelle: Wikipedia / P. Schmelzle)*
 
@@ -2715,7 +2715,7 @@ Pfarrer: Johannes Neumann
 
 (Wikipedia / Beiträge zur Geschichte Hohenstein-Breithardt, -Steckenroth und - Burg Hohenstein / Weinberger / 1992)
 
-![](image53.jpeg)
+![](images/image53.jpeg)
 
 *Heutige Ansicht vom Hofgut Georgenthal*
 
@@ -2803,7 +2803,7 @@ Schultheiß: Paul Drücker
 
 Margretstrentz
 
-![](image54.jpeg)
+![](images/image54.jpeg)
 
 *Karte von 1699*
 
@@ -2855,13 +2855,13 @@ Pfarrer: Johannes Neumann
 
 #### Ereignisse
 
-![](image55.jpeg)
+![](images/image55.jpeg)
 
 Aus diesem Jahr ist das Siegel: STRINZMARGRETHA AVROFF U(ND) LIEBACHER GERICHTSSIEG(EL) bekannt.
 
 > Quelle: Hessisches Wappenbuch / 1956
 
-![](image56.jpeg)
+![](images/image56.jpeg)
 
 Erwähnung eines Backhauses in StM.
 
@@ -2940,7 +2940,7 @@ Pfarrer: Johannes Neumann
 
 Pfarrer: Johannes Neumann
 
-![](image57.jpeg)
+![](images/image57.jpeg)
 
 *Karte von 1708*
 
@@ -2968,7 +2968,7 @@ Pfarrer: Johannes Neumann
 
 - Die spätere Strinzer Barockorgel wird für das Weißfrauenkloster in Mainz, vermutlich von Johann Jakob Dahm, erbaut.
 
-![](image58.jpeg)
+![](images/image58.jpeg)
 
 *Die Strinzer Orgel*
 
@@ -3105,7 +3105,7 @@ Strinz Margretha
 
 > Quelle: HHStAW 133 Nr. Strinz-Margarethae 21
 
-![](image59.jpeg)
+![](images/image59.jpeg)
 
 *Gemarkungskarte von 1722*
 
@@ -3225,7 +3225,7 @@ Schultheiß Johann Peter Enders wird im Jahre 1730 und 1750 als herrschaftlicher
 
 Strentz Marg.
 
-![](image60.jpeg)
+![](images/image60.jpeg)
 
 *Karte von 1730*
 
@@ -3379,7 +3379,7 @@ Strentz Margr.
 
 > Quelle: HStA: W133, R3188, StM Kirchenrechnungen
 
-![](image61.jpeg)
+![](images/image61.jpeg)
 
 *Karte von 1740*
 
@@ -3439,7 +3439,7 @@ Pfarrer: Johann Peter Freyberger
 
 Margretstrenz
 
-![](image62.jpeg)
+![](images/image62.jpeg)
 
 *Karte von 1745*
 
@@ -3467,7 +3467,7 @@ Pfarrer: Johann Peter Freyberger
 
 Pfarrer: Johann Peter Freyberger
 
-![](image63.jpeg)
+![](images/image63.jpeg)
 
 *Inschrift in einem Haus in der Schulstraße*
 
@@ -3597,7 +3597,7 @@ Pfarrer: Johann Peter Freyberger
 
 Strenz
 
-![](image64.jpeg)
+![](images/image64.jpeg)
 
 *Karte von 1757*
 
@@ -4015,9 +4015,9 @@ Lehrer: Johann Martin Joch
 
 > Quelle: HStA, 133, Steckenroth 3
 
-![](image65.jpeg)
+![](images/image65.jpeg)
 
-![](image66.jpeg)
+![](images/image66.jpeg)
 
 *Karten der Strinzer Gemarkung aus dem Jahre 1782*
 
@@ -4153,7 +4153,7 @@ Strintz-Margaretha
 
 Pfarrer: Johann Gottfried Wex / Schultheiß: Joh. Enders / Lehrer: Philipp Ferdinand Sauer
 
-![](image67.jpeg)
+![](images/image67.jpeg)
 
 *Karte von 1790*
 
@@ -4354,11 +4354,11 @@ Pfarrer: Johann Gottfried Kolb / Lehrer: Philipp Ferdinand Sauer
 
 Strinz Margaretha
 
-![](image68.jpeg)
+![](images/image68.jpeg)
 
 *Karte aus 1800*
 
-![](image69.jpeg)
+![](images/image69.jpeg)
 
 Aus der der Zeit um 18oo ist das Wappen einer Strinzer Familie mit dem Namen Gruber bekannt.
 
@@ -4376,7 +4376,7 @@ Führungsberechtigt sind: Eingereicht bzw. neu angenommen am 20. Februar 1981 vo
   von StM gegenüber dem Ritterstift Bleidenstadt zum Inhalt hat.
   (Siehe auch unter: Der Zehnte ging ans Kloster)
 
-![](image70.jpeg)
+![](images/image70.jpeg)
 
 *Urkunde zur Zehntverpflichtung*
 
@@ -4503,7 +4503,7 @@ Pfarrer: Johann Gottfried Kolb
 
 Lehrer: Philipp Ferdinand Sauer
 
-![](image71.jpeg)
+![](images/image71.jpeg)
 
 *Inschrift einer Scheune in der Scheidertalstraße*
 
@@ -4625,7 +4625,7 @@ Lehrer: Philipp Ferdinand Sauer
 
 > Quelle: Wehen uns sein Grund, Dr. Eduard Wilhelmi, 1953
 
-![](image72.jpeg)
+![](images/image72.jpeg)
 
 *Der geschlagene Napoleon Bonaparte beim Rückzug aus Russland*
 
@@ -4872,7 +4872,7 @@ Bekannte Ortsnamensformen
 
 Strinz Margarethe
 
-![](image73.jpeg)
+![](images/image73.jpeg)
 
 *Karte von 1820*
 
@@ -5209,7 +5209,7 @@ Lehrer: Friederich Jakob Friederich
 
 Ungewöhnliche Witterung: rauh und kalt bis zu den ersten Tagen des May, darauf plötzliche und anhaltende Wärme und volle Vegetation, so dass der gewöhnliche Übergang der Frühlingszeit ausfiel. Große Hitze und Dürre während des Sommers u. bis ins Spätjahr. Commission wegen Anlage des neuen Kirchhofs (Begräbnisplatzes); mein vergeblicher Protest gegen den Platz wegen der Entfernung von der Kirche. Widerspenstigkeit des Schullehrers Friedrich und Weigerung desselben bei den Leichen zu singen. Meine Collision mit den Behörden wegen dieses Falles. Geringer Ertrag an Sommerfrucht, besonders aber an Futtergewächsen, das Charakteristische der heißen und trockenen Sommer von jetzt an bis Ende der 1830er Jahre.
 
-![](image74.jpeg)
+![](images/image74.jpeg)
 
 *Ungefähre Lage des Ochsengutes/Pfaffengutes*
 
@@ -5268,7 +5268,7 @@ Lehrer: Friederich Jakob Friederich
 
 > Quelle: Chronik der Freiwilligen Feuerwehr / 2009
 
-![](image75.png)
+![](images/image75.png)
 
 *Strohender Feuereimer*
 
@@ -5457,9 +5457,9 @@ Lehrer: Friederich Jakob Friederich
 
 > Quelle: HHStAW 244 Nr. 1653
 
-![](image76.jpeg)
+![](images/image76.jpeg)
 
-![](image77.jpeg)
+![](images/image77.jpeg)
 
 *Die alte Strinzer Brücke (1841 – 1949)*
 
@@ -6218,7 +6218,7 @@ Strinz-Margaretha
 
 > Quelle: Chronik der Freiwilligen Feuerwehr / 2009
 
-![](image78.jpeg)
+![](images/image78.jpeg)
 
 *Karte Waldungen aus 1860*
 
@@ -6252,7 +6252,7 @@ Neuer Spritzenmeister wird der Schmiedemeister Philipp Klein. Er behält das Amt
 
 > Quelle: Chronik der Freiwilligen Feuerwehr / 2009
 
-![](image79.jpeg)
+![](images/image79.jpeg)
 
 *Karte Waldungen von 1861*
 
@@ -6375,7 +6375,7 @@ Schülerzahl: 84
 
 > Quelle: HHStAW 418 Nr. 670
 
-![](image80.jpeg)
+![](images/image80.jpeg)
 
 *Verordnungsblatt des Herzogthums Nassau, Ausgabe 9, 5. April 1865*
 
@@ -6393,7 +6393,7 @@ Lehrer: Philipp Ferger
 
 Am vier Wochen dauernden Bruderkrieg zwischen Preußen und Österreich nimmt auch das Herzogtum Nassau teil. In diesem Krieg verliert Herzog Adolph von Nassau als Bundesgenosse Österreichs sein Land an die im Krieg siegreichen Preußen.
 
-![](image81.jpeg)
+![](images/image81.jpeg)
 
 In der Folge gehört StM ab sofort zur preußischen Provinz Hessen-Nassau.
 
@@ -6406,7 +6406,7 @@ Herzog Adolph von Nassau
 Milder Winter
 (Wehen und sein Grund, Dr. Eduard Wilhelmi, 1953)
 
-![](image82.jpeg)
+![](images/image82.jpeg)
 
 *Die Schlacht bei Königkrätz (Quelle: Wikipedia)*
 
@@ -6428,7 +6428,7 @@ Zugehörigkeit
 
 Ab sofort:
 
-![](image83.png)
+![](images/image83.png)
 
 Verwaltungsbezirk: Preußische Provinz Hessen-Nassau, Regierungsbezirk Wiesbaden, Unter-Taunus-Kreis.
 
@@ -6611,7 +6611,7 @@ Lehrer: Philipp Ferger
 
 > Quelle: Amtsblatt der Regierung in Wiesbaden/ Pkt 968 und 682 / 1871
 
-![](image84.jpeg)
+![](images/image84.jpeg)
 
 *Kirchensiegel von 1871*
 
@@ -6870,7 +6870,7 @@ DFP = 79 Stimmen / K = 1 Stimme
 
 > Quelle: Die Hessen als Reichstagswähler / 1990
 
-![](image85.jpeg)
+![](images/image85.jpeg)
 
 *Kirchenstempel von 1881*
 
@@ -7014,9 +7014,9 @@ Schülerzahl: 81
 
 > Quelle: Alte Strinzer Chronik, Teil 1, Seite 115
 
-![](image86.jpeg)
+![](images/image86.jpeg)
 
-![](image87.jpeg)
+![](images/image87.jpeg)
 
 *Stempel Standesamt und Gemeinde von 1886*
 
@@ -7207,7 +7207,7 @@ Schülerzahl: 91
   (Quelle: Chronik der Freiwilligen Feuerwehr / 2009)
   (Siehe auch unter: Feuerschutz)
 
-![](image88.jpeg)
+![](images/image88.jpeg)
 
 - Bis zum Haushalt 1891/92 wird Leiter- und Spritzenhaus getrennt in den Rechnungsbüchern aufgeführt. Man kann spekulieren, dass das Spritzenhaus an das Leiterhaus gebaut wurde und dass das Leiterhaus als Schlauchturm eine weitere Nutzung erhielt.
 
@@ -7340,7 +7340,7 @@ Sehr erfreut sind wir darüber, dass die Bemühungen des Herrn Landrats von Koll
 
 > Quelle: Alte Strinzer Chronik, Teil 2, Seite 10
 
-![](image89.jpeg)
+![](images/image89.jpeg)
 
 *Kirchensiegel von 1896*
 
@@ -7467,7 +7467,7 @@ Einwohner: 363
 
 > Quelle: HHStAW 403 Nr. 420
 
-![](image90.jpg)
+![](images/image90.jpg)
 
 *Ansichtskarte vom Gasthaus Zum Löwen*
 
@@ -7529,7 +7529,7 @@ NL = 118 Stimmen / SPD = 27 Stimmen
 
 > Quelle: Die Hessen als Reichstagswähler / 1990
 
-![](image91.jpg)
+![](images/image91.jpg)
 
 *Einweihung der Scheidertalstraße mit Bürgermeister August Schmidt (rote Umrandung)*
 
@@ -7562,9 +7562,9 @@ Lehrer: Julius Emil Schlicht
 
 > Quelle: HHStAW 403 Nr. 232
 
-![](image92.jpeg)
+![](images/image92.jpeg)
 
-![](image93.jpeg)
+![](images/image93.jpeg)
 
 Bild 1 zeigt den Strinzer Reinhard Kugelstadt auf seinem Abschiedsfoto (Reservistenbild) von der 10. Companie Königin Augusta/Berlin, Garde-Grenadier-Regiment Nr. 4, bei dem er von 1902 - 1904 diente.
 
@@ -7605,7 +7605,7 @@ Lehrer: Julius Emil Schlicht
 
 > Quelle: Journal of the Royal United Services Institute for Defence Studies; Volume 50, page 182 / 1906
 
-![](image94.jpg)
+![](images/image94.jpg)
 
 Hierbei handelt es sich um eine Postkarte, die ein am Manöver beteiligter Soldat nach Hause geschickt hat.
 
@@ -7624,11 +7624,11 @@ Im Dezember wurde nach früheren diesbezüglichen Bemühungen noch weiter an der
 
 (Siehe auch unter: Die Strinzer Eisenbahn)
 
-![](image95.jpg)
+![](images/image95.jpg)
 
 *Zeitgenössische Postkarte vom Kaiermanöver 1905*
 
-![](image96.jpeg)
+![](images/image96.jpeg)
 
 *Zaun zur Kirche mit der Jahreszahl 1905 (rote Umrandung)*
 
@@ -7724,9 +7724,9 @@ Pfarrer: Ernst Schilp / Bürgermeister: August Schmidt / Lehrer: Julius Emil Sch
 
 > Quelle: Strinzer Chronik, Teil 1, Seite 121
 
-![](image97.jpg)
+![](images/image97.jpg)
 
-![](image98.jpeg)
+![](images/image98.jpeg)
 
 *Kirchturmuhr Hochwassermarkierung an der Brücke nach Breithardt zu*
 
@@ -7746,13 +7746,13 @@ Einwohner: 355
 
 > Quelle: Alte Strinzer Chronik, Teil 2, Seite 11, Kirchenchronik
 
-![](image99.jpg)
+![](images/image99.jpg)
 
-![](image100.jpg)
+![](images/image100.jpg)
 
 *Haus Hartwig in der Pfalzstraße Karl Heiler mit seinem Fahrrad der Marke NSU*
 
-![](image101.jpg)
+![](images/image101.jpg)
 
 *Strinzer Schulklasse vor der Gaststätte Weber*
 
@@ -7785,7 +7785,7 @@ Lehrer: Julius Emil Schlicht
 
 > Quelle: Flugblatt der Nationalliberalen Partei vom 30.11.1911
 
-![](image102.jpeg)
+![](images/image102.jpeg)
 
 ### 1912
 
@@ -7819,9 +7819,9 @@ NL = 148 Stimmen / SPD = 11 Stimmen / ChrS = 5 Stimmen / FoVP = 8 Stimmen
 
 > Quelle: Die Hessen als Reichstagswähler / 1990
 
-![](image103.jpg)
+![](images/image103.jpg)
 
-![](image104.jpg)
+![](images/image104.jpg)
 
 *Konfirmationsurkunde August Petri Schulzeugnis von Wilhelm Petri*
 
@@ -7855,7 +7855,7 @@ Lehrer: Julius Emil Schlicht
 
 > Quelle: Alte Strinzer Chronik, Teil 2, Seite 13, Kirchenchronik
 
-![](image105.jpg)
+![](images/image105.jpg)
 
 *Ansichtkarte der Gaststätte Zum Löwen*
 
@@ -7869,7 +7869,7 @@ Bürgermeister: August Schmidt
 
 Lehrer: Julius Emil Schlicht
 
-![](image106.jpeg)
+![](images/image106.jpeg)
 
 *Inschrift in einem Stall in der Schulstraße*
 
@@ -7913,7 +7913,7 @@ Zu dieser Inschrift wird berichtet, dass der Baumeister der Scheune sein Werk ni
 
 > Quelle: Vereinschronik des TV 1904
 
-![](image107.jpg)
+![](images/image107.jpg)
 
 ## Chronik des Ersten Weltkrieges (1914 – 1918)
 
@@ -8052,15 +8052,15 @@ Zu dieser Inschrift wird berichtet, dass der Baumeister der Scheune sein Werk ni
 
 > Quelle: Alte Strinzer Chronik, Teil 2, Seite 14, Kirchenchronik
 
-![](image108.jpeg)
+![](images/image108.jpeg)
 
-![](image109.jpeg)
+![](images/image109.jpeg)
 
-![](image110.jpeg)
+![](images/image110.jpeg)
 
-![](image111.jpeg)
+![](images/image111.jpeg)
 
-![](image112.jpeg)
+![](images/image112.jpeg)
 
 *Strinzer Soldaten*
 
@@ -8084,7 +8084,7 @@ Lehrer: Julius Emil Schlicht
 
 > Quelle: Hessisches Staatsarchiv / Wiesbaden
 
-![](image113.jpeg)
+![](images/image113.jpeg)
 
 *Nach der Schlacht am Chemin de Dames*
 
@@ -8223,7 +8223,7 @@ Bürgermeister: August Schmidt
 
 Lehrer: Julius Emil Schlicht
 
-![](image114.jpeg)
+![](images/image114.jpeg)
 
 *Karl Heiler an der Front*
 
@@ -8251,7 +8251,7 @@ Lehrer: Julius Emil Schlicht
 
 - Reinhard Walter fällt. Er diente beim Landwehr Infanterie Regiment Nr. 80, 3. Kompanie. Sein Dienstgrad: Gefreiter
 
-![](image115.jpeg)
+![](images/image115.jpeg)
 
 Grabstein Reinhard Walter in StM.
 
@@ -8493,7 +8493,7 @@ Bürgermeister: August Schmidt
 
 Lehrer: Julius Emil Schlicht
 
-![](image116.jpeg)
+![](images/image116.jpeg)
 
 *August Hankammer an der Front*
 
@@ -8858,7 +8858,7 @@ Januar 1918
 
 Am Ende des ersten Weltkrieges besetzten die französischen Truppen das Deutsche Reich bis zum Rhein hin. Um einen Puffer zu schaffen, besetzen Sie auch die rechtsrheinische Seite, wozu auch unsere Gemarkung gehörte.
 
-![](image117.jpeg)
+![](images/image117.jpeg)
 
 *Französische Besatzungszone nach dem 1. Weltkrieg*
 
@@ -8942,11 +8942,11 @@ Am Ende des ersten Weltkrieges besetzten die französischen Truppen das Deutsche
 
 > Quelle: Alte Strinzer Chronik
 
-![](image118.jpg)
+![](images/image118.jpg)
 
 *Ehrentafel für die Kriegsteilnehmer des TV Strinz*
 
-![](image119.jpg)
+![](images/image119.jpg)
 
 *Ehrentafel für die Gefallenen der Gemeinde Strinz*
 
@@ -9309,7 +9309,7 @@ Pferdebestand: 1 Hengst / 31 Wallache / 11 Stuten
 
 > Quelle: Alte Strinzer Chronik, Teil 1, Seite 123
 
-![](image120.jpg)
+![](images/image120.jpg)
 
 ### 1922
 
@@ -9351,13 +9351,13 @@ Viehbestand: Kühe 169 / Schafe 138
 
 > Quelle: Jahrbücher des nassauischen Vereins für Naturkunde, J. F. Bergmann 1922
 
-![](image121.jpg)
+![](images/image121.jpg)
 
 *TV 1904 Strinz-Margarethä*
 
-![](image122.jpeg)
+![](images/image122.jpeg)
 
-![](image123.jpeg)
+![](images/image123.jpeg)
 
 *Strinzer Schüler 1922*
 
@@ -9502,7 +9502,7 @@ Pferdebestand: 42 Wallache / 15 Stuten
 
 > Quelle: Hohensteiner Blättche
 
-![](image124.jpeg)
+![](images/image124.jpeg)
 
 *Kerbegesellschaft 1925*
 
@@ -9564,7 +9564,7 @@ Ja = 11 Stimmen / Nein = 1 Stimme
 
 > Quelle: Die Hessen als Reichstagswähler / 1990
 
-![](image125.jpg)
+![](images/image125.jpg)
 
 *Turnverein TV 1904*
 
@@ -9594,9 +9594,9 @@ Lehrer: Adolf Großmann
 
 Fuhrwerk Faust
 
-![](image126.jpg)
+![](images/image126.jpg)
 
-![](image127.jpg)
+![](images/image127.jpg)
 
 *Turnfest*
 
@@ -9640,7 +9640,7 @@ CNBL = 105 Stimmen / SPD = 15 Stimmen / DVP = 6 Stimmen / KPD = 5 Stimmen / DDP 
 
 > Quelle: Die Hessen als Reichstagswähler / 1990
 
-![](image128.jpeg)
+![](images/image128.jpeg)
 
 *Ansichtskarte 1928*
 
@@ -9744,25 +9744,25 @@ Ja = 37 Stimmen / Nein = 2 Stimmen
 
 > Quelle: Die Hessen als Reichstagswähler / 1990
 
-![](image129.jpg)
+![](images/image129.jpg)
 
 *Ansichtskarte von 1929*
 
 Impressionen vom 25jährigen Stiftungsfest
 
-![](image130.jpeg)
+![](images/image130.jpeg)
 
-![](image131.jpeg)
+![](images/image131.jpeg)
 
-![](image132.jpg)
+![](images/image132.jpg)
 
-![](image133.jpg)
+![](images/image133.jpg)
 
-![](image134.jpg)
+![](images/image134.jpg)
 
-![](image135.jpg)
+![](images/image135.jpg)
 
-![](image136.jpg)
+![](images/image136.jpg)
 
 ### 1930
 
@@ -9806,11 +9806,11 @@ LP = 92 Stimmen / NSDAP = 21 Stimmen / SPD = 10 Stimmen / CSVD = 5 Stimmen / KPD
 
 > Quelle: Die Hessen als Reichstagswähler / 1990
 
-![](image137.jpg)
+![](images/image137.jpg)
 
 *Jagdgesellschaft 1930*
 
-![](image138.jpeg)
+![](images/image138.jpeg)
 
 ### 1931
 
@@ -9854,25 +9854,25 @@ Anzahl der Schüler: 60
 
 Impressionen vom der 40-Jahr-Feier des Turnvereins:
 
-![](image139.jpg)
+![](images/image139.jpg)
 
-![](image140.jpg)
+![](images/image140.jpg)
 
-![](image141.jpeg)
+![](images/image141.jpeg)
 
-![](image142.jpg)
+![](images/image142.jpg)
 
-![](image143.jpeg)
+![](images/image143.jpeg)
 
-![](image144.jpg)
+![](images/image144.jpg)
 
-![](image145.jpg)
+![](images/image145.jpg)
 
-![](image146.jpeg)
+![](images/image146.jpeg)
 
-![](image147.jpg)
+![](images/image147.jpg)
 
-![](image148.jpeg)
+![](images/image148.jpeg)
 
 ### 1932
 
@@ -9934,7 +9934,7 @@ NSDAP = 154 Stimmen / SPD = 9 Stimmen / LP = 7 Stimmen / DNVP = 6 Stimmen / KPD 
 
 > Quelle: Die Hessen als Reichstagswähler / 1990
 
-![](image149.jpeg)
+![](images/image149.jpeg)
 
 *Gespannkühe*
 
@@ -9988,11 +9988,11 @@ NSDAP = 220 Stimmen / KSWR = 2 Stimmen
 
 > Quelle: Die Hessen als Reichstagswähler / 1990
 
-![](image150.jpg)
+![](images/image150.jpg)
 
 *Strinzer Spielmannszug*
 
-![](image151.jpg)
+![](images/image151.jpg)
 
 Am Hiese Stein (Der Stein hieß so, da er vor dem Grundstück der Familie Hies lag / Ecke Scheidertalstraße/Friedhofstraße)
 
@@ -10032,7 +10032,7 @@ Anzahl der Schüler: 63
 
 Strinzer Motorradgang
 
-![](image152.jpg)
+![](images/image152.jpg)
 
 ### 1935
 
@@ -10064,11 +10064,11 @@ Im Auftrag der NSDAP wurde eine umfangreiche Statistik über den Ort angefertigt
 
 > Quelle: Stat. Erhebung, 1935 / Archiv der Gemeinde Hohenstein
 
-![](image153.jpg)
+![](images/image153.jpg)
 
 *Schulklasse*
 
-![](image154.jpg)
+![](images/image154.jpg)
 
 *Straßenbauarbeiten 1935*
 
@@ -10119,19 +10119,19 @@ Lehrer: Fritz Schmidt
 
 Impressionen von 1936
 
-![](image155.jpg)
+![](images/image155.jpg)
 
-![](image156.jpg)
+![](images/image156.jpg)
 
 *Bei Schneiders Strinzer Turnerriege*
 
-![](image157.jpeg)
+![](images/image157.jpeg)
 
-![](image158.jpeg)
+![](images/image158.jpeg)
 
-![](image159.jpeg)
+![](images/image159.jpeg)
 
-![](image160.jpg)
+![](images/image160.jpg)
 
 ### 1937
 
@@ -10180,7 +10180,7 @@ Schülerzahl: 43
   (Quelle: Helmut Hartwig)
   (Siehe auch unter: Maulwurfjagd)
 
-![](image161.jpg)
+![](images/image161.jpg)
 
 ### 1938
 
@@ -10209,13 +10209,13 @@ Schülerzahl: 43
 
 Impressionen von 1938
 
-![](image162.jpeg)
+![](images/image162.jpeg)
 
-![](image163.jpg)
+![](images/image163.jpg)
 
 *Ausflug Strinzer Spielmannszug in Hausen*
 
-![](image164.jpg)
+![](images/image164.jpg)
 
 *Strinzer Spielmannszug in Ketternschwalbach*
 
@@ -10239,7 +10239,7 @@ Anzahl Wohnhäuser: 75
 
 > Quelle: Alte Strinzer Chronik
 
-![](image165.jpeg)
+![](images/image165.jpeg)
 
 *StM im Jahre 1939 (Ausschnitt aus einer Schullandkarte der ehemaligen Strinzer Schule)*
 
@@ -10266,9 +10266,9 @@ Anzahl Wohnhäuser: 75
 
 - Am 21. September fällt Karl Gräter als erster Strinzer im Zweiten Weltkrieg. Er wurde 22 Jahre alt.
 
-![](image166.jpeg)
+![](images/image166.jpeg)
 
-![](image167.jpeg)
+![](images/image167.jpeg)
 
 *Strinzer Hitlerjungen Kindergarten*
 
@@ -10288,13 +10288,13 @@ Lehrer: Johannes Buse; Presser (Vertretung aus Steckenroth)
 
 > Quelle: Chronik der Freiwilligen Feuerwehr / 2009
 
-![](image168.jpeg)
+![](images/image168.jpeg)
 
 *Strinz-Margarethä im Herbst 1940*
 
-![](image169.jpeg)
+![](images/image169.jpeg)
 
-![](image170.jpg)
+![](images/image170.jpg)
 
 *Bienenhaus Faust Wilhelm Stößinger, Erna und Hertha Guckes auf dem Weg ins Rübenfeld*
 
@@ -10328,11 +10328,11 @@ Lehrer: Johannes Buse/ Presser (Vertretung aus Steckenroth)
 
 - 31.12.1941 Alois Habich fällt
 
-![](image171.jpg)
+![](images/image171.jpg)
 
 *Ein in StM einquartierter Soldat (wohl zur Gefangenenbewachung)*
 
-![](image172.jpg)
+![](images/image172.jpg)
 
 *Waldarbeiterinnen*
 
@@ -10380,7 +10380,7 @@ Schülerzahl: 32
 
 - 30.12.1942 August Deuser fällt
 
-![](image173.png)
+![](images/image173.png)
 
 ### 1943
 
@@ -10428,13 +10428,13 @@ Lehrer: Müller (Vertretung aus Niederlibbach); Richard Weißer
   (Quelle: Helmut Hartwig)
   (Siehe auch unter: Das Behelfsheim)
 
-![](image174.jpg)
+![](images/image174.jpg)
 
 *NS-Aufmarsch (Anlass unbekannt)*
 
-![](image175.jpeg)
+![](images/image175.jpeg)
 
-![](image176.jpeg)
+![](images/image176.jpeg)
 
 *Erste Hilfe-Gruppe Zuchtsau Weber*
 
@@ -10478,7 +10478,7 @@ Lehrer: Richard Weißer
 
 - 12.10.1944 Emil Gräter fällt
 
-![](image177.jpg)
+![](images/image177.jpg)
 
 *Behelfsheim für Flüchtlinge (Ecke Schulstraße / Pfalzstraße)*
 
@@ -10486,7 +10486,7 @@ Lehrer: Richard Weißer
 
 StM im Jahre 1945 (Das Bild wurde von einem Aufklärungsflugzeug der Amerikaner geschossen)
 
-![](image2.jpg)
+![](images/image2.jpg)
 
 #### Obrigkeiten
 
@@ -10550,9 +10550,9 @@ Gefallene
 
 Wilhelm Faust
 
-![](image178.jpg)
+![](images/image178.jpg)
 
-![](image179.jpg)
+![](images/image179.jpg)
 
 *2 x Strinzer Kindergarten*
 
@@ -10622,13 +10622,13 @@ Kriegsheimkehrer
 
 > Quelle: Hess. Staatsarchiv, Wiesbaden
 
-![](image180.jpg)
+![](images/image180.jpg)
 
-![](image181.jpg)
+![](images/image181.jpg)
 
 *Einschulung*
 
-![](image182.jpg)
+![](images/image182.jpg)
 
 *Lebenmittelkarte*
 
@@ -10679,11 +10679,11 @@ Kriegsheimkehrer
 
 (Siehe auch unter Erlebnisse der Heimkehrer)
 
-![](image183.jpg)
+![](images/image183.jpg)
 
-![](image184.jpeg)
+![](images/image184.jpeg)
 
-![](image185.jpg)
+![](images/image185.jpg)
 
 *Schäfer Goldene Hochzeit Petri Spielende Kinder Scheidertalstraße*
 
@@ -10763,23 +10763,23 @@ Kriegsheimkehrer
 - 368 Wahlberechtigte / 233 Stimmen / SPD 49 / CDU 78 / FDP 156
 > Quelle: Hessisches Staatsarchiv
 
-![](image186.jpeg)
+![](images/image186.jpeg)
 
-![](image187.jpg)
+![](images/image187.jpg)
 
 *2x Strinzer Kerb*
 
-![](image188.jpg)
+![](images/image188.jpg)
 
-![](image189.jpg)
+![](images/image189.jpg)
 
-![](image190.jpg)
+![](images/image190.jpg)
 
 *3x Strinzer Schule*
 
 ### 1949
 
-![](image191.jpg)
+![](images/image191.jpg)
 
 #### Obrigkeiten
 
@@ -10845,23 +10845,23 @@ Wahlberechtigte 371 / 246 abgegebene Stimmen / SPD 18 / KPD 1 / FDP 130 / DWA 75
 
 Impressionen von 1949
 
-![](image192.jpeg)
+![](images/image192.jpeg)
 
-![](image193.jpeg)
+![](images/image193.jpeg)
 
 *Kindergarten Sommerfest*
 
-![](image194.jpeg)
+![](images/image194.jpeg)
 
-![](image195.jpg)
+![](images/image195.jpg)
 
 *Theateraufführung Waldarbeiterinnen*
 
 2 x Turnfest
 
-![](image196.jpeg)
+![](images/image196.jpeg)
 
-![](image197.jpeg)
+![](images/image197.jpeg)
 
 ### 1950
 
@@ -10915,21 +10915,21 @@ Tierbestand: Schweine 585 / Rinder 393 / Schafe 168 / Pferde 41/ Ziegen 59 / Hü
 
 Impressionen von 1950
 
-![](image198.jpg)
+![](images/image198.jpg)
 
 *Bäckerei Bodenheimer (heute Ecke Friedhofstraße/Scheidertalstraße)*
 
 Am rechten Rand das Ochsenehirtenhaus
 
-![](image199.jpeg)
+![](images/image199.jpeg)
 
-![](image200.jpg)
+![](images/image200.jpg)
 
 *Fassenacht Kerbeumzug*
 
-![](image201.jpg)
+![](images/image201.jpg)
 
-![](image202.jpeg)
+![](images/image202.jpeg)
 
 *Konfirmation Kindergarten*
 
@@ -10966,27 +10966,27 @@ Tierbestand: Schweine 554 / Rinder 401/ Schafe 165 / Pferde 41 /Ziegen 60 / Hüh
 
 Impressionen von der Schuleinweihung
 
-![](image203.jpg)
+![](images/image203.jpg)
 
-![](image204.jpg)
+![](images/image204.jpg)
 
-![](image205.jpg)
+![](images/image205.jpg)
 
-![](image206.jpg)
+![](images/image206.jpg)
 
-![](image207.jpg)
+![](images/image207.jpg)
 
 *Weitere Impressionen von 1951*
 
-![](image208.jpeg)
+![](images/image208.jpeg)
 
-![](image209.jpg)
+![](images/image209.jpg)
 
 *Kindergarten 60. Jubiläum Gesangsverein*
 
-![](image210.jpg)
+![](images/image210.jpg)
 
-![](image211.jpeg)
+![](images/image211.jpeg)
 
 *Spielmannszug Landwirt*
 
@@ -11066,13 +11066,13 @@ Waldbewirtschaftung: Einnahmen 62.100,- DM / Ausgaben 24.760,- DM
 - 351 Wahlberechtigte / 200 Stimmen / Wählergruppe 200
 - Kreistagswahl
 - 351 Wahlberechtigte / 244 Stimmen / SPD 37 / CDU 24 / FDP 122 / BHE 61
-![](image212.jpg)
+![](images/image212.jpg)
 
-![](image213.jpg)
+![](images/image213.jpg)
 
 *Schulklasse Kerbegesellschaft*
 
-![](image214.jpg)
+![](images/image214.jpg)
 
 ### 1953
 
@@ -11136,7 +11136,7 @@ Bienenstöcke 118
 
 Kerbegesellschaft 1953
 
-![](image215.jpeg)
+![](images/image215.jpeg)
 
 ### 1954
 
@@ -11180,9 +11180,9 @@ Tierbestand: Schweine 538 / Ziegen 42 / Hühner 1439 / Gänse - / Enten 3 Trut u
 
 2 x 50 Jahre Turnverein
 
-![](image216.jpeg)
+![](images/image216.jpeg)
 
-![](image217.jpeg)
+![](images/image217.jpeg)
 
 *Milchsammelstelle Schule*
 
@@ -11229,9 +11229,9 @@ Kreistagswahl
 
 Die neue Glocke hält Einzug Seifenkistenrennen in Wiesbaden
 
-![](image220.jpg)
+![](images/image220.jpg)
 
-![](image221.png)
+![](images/image221.png)
 
 ### 1956
 
@@ -11277,19 +11277,19 @@ Kreistagswahl
 
 Impressionen von 1956
 
-![](image222.jpeg)
+![](images/image222.jpeg)
 
-![](image223.jpeg)
+![](images/image223.jpeg)
 
 *60 Jahre Gesangsverein Am Hieße Stein*
 
-![](image224.jpeg)
+![](images/image224.jpeg)
 
-![](image225.jpeg)
+![](images/image225.jpeg)
 
 *Kerb Schule*
 
-![](image226.jpg)
+![](images/image226.jpg)
 
 *So sehen glückliche Strinzer Kinder im Jahre 1956 aus*
 
@@ -11347,9 +11347,9 @@ Waldbewirtschaftung: Einnahmen 82.300,- DM / Ausgaben 36.010,- DM
 
 DRP 4
 
-![](image227.jpeg)
+![](images/image227.jpeg)
 
-![](image228.jpeg)
+![](images/image228.jpeg)
 
 *Hochzeite der Kindergärtnerin Elisabeth Ausflug Kintergarten*
 
@@ -11411,7 +11411,7 @@ Flüchtlinge: 23 östlich der Oder-Neiße / 71 Tschechoslowakei / 6 Ungarn
 
 300 Stimmberechtigte / 202 Stimmen / SPD 44 / CDU 35 / FDP 77 / BHE 31 / GVP 15
 
-![](image229.jpg)
+![](images/image229.jpg)
 
 ### 1959
 
@@ -11461,15 +11461,15 @@ Flüchtlinge: 21 östlich der Oder-Neiße / 65 Tschechoslowakei / 4 Ungarn / 1 R
 
 > Quelle: Festschrift zur Sportplatzeinweihung 1990
 
-![](image230.jpeg)
+![](images/image230.jpeg)
 
-![](image231.jpg)
+![](images/image231.jpg)
 
 *Evangelische Frauengruppe Kerbegesellschaft*
 
-![](image232.jpeg)
+![](images/image232.jpeg)
 
-![](image233.jpeg)
+![](images/image233.jpeg)
 
 *Schulausflug Turnfest*
 
@@ -11539,23 +11539,23 @@ Waldbewirtschaftung: Einnahmen 56.000,- DM / Ausgaben 38.870,- DM
 
 301 Wahlberechtigte / 237 Stimmen / SPD 59 / CDU 43 / FDP 112 / GDP, BHE 19 / DRP1
 
-![](image234.jpeg)
+![](images/image234.jpeg)
 
-![](image235.jpeg)
+![](images/image235.jpeg)
 
-![](image236.jpeg)
+![](images/image236.jpeg)
 
-![](image237.jpg)
+![](images/image237.jpg)
 
-![](image238.jpeg)
+![](images/image238.jpeg)
 
-![](image239.jpg)
+![](images/image239.jpg)
 
 *Haus Hartwig Stimmzettel*
 
-![](image240.jpg)
+![](images/image240.jpg)
 
-![](image241.jpg)
+![](images/image241.jpg)
 
 *2 x Erntedankfest*
 
@@ -11611,11 +11611,11 @@ Waldbewirtschaftung: Einnahmen 65.000,- DM / Ausgaben 39.000,- DM
 
 301 Wahlberechtigte / 237 Stimmen / SPD 59 / CDU 43 / FDP 112 / GDP, BHE 19 / DRP1
 
-![](image242.jpeg)
+![](images/image242.jpeg)
 
-![](image243.jpeg)
+![](images/image243.jpeg)
 
-![](image244.jpeg)
+![](images/image244.jpeg)
 
 *Pferd Rosa Sonnenhof Konfirmation*
 
@@ -11635,7 +11635,7 @@ Tierbestand: Schweine 490 / Ziegen 3 / Hühner 1.148 / Gänse - / Enten 10 / Tru
 
 > Quelle: Hess. Staatsarchiv, Wiesbaden
 
-![](image245.jpeg)
+![](images/image245.jpeg)
 
 *Strinzer Jungs*
 
@@ -11689,21 +11689,21 @@ Waldbewirtschaftung: Einnahmen 65.000,- DM / Ausgaben 42.000,- DM
 
 > Quelle: Strinzer Chronik
 
-![](image246.jpg)
+![](images/image246.jpg)
 
-![](image247.jpeg)
+![](images/image247.jpeg)
 
 *Am Hieße Stein Einschulung*
 
-![](image248.jpeg)
+![](images/image248.jpeg)
 
-![](image249.jpeg)
+![](images/image249.jpeg)
 
 *2 x Strinzer Kerb*
 
 ### 1964
 
-![](image250.jpg)
+![](images/image250.jpg)
 
 *StM mit Neubaugebiet Schulstraße (im Vordergrund)*
 
@@ -11751,19 +11751,19 @@ Waldbewirtschaftung: Einnahmen 65.000,- DM / Ausgaben 42.000,- DM
 
 > Quelle: Vereinschronik der Strinzer Landfrauen
 
-![](image251.jpeg)
+![](images/image251.jpeg)
 
-![](image252.jpg)
+![](images/image252.jpg)
 
 *Kircheneinweihung Männergesangsverein*
 
-![](image253.jpg)
+![](images/image253.jpg)
 
-![](image254.jpeg)
+![](images/image254.jpeg)
 
 *Am Hieße Stein In der Scheidertalstraße*
 
-![](image255.jpg)
+![](images/image255.jpg)
 
 *Ortsansicht*
 
@@ -11811,9 +11811,9 @@ Kreistagswahl
 
 337 Wahlberechtigte / 223 Stimmern / SPD 72 / CDU 78 / FDP 74 / DFU 2 / NPD 7
 
-![](image256.jpeg)
+![](images/image256.jpeg)
 
-![](image257.jpeg)
+![](images/image257.jpeg)
 
 *Blumenpracht in der Scheidertalstraße Kerb*
 
@@ -11895,9 +11895,9 @@ Waldbewirtschaftung: Einnahmen 80.000,- DM / Ausgaben 50.000,- DM
 
 357 Wahlberechtigte / 255 Stimmen / SPD 94 / CDU 56 / FDP 71 / GDP, BHE 14 / NPD 20
 
-![](image258.jpg)
+![](images/image258.jpg)
 
-![](image259.jpeg)
+![](images/image259.jpeg)
 
 *Brückenbau Schulstraße/Sportplatz Sportplatzbau*
 
@@ -11955,19 +11955,19 @@ Waldbewirtschaftung: Einnahmen 65.000,- DM / Ausgaben 40.500,- DM
 
 > Quelle: Festschrift zur Sportplatzeinweihung 1990
 
-![](image260.jpeg)
+![](images/image260.jpeg)
 
-![](image261.jpg)
+![](images/image261.jpg)
 
-![](image262.jpeg)
+![](images/image262.jpeg)
 
-![](image263.jpeg)
+![](images/image263.jpeg)
 
 *Einweihung Feuerwehrhaus Neue Feuerspritze*
 
-![](image264.jpg)
+![](images/image264.jpg)
 
-![](image265.jpeg)
+![](images/image265.jpeg)
 
 *Festumzug Löschvorführung*
 
@@ -12037,15 +12037,15 @@ Die zweite Probebohrung wird an der "Insel" vorgenommen, ebenfalls erfolglos. Di
 
 > Quelle: Alte Strinzer Chronik
 
-![](image266.jpg)
+![](images/image266.jpg)
 
-![](image267.jpg)
+![](images/image267.jpg)
 
 *Abriss des alten Spritzenhauses am heutigen Brunnenplatz*
 
-![](image268.jpeg)
+![](images/image268.jpeg)
 
-![](image269.jpg)
+![](images/image269.jpg)
 
 *Tuniermannschaft Alte Telefonzelle am Feuerwehrgerätehaus*
 
@@ -12167,15 +12167,15 @@ Waldbewirtschaftung: Einnahmen 54.000,- DM / Ausgaben 43.820,- DM
 
 > Quelle: Rundschreiben von StM Nr. 12/69
 
-![](image270.png)
+![](images/image270.png)
 
-![](image271.jpeg)
+![](images/image271.jpeg)
 
 *Strinzer Wappen Fasching*
 
-![](image272.jpg)
+![](images/image272.jpg)
 
-![](image273.jpg)
+![](images/image273.jpg)
 
 *Kindergarten Letzte Einschulung in StM*
 
@@ -12242,7 +12242,7 @@ Baulandpreise: 15 - 20 DM pro m2
 
 428 Wahlberechtigte / 351 Stimmen / SPD 146 / CDU 142 / FDP 22 / NPD 39 / AP 2
 
-![](image274.jpg)
+![](images/image274.jpg)
 
 *Männergesangsverein*
 
@@ -12293,11 +12293,11 @@ Tierbestand: Schweine 619 / Hühner 652 / Bienenstöcke 32 / Rinder 363 / Schafe
 
 > Quelle: Alte Strinzer Chronik
 
-![](image275.jpeg)
+![](images/image275.jpeg)
 
-![](image276.jpeg)
+![](images/image276.jpeg)
 
-![](image277.jpg)
+![](images/image277.jpg)
 
 *Brand bei Egerts Fasching Kindergarten*
 
@@ -12358,11 +12358,11 @@ Haushaltsetat: 894.000,- DM
 
 - Ein neues Raumordnungsverfahren sieht vor, dass die neue Gemeinde Hohenstein schon wieder aufgelöst wird und u.a. StM nach Taunusstein eingemeindet wird. Mit dem Hinweis, dass es sich dabei nur um eine Vorstudie handelte, wird dieses Vorhaben nicht umgesetzt.
 
-![](image278.jpg)
+![](images/image278.jpg)
 
-![](image279.jpg)
+![](images/image279.jpg)
 
-![](image280.jpeg)
+![](images/image280.jpeg)
 
 Ortseingang von Breithard aus kommend Pflanzung Linde Der Kriegsgefangen kehrt zurück (vorne rechts)
 
@@ -12419,9 +12419,9 @@ Einwohner: 819
 
 > Quelle: Alte Strinzer Chronik
 
-![](image281.jpeg)
+![](images/image281.jpeg)
 
-![](image282.jpeg)
+![](images/image282.jpeg)
 
 *2 x Kerb*
 
@@ -12461,21 +12461,21 @@ Einwohner: 839
 
 Wahlberechtigte 592 / Stimmen 490 / SPD 175 / CDU 265 / FDP 41 / DKP 1 / NPD 8
 
-![](image283.jpeg)
+![](images/image283.jpeg)
 
-![](image284.jpeg)
+![](images/image284.jpeg)
 
 *2 x Kinderfest*
 
-![](image285.jpeg)
+![](images/image285.jpeg)
 
-![](image286.jpeg)
+![](images/image286.jpeg)
 
-![](image287.jpeg)
+![](images/image287.jpeg)
 
 *3 x Fasching*
 
-![](image288.jpg)
+![](images/image288.jpg)
 
 *Kranzniederlegung am Ehrenmal*
 
@@ -12519,9 +12519,9 @@ Neubauten nach dem 2. Weltkrieg: 153
 
 - Der letzte Lehrer von StM, Horst Witt, räumt die Lehrerwohnung in der Schule und zieht in ein Eigenheim in der Gartenstraße. Damit steht auch die Lehrerwohnung der "Sonderschule für praktisch bildbare Kinder" zur Verfügung.
 
-![](image289.jpeg)
+![](images/image289.jpeg)
 
-![](image290.jpeg)
+![](images/image290.jpeg)
 
 *Luftbild Das „Milchauto“ der Freiwilligen Feuerwehr*
 
@@ -12583,7 +12583,7 @@ Gastwirtschaften: 4
 
 > Quelle: Alte Strinzer Chronik
 
-![](image291.jpg)
+![](images/image291.jpg)
 
 *Grundsteinlegung Aubachhalle*
 
@@ -12635,7 +12635,7 @@ Mietpreise: 4 DM pro m2
   (Quelle: Wiesbadener Kurier)
   (Siehe hierzu auch unter: Starfighterabsturz)
 
-![](image292.jpg)
+![](images/image292.jpg)
 
 - Der letzte Lehrer von StM, Horst Witt, feiert sein 40jähriges Dienstjubiläum.
 
@@ -12695,9 +12695,9 @@ NPD 6 / KBW 0 / GAZ 8 / GLH 4 / FWG 10
 
 > Quelle: Alte Strinzer Chronik
 
-![](image293.jpeg)
+![](images/image293.jpeg)
 
-![](image294.jpeg)
+![](images/image294.jpeg)
 
 *2 x Einweihung Aubachhalle*
 
@@ -12751,15 +12751,15 @@ Europawahl
 
 Wahlberechtigte 647 / Stimmen 429 / SPD 164 / CDU 208 / FDP 40 / DKP 1 / EAP 0 / CBV 3 / Zentrum 0 / Grüne 13
 
-![](image295.jpeg)
+![](images/image295.jpeg)
 
-![](image296.jpg)
+![](images/image296.jpg)
 
 *2 x Kindergarten*
 
-![](image297.jpeg)
+![](images/image297.jpeg)
 
-![](image298.jpeg)
+![](images/image298.jpeg)
 
 *Fasching Kerb*
 
@@ -12807,21 +12807,21 @@ Ortsvorsteher: Werner Petri
 
 Wahlber. 662 / Wähler 620 / Gültig 613 / SPD 243 / CDU 264 / FDP 95 / Grüne 6 / NPD 1
 
-![](image299.jpeg)
+![](images/image299.jpeg)
 
-![](image300.jpeg)
+![](images/image300.jpeg)
 
 *2 x Schlachtfest*
 
-![](image301.jpeg)
+![](images/image301.jpeg)
 
-![](image302.jpeg)
+![](images/image302.jpeg)
 
 *Schlachtfest Fasching*
 
-![](image303.jpeg)
+![](images/image303.jpeg)
 
-![](image304.jpeg)
+![](images/image304.jpeg)
 
 *Katzentanz Kerb*
 
@@ -12875,9 +12875,9 @@ Ortsbeirat
 
 Wahlberechtigte 733 / Stimmen 586 / CDU 197 / SPD 250 / FDP 44 / FWG 95
 
-![](image305.jpeg)
+![](images/image305.jpeg)
 
-![](image306.jpeg)
+![](images/image306.jpeg)
 
 *Fasching Kerb*
 
@@ -12919,9 +12919,9 @@ CDU 283 / SPD 231 / FDP 34 / DKP 0 / EAP 1 / Grüne 33
 
 > Quelle: Alte Strinzer Chronik
 
-![](image307.jpeg)
+![](images/image307.jpeg)
 
-![](image308.jpg)
+![](images/image308.jpg)
 
 *Luftaufnahme Fasching*
 
@@ -12971,7 +12971,7 @@ CDU 227 / SPD 241 / Grüne 32 / LD 2 / FDP 91 / DKP 0 / EAP 0
 
 Fasching (Aufführung Zauberladen)
 
-![](image309.jpeg)
+![](images/image309.jpeg)
 
 ### 1984
 
@@ -13054,31 +13054,31 @@ Wahlberechtigte 761 / Stimmen 430 / SPD 163 / CDU 182 / FDP 41 / Grüne 32 / EAP
 
 Impressionen der 800-Jahr Feier
 
-![](image310.jpeg)
+![](images/image310.jpeg)
 
-![](image311.jpeg)
+![](images/image311.jpeg)
 
-![](image312.jpg)
+![](images/image312.jpg)
 
-![](image313.jpg)
+![](images/image313.jpg)
 
-![](image314.jpg)
+![](images/image314.jpg)
 
 *Weitere Impressionen*
 
-![](image315.jpeg)
+![](images/image315.jpeg)
 
-![](image316.jpeg)
+![](images/image316.jpeg)
 
 *Hessentag Kartoffelernte*
 
-![](image317.jpeg)
+![](images/image317.jpeg)
 
-![](image318.jpeg)
+![](images/image318.jpeg)
 
 *2 x Kerb*
 
-![](image319.jpeg)
+![](images/image319.jpeg)
 
 *Luftbild*
 
@@ -13128,13 +13128,13 @@ Ortsbeiräte
 
 Wahlberechtigte 281 / CDU 167 / FDP 41 / Grüne 28 / FWG 137 / WGH 0
 
-![](image320.jpeg)
+![](images/image320.jpeg)
 
-![](image321.jpeg)
+![](images/image321.jpeg)
 
 *2 x Kerb*
 
-![](image322.jpg)
+![](images/image322.jpg)
 
 ### 1986
 
@@ -13175,9 +13175,9 @@ Ortsvorsteher: Ernst Losert
 
 > Quelle: Alte Strinzer Chronik
 
-![](image323.jpeg)
+![](images/image323.jpeg)
 
-![](image324.jpg)
+![](images/image324.jpg)
 
 *Kerb Schließung der Milchsammelstelle*
 
@@ -13233,9 +13233,9 @@ Wahlber. 802 / SPD 194 / CDU 249 / FDP 56 / Grüne 55 / DKP 1 / ÖDP 1
 Wahlber. 726 / Wähler 564 / Gültig 556 / SPD 194 / CDU 249 / FDP 56 / Grüne 55 / DKP 1 /
 ÖDP 1
 
-![](image325.jpeg)
+![](images/image325.jpeg)
 
-![](image326.jpeg)
+![](images/image326.jpeg)
 
 *Kerb Konfirmation*
 
@@ -13279,13 +13279,13 @@ Ortsvorsteher: Ernst Losert
 
 > Quelle: Wiesbadener Kurier
 
-![](image327.jpeg)
+![](images/image327.jpeg)
 
-![](image328.jpeg)
+![](images/image328.jpeg)
 
 *Freiwillige Feuerwehr Showtanzgruppe*
 
-![](image329.jpg)
+![](images/image329.jpg)
 
 ### 1989
 
@@ -13335,9 +13335,9 @@ Einwohner: 1034
 
 Wahlber. 813 / Stimmen 664 / CDU 107 / SPD 255 / FDP 46 / FWG 256
 
-![](image330.jpeg)
+![](images/image330.jpeg)
 
-![](image331.jpeg)
+![](images/image331.jpeg)
 
 *Landfrauen Showtanzgruppe*
 
@@ -13399,7 +13399,7 @@ Wahlber. 840 / Stimmern 660 / CDU 292 / SPD 226 / Grüne 53 / FDP 64 / Rep. 21 /
 
 > Quelle: Wiesbadener Kurier
 
-![](image332.jpg)
+![](images/image332.jpg)
 
 ### 1991
 
@@ -13441,7 +13441,7 @@ Wahlber. 846 / Stimmen 562 / CDU 218 / SPD 229 / Grüne 49 / FDP 48 / Rep. 18 / 
 
 > Quelle: Wiesbadener Kurier
 
-![](image333.jpg)
+![](images/image333.jpg)
 
 ### 1992
 
@@ -13477,7 +13477,7 @@ Wahl der Gemeindevertretung
 
 Stimmen 650 / SPD 247 / CDU 113 / Grüne 97 / FDP 43 / FWG 150
 
-![](image334.jpeg)
+![](images/image334.jpeg)
 
 *Kerb*
 
@@ -13509,7 +13509,7 @@ Ortsvorsteherin: Christa Enders
 
 > Quelle: Alte Strinzer Chronik
 
-![](image335.jpeg)
+![](images/image335.jpeg)
 
 *Showtanzgruppe begleitet Schlagersänger Costa Cordalis*
 
@@ -13548,9 +13548,9 @@ Ortsvorsteherin: Christa Enders
 
 > Quelle: Archiv der Gemeinde Hohenstein
 
-![](image336.jpeg)
+![](images/image336.jpeg)
 
-![](image337.jpeg)
+![](images/image337.jpeg)
 
 *Showtanzgruppe 60 Jahre Freiwillig Feuerwehr StM*
 
@@ -13576,9 +13576,9 @@ Ortsvorsteherin: Christa Enders
 
 > Quelle: Archiv der Gemeinde Hohenstein
 
-![](image338.jpg)
+![](images/image338.jpg)
 
-![](image339.jpeg)
+![](images/image339.jpeg)
 
 *Getreideernte Showtanzgruppe*
 
@@ -13588,7 +13588,7 @@ Pfarrer: Dr. Jürgen Noack
 
 Ortsvorsteherin: Christa Enders
 
-![](image340.jpg)
+![](images/image340.jpg)
 
 *Showtanzgruppe*
 
@@ -13602,7 +13602,7 @@ Ortsvorsteherin: Christa Enders
 
 - Gründung des Pumuckle-Orchesters innerhalb der Musikfreunde Strinz-Margarethä e.V..
 
-![](image341.jpg)
+![](images/image341.jpg)
 
 ### 1998
 
@@ -13618,9 +13618,9 @@ Ortsvorsteherin: Christa Enders
 
 Kinder aus Tschernobyl
 
-![](image342.jpg)
+![](images/image342.jpg)
 
-![](image343.jpg)
+![](images/image343.jpg)
 
 *Kindergarten*
 
