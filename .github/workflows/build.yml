@@ -26,11 +26,7 @@ jobs:
         working-directory: site
         run: npm ci
 
-      - name: Optimise images
-        working-directory: site
-        run: npm run images
-
-      - name: Build and test
+      - name: Build and test          # `prebuild` optimises the images
         working-directory: site
         run: |
           npx playwright install --with-deps chromium

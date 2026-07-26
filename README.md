@@ -7,7 +7,7 @@ and a year-by-year chronicle from 1100 to 2000.
 ```
 assets/quelle/   the raw material: the machine dump of the original Word file
 tools/           the data pipeline (Python) that turns it into usable content
-data/            generated: stream.json, outline.json, content.json, images.json
+data/            the prepared content (committed, regenerate with the pipeline)
 site/            the Astro site; `npm run build` writes static HTML to site/dist
 ```
 
@@ -35,11 +35,18 @@ Two signals survived and make a reconstruction possible:
 ## The pipeline
 
 ```bash
-python3 tools/pipeline.py          # 1-4 below, then prints the quality report
 cd site && npm install
-npm run images                     # 5
-npm run build                      # 6  -> site/dist
-npm test                           # builds, then runs data + browser tests
+npm run dev                        # or: npm run build  -> site/dist
+```
+
+`data/*.json` is committed, so a clone builds straight away; the image
+derivatives are not, so `dev` and `build` regenerate them first (~15 s once,
+skipped afterwards). Only a change to the source material needs the Python
+side:
+
+```bash
+python3 tools/pipeline.py          # steps 1-4 below, then the quality report
+cd site && npm test                # builds, then runs data + browser tests
 ```
 
 | step | script | what it does |
@@ -98,5 +105,5 @@ horizontal scrolling on a phone, dark mode applies, metadata present.
 
 ## Deployment
 
-`site/dist` is a plain directory of static files. `site/Dockerfile` builds it
-and serves it with nginx.
+`site/dist` is a plain directory of static files. The `Dockerfile` in the repo
+root builds everything from source and serves the result with nginx.
