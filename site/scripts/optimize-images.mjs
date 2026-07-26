@@ -76,9 +76,14 @@ async function main() {
   });
   await Promise.all(workers);
 
+  // sorted, so that re-running produces a byte-identical manifest instead of
+  // whatever order the workers happened to finish in
+  const sorted = Object.fromEntries(
+    Object.entries(manifest).sort(([a], [b]) => a.localeCompare(b, "en")),
+  );
   await writeFile(
     path.join(ROOT, "data/images.json"),
-    JSON.stringify(manifest, null, 0),
+    JSON.stringify(sorted, null, 0),
     "utf8",
   );
   console.log(`optimised ${Object.keys(manifest).length} images` +
