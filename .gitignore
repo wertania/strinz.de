@@ -1,2 +1,15 @@
-assets/quelle/Strinzer Chronik überarbeitet.docx
-assets/quelle/strinzer_chronik.zip
+# Generated, but committed: data/*.json is the curated content the site imports,
+# so a clone builds without a Python run. Regenerate with tools/pipeline.py.
+site/public/bilder/
+site/dist/
+site/.astro/
+site/node_modules/
+node_modules/
+
+# not distributable
+assets/quelle/*.docx
+assets/quelle/*.zip
+assets/quelle/docx_extracted/
+assets/quelle/markdown_output/
+__pycache__/
+*.pyc

@@ -1,0 +1,24 @@
+---
+import { imageMeta } from "../lib/chronik.js";
+
+const { file, caption, compact = false, eager = false } = Astro.props;
+const meta = imageMeta[file];
+const name = meta?.name ?? file.replace(/\.[a-z]+$/i, "");
+const src = compact ? `/bilder/klein/${name}.webp` : `/bilder/gross/${name}.webp`;
+---
+
+{meta && (
+  <figure>
+    <a href={`/bilder/gross/${name}.webp`}>
+      <img
+        src={src}
+        width={compact ? Math.min(meta.width, 520) : meta.width}
+        height={compact ? Math.round(Math.min(meta.width, 520) * (meta.height / meta.width)) : meta.height}
+        loading={eager ? "eager" : "lazy"}
+        decoding="async"
+        alt={caption ?? "Bildtafel aus der Chronik von Strinz-Margarethä"}
+      />
+    </a>
+    {caption && <figcaption>{caption}</figcaption>}
+  </figure>
+)}

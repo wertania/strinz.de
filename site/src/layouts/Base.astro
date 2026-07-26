@@ -1,0 +1,106 @@
+---
+import "@fontsource-variable/eb-garamond";
+import "@fontsource/inter/400.css";
+import "@fontsource/inter/600.css";
+import "../styles/global.css";
+
+const {
+  title,
+  description = "Die Chronik von Strinz-Margarethä im Taunus — 800 Jahre Dorfgeschichte, erschlossen aus der Ortschronik.",
+  wide = false,
+} = Astro.props;
+
+const path = Astro.url.pathname;
+const nav = [
+  { href: "/chronik/", label: "Chronik" },
+  { href: "/kapitel/", label: "Kapitel" },
+  { href: "/register/", label: "Register" },
+  { href: "/bilder/", label: "Bilder" },
+  { href: "/suche/", label: "Suche" },
+];
+const active = (href) => (path === href || (href !== "/" && path.startsWith(href)) ? "page" : undefined);
+const full = title ? `${title} — Chronik Strinz-Margarethä` : "Chronik Strinz-Margarethä";
+---
+
+<!doctype html>
+<html lang="de">
+  <head>
+    <meta charset="utf-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1" />
+    <title>{full}</title>
+    <meta name="description" content={description} />
+    <meta property="og:title" content={full} />
+    <meta property="og:description" content={description} />
+    <meta property="og:type" content="website" />
+    <meta property="og:locale" content="de_DE" />
+    <link rel="canonical" href={new URL(path, Astro.site)} />
+    <link rel="icon" href="/favicon.svg" type="image/svg+xml" />
+    <script is:inline>
+      (() => {
+        try {
+          const saved = localStorage.getItem("theme");
+          if (saved) document.documentElement.dataset.theme = saved;
+        } catch {}
+      })();
+    </script>
+  </head>
+  <body>
+    <a href="#inhalt" class="sr-only">Zum Inhalt springen</a>
+    <header class="masthead">
+      <div class="wrap masthead__inner">
+        <a class="masthead__brand" href="/"><b>Strinz-Margarethä</b> <span>Chronik</span></a>
+        <nav aria-label="Hauptnavigation">
+          {nav.map((item) => <a href={item.href} aria-current={active(item.href)}>{item.label}</a>)}
+        </nav>
+        <button class="theme-toggle" type="button" data-theme-toggle aria-label="Farbschema wechseln">
+          Ansicht
+        </button>
+      </div>
+    </header>
+
+    <main id="inhalt" class={wide ? "" : ""}>
+      <slot />
+    </main>
+
+    <footer class="colophon">
+      <div class="wrap colophon__grid">
+        <div>
+          <h2>Die Chronik</h2>
+          <ul>
+            <li><a href="/chronik/">Chronik nach Jahren</a></li>
+            <li><a href="/kapitel/">Kapitel und Inhalt</a></li>
+            <li><a href="/register/">Register der Amtsträger</a></li>
+            <li><a href="/bilder/">Bildtafeln</a></li>
+          </ul>
+        </div>
+        <div>
+          <h2>Über</h2>
+          <ul>
+            <li><a href="/ueber/">Über diese Ausgabe</a></li>
+            <li><a href="/suche/">Volltextsuche</a></li>
+            <li><a href="/impressum/">Impressum</a></li>
+          </ul>
+        </div>
+        <div>
+          <h2>Quelle</h2>
+          <p style="margin:0">
+            Nach der Ortschronik von Strinz-Margarethä, zusammengetragen von Frank
+            Schwarzer, sowie den Aufzeichnungen von Pfarrer Ludwig Schmidtborn,
+            Rektor Richard Weißer und Lehrer Horst Witt.
+          </p>
+        </div>
+      </div>
+    </footer>
+
+    <script is:inline>
+      document.querySelector("[data-theme-toggle]")?.addEventListener("click", () => {
+        const root = document.documentElement;
+        const dark = root.dataset.theme
+          ? root.dataset.theme === "dark"
+          : matchMedia("(prefers-color-scheme: dark)").matches;
+        root.dataset.theme = dark ? "light" : "dark";
+        try { localStorage.setItem("theme", root.dataset.theme); } catch {}
+      });
+    </script>
+  </body>
+</html>

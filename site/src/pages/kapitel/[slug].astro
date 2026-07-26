@@ -1,0 +1,94 @@
+---
+import Base from "../../layouts/Base.astro";
+import Blocks from "../../components/Blocks.astro";
+import Glossary from "../../components/Glossary.astro";
+import { parts, sectionAnchor } from "../../lib/chronik.js";
+
+export function getStaticPaths() {
+  return parts.map((part, i) => ({
+    params: { slug: part.slug },
+    props: { part, prev: parts[i - 1] ?? null, next: parts[i + 1] ?? null },
+  }));
+}
+
+const { part, prev, next } = Astro.props;
+const isAppendix = part.number === "17";
+const blurb = isAppendix
+  ? "Textstellen, die sich keinem Kapitel sicher zuordnen ließen — geordnet nach dem Abschnitt, in dessen Nähe sie in der Vorlage stehen."
+  : `${part.sections.length} ${part.sections.length === 1 ? "Abschnitt" : "Abschnitte"} der Ortschronik${part.page ? `, ab Seite ${part.page}` : ""}.`;
+const summary = part.sections.filter((s) => s.level > 1);
+---
+
+<Base title={part.title} description={`${part.title} — ${blurb}`}>
+  <div class="wrap pagehead">
+    <p class="eyebrow"><a href="/kapitel/" style="text-decoration:none">Kapitel</a></p>
+    <h1>{part.title}</h1>
+    <p style="margin-top:0.9rem">{blurb}</p>
+  </div>
+
+  <div class="wrap chapter">
+    {summary.length > 2 && (
+      <aside class="chapter__nav" aria-label="Abschnitte dieses Kapitels">
+        <p class="eyebrow">Abschnitte</p>
+        <ol>
+          {summary.map((s) => (
+            <li><a href={`#${sectionAnchor(s)}`}>{s.title}</a></li>
+          ))}
+        </ol>
+      </aside>
+    )}
+
+    <div class="chapter__body">
+      {part.sections.map((section) => (
+        <section class="section" id={sectionAnchor(section)}>
+          <header class="section__head">
+            <p class="section__num">{isAppendix ? `zu ${section.origin}` : section.number} · Seite {section.page}</p>
+            <h2>{section.title}</h2>
+            {section.number === "4.1" && (
+              <p style="color:var(--ink-faint);font-size:0.9rem;margin:0.6rem 0 0">
+                Die Vorlage führt hochdeutsches Wort und Strinzer Mundartform
+                abwechselnd auf. Die maschinelle Ausschüttung hat diese Zuordnung
+                stellenweise verschoben, deshalb steht hier die reine Wortliste.
+              </p>
+            )}
+          </header>
+          {section.number === "4.1"
+            ? <Glossary blocks={section.blocks} />
+            : <Blocks blocks={section.blocks} />}
+        </section>
+      ))}
+
+      <nav class="pager" aria-label="Weitere Kapitel">
+        {prev ? <a href={`/kapitel/${prev.slug}/`}><small>Zurück</small>{prev.title}</a> : <span />}
+        {next ? <a href={`/kapitel/${next.slug}/`} style="text-align:right"><small>Weiter</small>{next.title}</a> : <span />}
+      </nav>
+    </div>
+  </div>
+</Base>
+
+<style>
+  .chapter {
+    display: grid;
+    grid-template-columns: 15rem minmax(0, 1fr);
+    gap: 4rem;
+    margin: 3rem auto 0;
+    align-items: start;
+  }
+  .chapter:only-child, .chapter > .chapter__body:only-child { grid-column: 1 / -1; }
+  .chapter__nav { position: sticky; top: 6rem; font-family: var(--sans); font-size: 0.83rem; }
+  .chapter__nav ol { list-style: none; margin: 0.8rem 0 0; padding: 0 0.5rem 0 0; display: grid; gap: 0.45rem; max-height: calc(100vh - 10rem); overflow-y: auto; }
+  .chapter__nav a { text-decoration: none; color: var(--ink-soft); line-height: 1.35; display: block; }
+  .chapter__nav a:hover { color: var(--ink); }
+  .chapter__body { max-width: 42rem; }
+
+  .section { padding: 2.75rem 0; border-top: 1px solid var(--rule); scroll-margin-top: 6rem; }
+  .section:first-child { border-top: 0; padding-top: 0.5rem; }
+  .section__head { margin-bottom: 1.4rem; }
+  .section__num { font-family: var(--sans); font-size: 0.68rem; letter-spacing: 0.15em; text-transform: uppercase; color: var(--ink-faint); margin: 0 0 0.45rem; }
+  .section h2 { font-size: clamp(1.5rem, 1.2rem + 1.2vw, 2rem); }
+
+  @media (max-width: 62rem) {
+    .chapter { grid-template-columns: 1fr; gap: 2rem; }
+    .chapter__nav { position: static; border-bottom: 1px solid var(--rule); padding-bottom: 1.5rem; }
+  }
+</style>

@@ -1,0 +1,142 @@
+---
+import Base from "../layouts/Base.astro";
+import { stats, epochs, parts, years, plates } from "../lib/chronik.js";
+
+const highlights = [
+  { slug: "geschichten", blurb: "Vom Kadettenmord bis zum abgestürzten Starfighter — die erzählten Stücke der Dorfgeschichte." },
+  { slug: "mundart", blurb: "Wörterbuch und Mundartproben der heimatlichen Sprache." },
+  { slug: "brauchtum", blurb: "Geburt, Kerb, Polterabend, Weihnachten — das Jahr im Dorf." },
+  { slug: "gemarkung", blurb: "Wald, Linde, Steinbrüche, Laufbrunnen und die alten Flurnamen." },
+]
+  .map((h) => ({ ...h, part: parts.find((p) => p.slug === h.slug) }))
+  .filter((h) => h.part);
+
+const firstYear = years[0]?.year;
+const teaser = years.find((y) => y.year === 1184) ?? years[0];
+const teaserText = teaser?.groups
+  .flatMap((g) => g.blocks)
+  .find((b) => b.type === "paragraph" && b.text.length > 120);
+---
+
+<Base
+  title={null}
+  description="Die Chronik des Taunusdorfes Strinz-Margarethä: 1184 erstmals urkundlich erwähnt, hier erschlossen als durchsuchbare Jahreschronik mit Kapiteln, Registern und historischen Bildtafeln."
+>
+  <section class="hero">
+    <div class="wrap hero__inner">
+      <div class="hero__text">
+        <p class="eyebrow">Gemeinde Hohenstein im Taunus</p>
+        <h1>Strinz&#8209;Margarethä</h1>
+        <hr class="rule-gold" />
+        <p class="lede">
+          „Strinzge Minorem“ — so steht das Dorf 1184 zum ersten Mal in einer
+          Urkunde. Was seither geschah, hat eine Ortschronik über 774 Seiten
+          zusammengetragen. Diese Ausgabe macht sie lesbar.
+        </p>
+        <p class="hero__cta">
+          <a href="/chronik/">Zur Chronik nach Jahren</a>
+          <a href="/kapitel/">Kapitel des Buches</a>
+        </p>
+      </div>
+      <figure class="hero__plate">
+        <img
+          src="/bilder/gross/image2.webp"
+          width="1000"
+          height="694"
+          alt="Luftaufnahme von Strinz-Margarethä im Jahr 1945"
+          fetchpriority="high"
+        />
+        <figcaption>Strinz-Margarethä im Jahre 1945</figcaption>
+      </figure>
+    </div>
+  </section>
+
+  <section class="wrap">
+    <div class="stat-row">
+      <div class="stat"><b>1184</b><span>Erste Erwähnung</span></div>
+      <div class="stat"><b>{stats.years}</b><span>Dokumentierte Jahre</span></div>
+      <div class="stat"><b>{stats.blocks.toLocaleString("de-DE")}</b><span>Einträge</span></div>
+      <div class="stat"><b>{plates.length}</b><span>Bildtafeln</span></div>
+    </div>
+  </section>
+
+  {teaserText && (
+    <section class="wrap quote-band">
+      <blockquote>
+        <p>{teaserText.text}</p>
+        <footer>Aus der Chronik, Jahr {teaser.year}</footer>
+      </blockquote>
+    </section>
+  )}
+
+  <section class="wrap section-block">
+    <p class="eyebrow">Die Chronik</p>
+    <h2>Fünfzehn Zeitalter, Jahr für Jahr</h2>
+    <p class="prose" style="color:var(--ink-soft)">
+      Das Herzstück der Ortschronik ist eine Aufzeichnung nach Jahren: wer Amt und
+      Würden trug, was sich ereignete, was die Kirchenchronik vermerkte und wie
+      viele Menschen im Dorf lebten. Sie beginnt {firstYear} und reicht bis zum
+      Jahr 2000.
+    </p>
+    <ul class="chips">
+      {epochs.map((e) => (
+        <li><a href={`/chronik/${e.slug}/`}>{e.label}</a></li>
+      ))}
+    </ul>
+  </section>
+
+  <section class="wrap section-block">
+    <p class="eyebrow">Aus dem Buch</p>
+    <h2>Kapitel</h2>
+    <div class="cards" style="margin-top:1.75rem">
+      {highlights.map((h) => (
+        <a class="card" href={`/kapitel/${h.part.slug}/`}>
+          <h3>{h.part.title}</h3>
+          <p>{h.blurb}</p>
+          <p class="card__meta">{h.part.sections.length} Abschnitte</p>
+        </a>
+      ))}
+    </div>
+    <p style="margin-top:1.75rem"><a href="/kapitel/">Alle Kapitel und das vollständige Inhaltsverzeichnis →</a></p>
+  </section>
+
+  <section class="wrap section-block">
+    <p class="eyebrow">Bildtafeln</p>
+    <h2>Was überliefert ist</h2>
+    <div class="plate-row" style="margin-top:1.5rem">
+      {plates.slice(4, 12).map((p) => (
+        <figure>
+          <a href={`/bilder/#tafel-${p.name}`}>
+            <img src={`/bilder/klein/${p.name}.webp`} width="520" height={Math.round(520 * (p.height / p.width))} loading="lazy" decoding="async" alt={`Bildtafel: ${p.context}`} />
+          </a>
+        </figure>
+      ))}
+    </div>
+    <p style="margin-top:1.25rem"><a href="/bilder/">Alle {plates.length} Bildtafeln ansehen →</a></p>
+  </section>
+</Base>
+
+<style>
+  .hero { padding: clamp(2.5rem, 6vw, 5rem) 0 clamp(2rem, 4vw, 3.5rem); }
+  .hero__inner { display: grid; gap: clamp(2rem, 5vw, 4rem); align-items: center; grid-template-columns: minmax(0, 1fr) minmax(0, 1.05fr); }
+  .hero h1 { font-size: clamp(2.6rem, 1.4rem + 5.4vw, 5rem); letter-spacing: -0.02em; line-height: 1.02; }
+  .hero__text .lede { max-width: 32rem; }
+  .hero__cta { display: flex; flex-wrap: wrap; gap: 0.75rem 1.5rem; margin-top: 2rem; font-family: var(--sans); font-size: 0.85rem; letter-spacing: 0.03em; }
+  .hero__cta a { text-decoration: none; border: 1px solid var(--rule-strong); padding: 0.6rem 1.2rem; }
+  .hero__cta a:first-child { background: var(--ink); color: var(--paper); border-color: var(--ink); }
+  .hero__cta a:hover { border-color: var(--gold); }
+  .hero__plate { margin: 0; }
+  .hero__plate img { border: 1px solid var(--rule); filter: saturate(0.9); }
+
+  @media (max-width: 54rem) {
+    .hero__inner { grid-template-columns: 1fr; }
+  }
+
+  .quote-band { margin: 3.5rem auto; }
+  .quote-band blockquote { margin: 0; padding: 2rem 0; border-top: 1px solid var(--rule); border-bottom: 1px solid var(--rule); max-width: 46rem; }
+  .quote-band p { font-size: 1.25em; font-style: italic; line-height: 1.55; margin: 0 0 1rem; color: var(--ink-soft); }
+  .quote-band footer { font-family: var(--sans); font-size: 0.72rem; letter-spacing: 0.16em; text-transform: uppercase; color: var(--gold); }
+
+  .section-block { margin: clamp(3rem, 7vw, 5.5rem) auto; }
+  .section-block h2 { font-size: clamp(1.7rem, 1.2rem + 2vw, 2.5rem); margin: 0.35rem 0 1rem; }
+</style>

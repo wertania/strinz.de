@@ -1,0 +1,23 @@
+{
+  "name": "strinz-margarethae-chronik",
+  "type": "module",
+  "private": true,
+  "scripts": {
+    "data": "python3 ../tools/pipeline.py",
+    "images": "node scripts/optimize-images.mjs",
+    "predev": "npm run images",
+    "prebuild": "npm run images",
+    "dev": "astro dev",
+    "build": "astro build",
+    "preview": "astro preview",
+    "test": "npm run build && node --test tests/*.test.mjs"
+  },
+  "dependencies": {
+    "@astrojs/sitemap": "^3.7.3",
+    "@fontsource-variable/eb-garamond": "^5.3.0",
+    "@fontsource/inter": "^5.3.0",
+    "astro": "^5.14.1",
+    "playwright": "^1.62.0",
+    "sharp": "^0.34.4"
+  }
+}
