@@ -4,7 +4,8 @@
   "private": true,
   "scripts": {
     "data": "python3 ../tools/pipeline.py",
-    "images": "node scripts/optimize-images.mjs",
+    "media": "node scripts/ensure-media.mjs",
+    "images": "node scripts/ensure-media.mjs && node scripts/optimize-images.mjs",
     "predev": "npm run images",
     "prebuild": "npm run images",
     "dev": "astro dev",

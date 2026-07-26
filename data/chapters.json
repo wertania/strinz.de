@@ -1,0 +1,128 @@
+[
+  {
+    "file": "00-titelei.md",
+    "title": "Titelei",
+    "slug": "titelei",
+    "number": 0,
+    "chars": 154
+  },
+  {
+    "file": "01-vorwort.md",
+    "title": "Vorwort",
+    "slug": "vorwort",
+    "number": 1,
+    "chars": 3071
+  },
+  {
+    "file": "02-woher-strinz-margarethae-seinen-namen-hat.md",
+    "title": "Woher Strinz-Margarethä seinen Namen hat",
+    "slug": "woher-strinz-margarethae-seinen-namen-hat",
+    "number": 2,
+    "chars": 7855
+  },
+  {
+    "file": "03-begriffsbestimmungen.md",
+    "title": "Begriffsbestimmungen",
+    "slug": "begriffsbestimmungen",
+    "number": 3,
+    "chars": 11385
+  },
+  {
+    "file": "04-die-heimatliche-mundart.md",
+    "title": "Die heimatliche Mundart",
+    "slug": "die-heimatliche-mundart",
+    "number": 4,
+    "chars": 9305
+  },
+  {
+    "file": "05-namenskunde.md",
+    "title": "Namenskunde",
+    "slug": "namenskunde",
+    "number": 5,
+    "chars": 2366
+  },
+  {
+    "file": "06-wappen-und-siegel.md",
+    "title": "Wappen und Siegel",
+    "slug": "wappen-und-siegel",
+    "number": 6,
+    "chars": 3798
+  },
+  {
+    "file": "07-chronik-nach-jahren.md",
+    "title": "Chronik nach Jahren",
+    "slug": "chronik-nach-jahren",
+    "number": 7,
+    "chars": 512510
+  },
+  {
+    "file": "08-strinzer-chronisten.md",
+    "title": "Strinzer Chronisten",
+    "slug": "strinzer-chronisten",
+    "number": 8,
+    "chars": 13929
+  },
+  {
+    "file": "09-strinzer-gemarkung.md",
+    "title": "Strinzer Gemarkung",
+    "slug": "strinzer-gemarkung",
+    "number": 9,
+    "chars": 51623
+  },
+  {
+    "file": "10-strinzer-brauchtum.md",
+    "title": "Strinzer Brauchtum",
+    "slug": "strinzer-brauchtum",
+    "number": 10,
+    "chars": 15321
+  },
+  {
+    "file": "11-liedgut.md",
+    "title": "Liedgut",
+    "slug": "liedgut",
+    "number": 11,
+    "chars": 4914
+  },
+  {
+    "file": "12-strinzer-geschichten.md",
+    "title": "Strinzer Geschichten",
+    "slug": "strinzer-geschichten",
+    "number": 12,
+    "chars": 363863
+  },
+  {
+    "file": "13-alte-strinzer-berufe.md",
+    "title": "Alte Strinzer Berufe",
+    "slug": "alte-strinzer-berufe",
+    "number": 13,
+    "chars": 20308
+  },
+  {
+    "file": "14-baeuerliches-leben.md",
+    "title": "Bäuerliches Leben",
+    "slug": "baeuerliches-leben",
+    "number": 14,
+    "chars": 29913
+  },
+  {
+    "file": "15-die-zinkenmuehle.md",
+    "title": "Die Zinkenmühle",
+    "slug": "die-zinkenmuehle",
+    "number": 15,
+    "chars": 17751
+  },
+  {
+    "file": "16-presseartikel.md",
+    "title": "Presseartikel",
+    "slug": "presseartikel",
+    "number": 16,
+    "chars": 18438
+  },
+  {
+    "file": "17-dank.md",
+    "title": "Dank",
+    "slug": "dank",
+    "number": 17,
+    "chars": 336
+  }
+]

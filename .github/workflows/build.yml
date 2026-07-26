@@ -19,7 +19,7 @@ jobs:
         with:
           python-version: "3.11"
 
-      - name: Prepare the content
+      - name: Prepare the content from the original document
         run: python3 tools/pipeline.py
 
       - name: Install

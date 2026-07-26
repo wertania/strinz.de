@@ -1,19 +1,7 @@
 ---
 import Base from "../../layouts/Base.astro";
-import { register, years } from "../../lib/chronik.js";
+import { register, population } from "../../lib/chronik.js";
 
-// Population figures the chronicle records for individual years.
-const population = [];
-for (const year of years) {
-  for (const group of year.groups) {
-    for (const block of group.blocks) {
-      if (block.type !== "paragraph") continue;
-      const m = block.text.match(/^(\d{1,4})\s*Familien\s*\/\s*(\d{1,5})\s*Einwohner/);
-      if (m) population.push({ year: year.year, families: +m[1], people: +m[2] });
-    }
-  }
-}
-population.sort((a, b) => a.year - b.year);
 
 // The chronicle names an office holder per year, but not every one of those
 // lines could be tied back to its year with confidence. Where the attested
@@ -39,7 +27,7 @@ function content_uncertain() {
   }
   return n;
 }
-const peak = population.reduce((a, b) => (b.people > (a?.people ?? 0) ? b : a), null);
+
 ---
 
 <Base
@@ -86,21 +74,18 @@ const peak = population.reduce((a, b) => (b.people > (a?.people ?? 0) ? b : a), 
       <div>
         <h2 style="font-size:1.5rem;margin-bottom:0.5rem">Einwohner und Familien</h2>
         <p style="color:var(--ink-soft);margin-top:0">
-          {population.length} überlieferte Zählungen zwischen {population[0].year} und
-          {" "}{population.at(-1).year}
-          {peak && `; der höchste vermerkte Stand liegt bei ${peak.people} Einwohnern im Jahr ${peak.year}.`}
+          {population.length} Zählungen, die die Chronik für einzelne Jahre vermerkt.
         </p>
         <div class="scroll-x">
           <table>
             <thead>
-              <tr><th scope="col">Jahr</th><th scope="col">Familien</th><th scope="col">Einwohner</th></tr>
+              <tr><th scope="col">Jahr</th><th scope="col">Vermerk</th></tr>
             </thead>
             <tbody>
               {population.map((p) => (
                 <tr>
                   <td class="years">{p.year}</td>
-                  <td class="years">{p.families}</td>
-                  <td class="years">{p.people}</td>
+                  <td>{p.label}</td>
                 </tr>
               ))}
             </tbody>

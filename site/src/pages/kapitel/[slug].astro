@@ -1,22 +1,19 @@
 ---
 import Base from "../../layouts/Base.astro";
 import Blocks from "../../components/Blocks.astro";
-import Glossary from "../../components/Glossary.astro";
-import { parts, sectionAnchor } from "../../lib/chronik.js";
+import { chapters } from "../../lib/chronik.js";
 
 export function getStaticPaths() {
-  return parts.map((part, i) => ({
+  return chapters.map((part, i) => ({
     params: { slug: part.slug },
-    props: { part, prev: parts[i - 1] ?? null, next: parts[i + 1] ?? null },
+    props: { part, prev: chapters[i - 1] ?? null, next: chapters[i + 1] ?? null },
   }));
 }
 
 const { part, prev, next } = Astro.props;
-const isAppendix = part.number === "17";
-const blurb = isAppendix
-  ? "Textstellen, die sich keinem Kapitel sicher zuordnen ließen — geordnet nach dem Abschnitt, in dessen Nähe sie in der Vorlage stehen."
-  : `${part.sections.length} ${part.sections.length === 1 ? "Abschnitt" : "Abschnitte"} der Ortschronik${part.page ? `, ab Seite ${part.page}` : ""}.`;
-const summary = part.sections.filter((s) => s.level > 1);
+const isAppendix = false;
+const blurb = `${part.sections.length} ${part.sections.length === 1 ? "Abschnitt" : "Abschnitte"} der Ortschronik.`;
+const summary = part.sections.filter((s) => !s.lead);
 ---
 
 <Base title={part.title} description={`${part.title} — ${blurb}`}>
@@ -32,7 +29,7 @@ const summary = part.sections.filter((s) => s.level > 1);
         <p class="eyebrow">Abschnitte</p>
         <ol>
           {summary.map((s) => (
-            <li><a href={`#${sectionAnchor(s)}`}>{s.title}</a></li>
+            <li><a href={`#${s.slug}`}>{s.title}</a></li>
           ))}
         </ol>
       </aside>
@@ -40,21 +37,11 @@ const summary = part.sections.filter((s) => s.level > 1);
 
     <div class="chapter__body">
       {part.sections.map((section) => (
-        <section class="section" id={sectionAnchor(section)}>
+        <section class="section" id={section.slug}>
           <header class="section__head">
-            <p class="section__num">{isAppendix ? `zu ${section.origin}` : section.number} · Seite {section.page}</p>
-            <h2>{section.title}</h2>
-            {section.number === "4.1" && (
-              <p style="color:var(--ink-faint);font-size:0.9rem;margin:0.6rem 0 0">
-                Die Vorlage führt hochdeutsches Wort und Strinzer Mundartform
-                abwechselnd auf. Die maschinelle Ausschüttung hat diese Zuordnung
-                stellenweise verschoben, deshalb steht hier die reine Wortliste.
-              </p>
-            )}
-          </header>
-          {section.number === "4.1"
-            ? <Glossary blocks={section.blocks} />
-            : <Blocks blocks={section.blocks} />}
+            {!section.lead && <h2>{section.title}</h2>}
+                      </header>
+          <Blocks blocks={section.blocks} />
         </section>
       ))}
 
