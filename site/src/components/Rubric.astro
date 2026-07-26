@@ -1,0 +1,62 @@
+---
+// "Obrigkeiten" and "Statistik" are lists of short facts, not prose: rendered
+// as a compact two-column register instead of a run of paragraphs.
+import Blocks from "./Blocks.astro";
+
+const { group } = Astro.props;
+const compact = group.rubric === "Obrigkeiten" || group.rubric === "Statistik";
+
+// Short "Amt: Name" style lines become a register; anything longer stays prose.
+const isFact = (b) =>
+  b.type === "paragraph" && !b.source && b.text.length <= 110;
+
+const rows = [];
+const other = [];
+for (const block of group.blocks) {
+  if (compact && isFact(block)) {
+    const at = block.text.indexOf(":");
+    rows.push(
+      at > 0 && at < 28
+        ? { label: block.text.slice(0, at), value: block.text.slice(at + 1).trim() }
+        : { label: null, value: block.text },
+    );
+  } else {
+    other.push(block);
+  }
+}
+---
+
+<h3 class="rubric">{group.rubric}</h3>
+{rows.length > 0 && (
+  <dl class="facts">
+    {rows.map((row) => (
+      <>
+        <dt>{row.label ?? "Vermerk"}</dt>
+        <dd>{row.value}</dd>
+      </>
+    ))}
+  </dl>
+)}
+{other.length > 0 && <Blocks blocks={other} />}
+
+<style is:global>
+  .facts {
+    display: grid;
+    grid-template-columns: 8.5rem minmax(0, 1fr);
+    gap: 0.25rem 1.25rem;
+    margin: 0 0 1.4rem;
+  }
+  .facts dt {
+    font-family: var(--sans);
+    font-size: 0.7rem;
+    letter-spacing: 0.1em;
+    text-transform: uppercase;
+    color: var(--ink-faint);
+    padding-top: 0.32em;
+  }
+  .facts dd { margin: 0; }
+  @media (max-width: 34rem) {
+    .facts { grid-template-columns: 1fr; gap: 0 0; }
+    .facts dd { margin-bottom: 0.6rem; }
+  }
+</style>

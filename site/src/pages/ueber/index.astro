@@ -1,0 +1,89 @@
+---
+import Base from "../../layouts/Base.astro";
+import { stats, fullOutline, parts } from "../../lib/chronik.js";
+
+const renderedCount = parts.reduce((n, p) => n + p.sections.length, 0);
+---
+
+<Base
+  title="Über diese Ausgabe"
+  description="Wie aus dem 774 Seiten starken Word-Dokument der Ortschronik diese Website wurde — Quelle, Verfahren und die Grenzen der Rekonstruktion."
+>
+  <div class="wrap pagehead">
+    <p class="eyebrow">Editorische Notiz</p>
+    <h1>Über diese Ausgabe</h1>
+  </div>
+
+  <article class="wrap text" style="margin:3rem auto;max-width:40rem">
+    <h2>Die Quelle</h2>
+    <p>
+      Grundlage dieser Website ist die Ortschronik von Strinz-Margarethä: ein
+      Werk von 774 Seiten mit rund 4.700 Textabschnitten und über 700
+      Abbildungen. Zusammengetragen hat sie Frank Schwarzer; sie stützt sich
+      ihrerseits auf ältere Aufzeichnungen — vor allem auf die Alte Strinzer
+      Chronik, die Kirchenchronik des Pfarrers Ludwig Schmidtborn, die
+      Notizen von Rektor Richard Weißer und Lehrer Horst Witt sowie auf
+      Bestände des Hessischen Hauptstaatsarchivs.
+    </p>
+
+    <h2>Das Problem</h2>
+    <p>
+      Für die Digitalisierung lag die Chronik nur als maschinelle Ausschüttung
+      eines Word-Dokuments vor. Dabei ging die Gliederung verloren: nahezu jeder
+      Absatz war zu einer eigenen Überschrift geworden, und der Text war nach
+      Stichwörtern auf zwanzig Dateien verteilt worden. Die Reihenfolge des
+      Buches — und damit sein Sinn — war zerschnitten.
+    </p>
+
+    <h2>Die Rekonstruktion</h2>
+    <p>
+      Zwei Spuren führten zurück. Erstens sind die Bilddateien des Dokuments
+      fortlaufend in Leserichtung nummeriert; jede Abbildung ist damit ein
+      exakter Ankerpunkt. Zweitens nennt die Jahreschronik ihre Jahreszahlen
+      selbst, in aufsteigender Folge. Aus beidem wurde der ursprüngliche
+      Textfluss in mehreren Durchläufen wieder zusammengesetzt.
+    </p>
+    <p>
+      Das Inhaltsverzeichnis des Buches hatte die Ausschüttung überstanden. Es
+      liefert alle {fullOutline.length} Überschriften mitsamt ihren
+      Seitenzahlen und dient hier als maßgebliche Gliederung: {renderedCount}
+      Abschnitte konnten wieder mit ihrem Text verbunden werden, die
+      Jahreschronik umfasst {stats.years} Jahre von {stats.yearFrom} bis
+      {stats.yearTo}. Insgesamt sind {stats.blocks.toLocaleString("de-DE")}
+      Einträge und {stats.distinctImages} Bildtafeln erschlossen.
+    </p>
+
+    <h2>Was offen bleibt</h2>
+    <p>
+      Die Rekonstruktion ist gut, aber nicht vollkommen. Ein Prüfmaß dafür ist
+      das Inhaltsverzeichnis: die wiedergefundenen Überschriften stehen zu
+      98,6 Prozent in der richtigen Reihenfolge der Buchseiten. Wo eine
+      Überschrift sich nicht sicher verorten ließ, ist sie im
+      <a href="/kapitel/">Inhaltsverzeichnis</a> grau gesetzt; ihr Text steht
+      dann meist beim benachbarten Abschnitt. Textstellen, die keinem Kapitel
+      zugeordnet werden konnten, stehen vollständig im
+      <a href="/kapitel/anhang/">Anhang</a> — verworfen wurde nichts.
+    </p>
+    <p>
+      Ebenso wurden Angaben zu Amtsträgern und Einwohnerzahlen, die ihre
+      Jahreszahl verloren hatten, nicht geraten, sondern im
+      <a href="/register/">Register</a> gesammelt. Die dort genannten Jahre sind
+      die, für die ein Amt in der Chronik ausdrücklich belegt ist — die
+      tatsächliche Amtszeit war in aller Regel länger.
+    </p>
+    <p>
+      Rechtschreibung, Zeichensetzung und Wortwahl der Vorlage sind unverändert
+      übernommen, einschließlich der Eigenheiten der älteren Quellen.
+      Eingegriffen wurde nur dort, wo die maschinelle Ausschüttung Fehler
+      hinterlassen hatte: getrennte Wörter am alten Zeilenumbruch, doppelte
+      Absätze, verlorene Leerzeichen vor Quellenangaben.
+    </p>
+
+    <h2>Nachweise</h2>
+    <p>
+      Quellenangaben stehen dort, wo sie in der Chronik stehen — unter dem
+      jeweiligen Absatz. Sie sind Teil der Vorlage und wurden nicht
+      nachgeprüft.
+    </p>
+  </article>
+</Base>

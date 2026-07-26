@@ -1,0 +1,41 @@
+---
+// Renders a run of content blocks. Consecutive images collapse into a plate row
+// so that photo sequences from the original document do not stretch the page.
+import Plate from "./Plate.astro";
+
+const { blocks } = Astro.props;
+
+const runs = [];
+for (const block of blocks) {
+  const last = runs.at(-1);
+  if (block.type === "image") {
+    if (last?.kind === "images") last.items.push(block);
+    else runs.push({ kind: "images", items: [block] });
+  } else {
+    runs.push({ kind: "block", block });
+  }
+}
+---
+
+<div class="text">
+  {runs.map((run) => {
+    if (run.kind === "images") {
+      return run.items.length === 1
+        ? <Plate file={run.items[0].file} />
+        : <div class="plate-row">{run.items.map((i) => <Plate file={i.file} compact />)}</div>;
+    }
+    const b = run.block;
+    if (b.type === "verse") {
+      return <p class="verse">{b.lines.map((line) => <span>{line}</span>)}</p>;
+    }
+    if (b.type === "source") {
+      return <cite class="source">Quelle: {b.text}</cite>;
+    }
+    return (
+      <>
+        <p>{b.text}</p>
+        {b.source && <cite class="source">Quelle: {b.source}</cite>}
+      </>
+    );
+  })}
+</div>

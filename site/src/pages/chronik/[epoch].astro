@@ -1,0 +1,54 @@
+---
+import Base from "../../layouts/Base.astro";
+import Rubric from "../../components/Rubric.astro";
+import { epochs } from "../../lib/chronik.js";
+
+export function getStaticPaths() {
+  return epochs.map((epoch, i) => ({
+    params: { epoch: epoch.slug },
+    props: { epoch, prev: epochs[i - 1] ?? null, next: epochs[i + 1] ?? null },
+  }));
+}
+
+const { epoch, prev, next } = Astro.props;
+const label = epoch.label;
+const decades = [...new Set(epoch.years.map((y) => Math.floor(y.year / 10) * 10))];
+---
+
+<Base
+  title={label}
+  description={`Die Chronik von Strinz-Margarethä für ${label}: ${epoch.years.length} überlieferte Jahre mit Amtsträgern, Ereignissen und Auszügen aus der Kirchenchronik.`}
+>
+  <div class="wrap pagehead">
+    <p class="eyebrow"><a href="/chronik/" style="text-decoration:none">Chronik nach Jahren</a></p>
+    <h1>{label}</h1>
+    <p style="margin-top:0.9rem">
+      {epoch.years.length} überlieferte {epoch.years.length === 1 ? "Jahr" : "Jahre"},
+      {" "}{epoch.entries} Einträge · Buchseite {epoch.page}
+    </p>
+    {decades.length > 3 && (
+      <ul class="chips" aria-label="Sprung zu einem Jahrzehnt">
+        {decades.map((d) => {
+          const first = epoch.years.find((y) => Math.floor(y.year / 10) * 10 === d);
+          return <li><a href={`#jahr-${first.year}`}>{d}er</a></li>;
+        })}
+      </ul>
+    )}
+  </div>
+
+  <div class="wrap" style="margin:2.5rem auto 0">
+    {epoch.years.map((year) => (
+      <article class="year" id={`jahr-${year.year}`}>
+        <h2 class="year__label">{year.year}</h2>
+        <div class="year__body">
+          {year.groups.map((group) => <Rubric group={group} />)}
+        </div>
+      </article>
+    ))}
+
+    <nav class="pager" aria-label="Weitere Zeitalter">
+      {prev ? <a href={`/chronik/${prev.slug}/`}><small>Zurück</small>{prev.label}</a> : <span />}
+      {next ? <a href={`/chronik/${next.slug}/`} style="text-align:right"><small>Weiter</small>{next.label}</a> : <span />}
+    </nav>
+  </div>
+</Base>

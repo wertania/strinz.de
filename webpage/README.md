@@ -1,2 +1,0 @@
-# strinz.de
-

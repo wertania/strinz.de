@@ -1,6 +1,0 @@
----
-description: 
-globs: *.vue,*.ts
-alwaysApply: false
----
-You will never touch the tailwind.config.js.

@@ -1,0 +1,51 @@
+---
+import Base from "../../layouts/Base.astro";
+import { plates } from "../../lib/chronik.js";
+---
+
+<Base
+  title="Bildtafeln"
+  description={`${plates.length} historische Fotografien, Urkunden, Karten und Dokumente aus der Ortschronik von Strinz-Margarethä.`}
+>
+  <div class="wrap pagehead">
+    <p class="eyebrow">Bildteil</p>
+    <h1>Bildtafeln</h1>
+    <p class="lede" style="margin-top:1rem">
+      {plates.length} Fotografien, Urkunden, Karten und Zeitungsausschnitte, wie
+      sie in der Chronik abgedruckt sind. Ein Klick führt zu der Stelle, an der
+      die Tafel im Text steht.
+    </p>
+  </div>
+
+  <section class="wrap" style="margin:2.5rem auto 0">
+    <div class="gallery">
+      {plates.map((plate, i) => (
+        <figure id={`tafel-${plate.name}`}>
+          <a href={plate.href}>
+            <img
+              src={`/bilder/klein/${plate.name}.webp`}
+              width="520"
+              height={Math.round(520 * (plate.height / plate.width))}
+              loading={i < 12 ? "eager" : "lazy"}
+              decoding="async"
+              alt={`Bildtafel aus der Chronik: ${plate.context}`}
+            />
+          </a>
+          <figcaption>{plate.context}</figcaption>
+        </figure>
+      ))}
+    </div>
+  </section>
+</Base>
+
+<style>
+  .gallery {
+    columns: 4 15rem;
+    column-gap: 1.1rem;
+  }
+  .gallery figure {
+    break-inside: avoid;
+    margin: 0 0 1.1rem;
+  }
+  .gallery figcaption { margin-top: 0.4rem; }
+</style>

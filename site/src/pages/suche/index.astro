@@ -1,0 +1,114 @@
+---
+import Base from "../../layouts/Base.astro";
+import { stats } from "../../lib/chronik.js";
+---
+
+<Base
+  title="Suche"
+  description="Volltextsuche durch die gesamte Ortschronik von Strinz-Margarethä — Jahre, Kapitel, Namen und Ereignisse."
+>
+  <div class="wrap pagehead">
+    <p class="eyebrow">Volltext</p>
+    <h1>Suche</h1>
+    <p class="lede" style="margin-top:1rem">
+      Durchsucht alle {stats.years} Chronikjahre und {stats.sections} Abschnitte.
+      Die Suche läuft vollständig im Browser — es wird nichts übertragen.
+    </p>
+  </div>
+
+  <section class="wrap" style="margin:2.5rem auto;max-width:48rem">
+    <form id="suchform" role="search" onsubmit="return false">
+      <label class="sr-only" for="q">Suchbegriff</label>
+      <input id="q" name="q" type="search" autocomplete="off" placeholder="z. B. Kerb, Schmidtborn, Eisenbahn, 1871 …" />
+    </form>
+    <p id="status" aria-live="polite"></p>
+    <ol id="treffer"></ol>
+  </section>
+</Base>
+
+<script>
+  const input = document.getElementById("q");
+  const status = document.getElementById("status");
+  const list = document.getElementById("treffer");
+  let docs = null;
+
+  const load = async () => {
+    if (docs) return docs;
+    status.textContent = "Index wird geladen …";
+    docs = await (await fetch("/suchindex.json")).json();
+    return docs;
+  };
+
+  const escape = (s) => s.replace(/[&<>"]/g, (c) => ({ "&": "&amp;", "<": "&lt;", ">": "&gt;", '"': "&quot;" })[c]);
+
+  const snippet = (text, term) => {
+    const at = text.toLowerCase().indexOf(term);
+    if (at < 0) return escape(text.slice(0, 180)) + "…";
+    const from = Math.max(0, at - 70);
+    const raw = (from ? "…" : "") + text.slice(from, at + term.length + 130) + "…";
+    const re = new RegExp(`(${term.replace(/[.*+?^${}()|[\]\\]/g, "\\$&")})`, "gi");
+    return escape(raw).replace(re, "<mark>$1</mark>");
+  };
+
+  const run = async () => {
+    const term = input.value.trim().toLowerCase();
+    list.innerHTML = "";
+    if (term.length < 3) {
+      status.textContent = term ? "Bitte mindestens drei Zeichen eingeben." : "";
+      return;
+    }
+    const data = await load();
+    const hits = [];
+    for (const d of data) {
+      const inTitle = d.t.toLowerCase().includes(term);
+      const inBody = d.b.toLowerCase().includes(term);
+      if (inTitle || inBody) hits.push({ d, score: inTitle ? 0 : 1 });
+      if (hits.length > 400) break;
+    }
+    hits.sort((a, b) => a.score - b.score);
+    status.textContent = hits.length
+      ? `${hits.length}${hits.length > 400 ? "+" : ""} Treffer`
+      : "Keine Treffer.";
+    list.innerHTML = hits
+      .slice(0, 60)
+      .map(({ d }) =>
+        `<li><a href="${d.u}"><span class="kind">${escape(d.k)}</span><b>${escape(d.t)}</b></a><p>${snippet(d.b, term)}</p></li>`,
+      )
+      .join("");
+  };
+
+  let timer;
+  input.addEventListener("input", () => {
+    clearTimeout(timer);
+    timer = setTimeout(run, 140);
+  });
+
+  const initial = new URLSearchParams(location.search).get("q");
+  if (initial) {
+    input.value = initial;
+    run();
+  }
+  input.focus();
+</script>
+
+<style is:global>
+  #suchform input {
+    width: 100%;
+    font-family: var(--serif);
+    font-size: 1.15rem;
+    padding: 0.85rem 1rem;
+    background: var(--paper-card);
+    color: var(--ink);
+    border: 1px solid var(--rule-strong);
+  }
+  #suchform input:focus { outline: 2px solid var(--gold); outline-offset: 2px; }
+  #status { font-family: var(--sans); font-size: 0.78rem; letter-spacing: 0.1em; text-transform: uppercase; color: var(--ink-faint); margin: 1.25rem 0 0; }
+  #treffer { list-style: none; margin: 1.5rem 0 0; padding: 0; }
+  #treffer li { border-top: 1px solid var(--rule); padding: 1.2rem 0; }
+  #treffer a { text-decoration: none; display: block; }
+  #treffer .kind { display: block; font-family: var(--sans); font-size: 0.65rem; letter-spacing: 0.16em; text-transform: uppercase; color: var(--gold); margin-bottom: 0.2rem; }
+  #treffer b { font-size: 1.15rem; font-weight: 600; }
+  #treffer a:hover b { box-shadow: inset 0 -1px 0 var(--gold); }
+  #treffer p { margin: 0.5rem 0 0; color: var(--ink-soft); font-size: 0.95rem; line-height: 1.55; }
+  #treffer mark { background: color-mix(in srgb, var(--gold-soft) 45%, transparent); color: inherit; }
+</style>

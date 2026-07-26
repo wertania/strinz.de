@@ -1,0 +1,34 @@
+---
+import Base from "../../layouts/Base.astro";
+import { epochs, stats } from "../../lib/chronik.js";
+---
+
+<Base
+  title="Chronik nach Jahren"
+  description="Die Jahreschronik von Strinz-Margarethä von 1100 bis 2000: Amtsträger, Ereignisse, Kirchenchronik und Statistik, Jahr für Jahr."
+>
+  <div class="wrap pagehead">
+    <p class="eyebrow">Teil 7 der Ortschronik</p>
+    <h1>Chronik nach Jahren</h1>
+    <p class="lede" style="margin-top:1rem">
+      {stats.years} Jahre zwischen {stats.yearFrom} und {stats.yearTo}, geordnet
+      nach den Rubriken der Chronik: Obrigkeiten, Ereignisse, Wahlen, Statistik
+      und die Eintragungen aus der Kirchenchronik.
+    </p>
+  </div>
+
+  <section class="wrap" style="margin:3rem auto">
+    <div class="cards">
+      {epochs.map((epoch) => (
+        <a class="card" href={`/chronik/${epoch.slug}/`}>
+          <h3>{epoch.label}</h3>
+          <p>
+            {epoch.years.length} {epoch.years.length === 1 ? "Jahr" : "Jahre"} überliefert,
+            {" "}{epoch.entries} Einträge.
+          </p>
+          <p class="card__meta">Ab Seite {epoch.page}</p>
+        </a>
+      ))}
+    </div>
+  </section>
+</Base>

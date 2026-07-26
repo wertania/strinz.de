@@ -1,0 +1,112 @@
+---
+import Base from "../../layouts/Base.astro";
+import { register, years } from "../../lib/chronik.js";
+
+// Population figures the chronicle records for individual years.
+const population = [];
+for (const year of years) {
+  for (const group of year.groups) {
+    for (const block of group.blocks) {
+      if (block.type !== "paragraph") continue;
+      const m = block.text.match(/^(\d{1,4})\s*Familien\s*\/\s*(\d{1,5})\s*Einwohner/);
+      if (m) population.push({ year: year.year, families: +m[1], people: +m[2] });
+    }
+  }
+}
+population.sort((a, b) => a.year - b.year);
+
+// The chronicle names an office holder per year, but not every one of those
+// lines could be tied back to its year with confidence. Where the attested
+// years span more than a lifetime they are demonstrably scrambled, so we show
+// the number of mentions rather than a span we do not trust.
+const LIFETIME = 60;
+
+const belegt = (h) => {
+  const y = h.years ?? [];
+  if (y.length === 0) return "—";
+  if (y.at(-1) - y[0] > LIFETIME) return `${y.length} Nennungen`;
+  if (y.length <= 3) return y.join(", ");
+  return `${y[0]}–${y.at(-1)}`;
+};
+const uncertain = content_uncertain();
+function content_uncertain() {
+  let n = 0;
+  for (const office of register) {
+    for (const h of office.holders) {
+      const y = h.years ?? [];
+      if (y.length === 0 || y.at(-1) - y[0] > LIFETIME) n++;
+    }
+  }
+  return n;
+}
+const peak = population.reduce((a, b) => (b.people > (a?.people ?? 0) ? b : a), null);
+---
+
+<Base
+  title="Register"
+  description="Register der Amtsträger von Strinz-Margarethä — Pfarrer, Lehrer, Bürgermeister und Schultheißen — sowie die überlieferten Einwohnerzahlen."
+>
+  <div class="wrap pagehead">
+    <p class="eyebrow">Aus der Chronik erschlossen</p>
+    <h1>Register</h1>
+    <p class="lede" style="margin-top:1rem">
+      Wer im Dorf Amt und Würden trug, notierte die Chronik Jahr für Jahr. Hier
+      stehen die Namen zusammengefasst, mit den Jahren, in denen sie belegt sind.
+    </p>
+    <p style="font-size:0.92rem;max-width:34rem">
+      Bei {uncertain} von {register.reduce((n, o) => n + o.holders.length, 0)} Einträgen
+      ließ sich die Jahreszahl nicht sicher zurückgewinnen; dort steht nur, wie oft
+      die Chronik den Namen nennt. <a href="/ueber/">Warum, steht hier.</a>
+    </p>
+  </div>
+
+  <section class="wrap" style="margin:3rem auto;max-width:52rem">
+    {register.map((office) => (
+      <div style="margin-bottom:3rem">
+        <h2 style="font-size:1.5rem;margin-bottom:0.9rem">{office.office}</h2>
+        <div class="scroll-x">
+          <table>
+            <thead>
+              <tr><th scope="col">Name</th><th scope="col">belegt</th></tr>
+            </thead>
+            <tbody>
+              {office.holders.map((h) => (
+                <tr>
+                  <td>{h.name}</td>
+                  <td class="years">{belegt(h)}</td>
+                </tr>
+              ))}
+            </tbody>
+          </table>
+        </div>
+      </div>
+    ))}
+
+    {population.length > 0 && (
+      <div>
+        <h2 style="font-size:1.5rem;margin-bottom:0.5rem">Einwohner und Familien</h2>
+        <p style="color:var(--ink-soft);margin-top:0">
+          {population.length} überlieferte Zählungen zwischen {population[0].year} und
+          {" "}{population.at(-1).year}
+          {peak && `; der höchste vermerkte Stand liegt bei ${peak.people} Einwohnern im Jahr ${peak.year}.`}
+        </p>
+        <div class="scroll-x">
+          <table>
+            <thead>
+              <tr><th scope="col">Jahr</th><th scope="col">Familien</th><th scope="col">Einwohner</th></tr>
+            </thead>
+            <tbody>
+              {population.map((p) => (
+                <tr>
+                  <td class="years">{p.year}</td>
+                  <td class="years">{p.families}</td>
+                  <td class="years">{p.people}</td>
+                </tr>
+              ))}
+            </tbody>
+          </table>
+        </div>
+      </div>
+    )}
+  </section>
+</Base>
