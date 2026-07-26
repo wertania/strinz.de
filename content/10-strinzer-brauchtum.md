@@ -22,11 +22,11 @@ Die Schulentlassung und die Konfirmation trafen früher zusammen. Deshalb wurde 
 
 Zudem wird in der Strinzer Kirche die diamantene und goldene Konfirmation gefeiert.
 
-![](image370.jpeg)
+![](images/image370.jpeg)
 
-![](image371.jpeg)
+![](images/image371.jpeg)
 
-![](image372.jpeg)
+![](images/image372.jpeg)
 
 ## Der Wandertag
 
@@ -38,7 +38,7 @@ Wenn diese Jungen und Mädchen ihre Arbeitsplätze wechselten und sich als Diens
 
 Da es keine Kindergärten gab, hielten sich die noch nicht schulpflichtigen Kinder überwiegend im Bauerngehöft der Eltern auf. Hier beaufsichtigte die Oma oder ein älteres Mädchen die Kleinen. Im Laufe der Jahre hatte jedes Kind in der Familie die Verantwortung für die jüngeren Geschwisterchen zu übernehmen.
 
-![](image373.jpeg)
+![](images/image373.jpeg)
 
 *Strinzer Kinder 1917*
 
@@ -57,7 +57,7 @@ Zum Spielen verwendeten die Kinder Holzscheite, Steine, Bohnen, Stöckchen, Nüs
 
 Nach der Schulzeit wuchsen die Jugendlichen allmählich in die Arbeitswelt der Erwachsenen hinein und waren stolz, wenn der Vater den Söhnen das Pferdegespann überließ.
 
-![](image374.jpeg)
+![](images/image374.jpeg)
 
 Daß ein Arbeitstag in alter Zeit aber keine Zuckerschlecken war, können Sie unter Tagesablauf und Landarbeit nachlesen
 
@@ -73,7 +73,7 @@ Die schulentlassenen Mädchen trafen sich an bestimmten Tagen nach dem Abendbrot
 
 Nach Gründung des Gesangvereins (1891) und des Turnvereineins (1904) entstand ein reges Vereinsleben. Jetzt konnten sich die jungen Leute körperlich ertüchtigen, ihre Leistungen mit anderen Turnvereinen messen und an Sängerwettstreiten teilnehmen.
 
-![](image375.jpeg)
+![](images/image375.jpeg)
 
 *Turnverein 1922*
 
@@ -81,7 +81,7 @@ Nach Gründung des Gesangvereins (1891) und des Turnvereineins (1904) entstand e
 
 Wenn an den Sonntagen in den Nachbardörfern Vergnügungen oder Vereinsfeste stattfanden, zog die Jugend gemeinsam zu Fuß dort hin. Nach Beendigung des Festes gingen sie wieder gemeinsam nach Haus. Der Schlaf kam in dieser Nacht dann zu kurz, und oft wollte der nächste lange Arbeitstag kein Ende nehmen.
 
-![](image376.jpeg)
+![](images/image376.jpeg)
 
 *Strinzer Halbstarke 1936*
 
@@ -152,9 +152,9 @@ Es existieren zwei Erklärungen zum Kranz:
 
 Die Hochzeitkränze wurden früher gerne eingerahmt und ins Wohnzimmer gehängt.
 
-![](image377.jpeg)
+![](images/image377.jpeg)
 
-![](image378.jpeg)
+![](images/image378.jpeg)
 
 *Hochzeitskranz aus 1865 Hochzeitskranz aus 1897*
 
@@ -188,7 +188,7 @@ Hohoho, die Fassenacht ist do.
 
 Auch heute noch wird der Brauch vereinzelt durch Dorfkinder durchgeführt, allerdings kommen diese beim Singen meist nicht über die erste Strophe hinaus.
 
-![](image379.jpeg)
+![](images/image379.jpeg)
 
 *Fasching 1950*
 
@@ -200,9 +200,9 @@ Das erste kirchliche Fest im Kalenderjahr ist Ostern. Bevor die Kinder zum Gotte
 
 Am 1. Mai zog die Schuljugend mit einem Handwagen von Haus zu Haus. Auf diesem stand das Maimännchen; es war früher ein von Laub vollkommen umhüllter Junge. Später wurde nur noch eine aus Buchenlaub bestehende Garbe dazu benutzt. Die Kinder sangen vor jedem Haus "Der Mai ist gekommen" und sammelten Geld.
 
-![](image380.jpeg)
+![](images/image380.jpeg)
 
-![](image381.jpeg)
+![](images/image381.jpeg)
 
 *Strinzer Maimännchen*
 
@@ -235,23 +235,23 @@ Wenn der Umzug hält, liest der Kerbevater den Kerbespruch vor. An der Ecke Pfal
 
 Der Kerbespruch, der vom Kerbevater vorgelesen wird, sagt viel aus über die Geschehnisse im Ort des entsprechenden Jahres. Insbesondere lustige Begebenheiten wurden hier Kund getan.
 
-![](image382.jpeg)
+![](images/image382.jpeg)
 
-![](image383.jpeg)
+![](images/image383.jpeg)
 
-![](image384.jpeg)
+![](images/image384.jpeg)
 
 *Kerbebilder aus unterschiedlichen Epochen*
 
-![](image385.jpeg)
+![](images/image385.jpeg)
 
 In der Nachkriegszeit fand die Kerb noch in der Pfalzstraße statt.
 
 ## Weihnachten
 
-![](image386.jpeg)
+![](images/image386.jpeg)
 
-![](image387.png)
+![](images/image387.png)
 
 ## Bürgermeisterehrung in alter Zeit
 

@@ -58,13 +58,13 @@ Nach dem 2. Weltkrieg nahm die Bäckerei Bodenheimer den Backbetrieb wieder auf,
 
 Bäckerei Bodenheimer
 
-![](image650.png)
+![](images/image650.png)
 
 Die meisten Familien hatten ein sogenanntes Brotbuch, in dem gegen die Lieferung von einem Zentner Korn (Roggen) 32 Brote gutgeschrieben wurden. Bei jeder Abholung verminderte sich der Bestand entsprechen. Eine große Familie lieferte ca. 8 - 10 Zentner Korn. Sie hatte damit genügend Brotgutschrift für das ganze Jahr. Wer mit seiner Brotgutschrift nicht auskam, konnte auch einen Vorschuss erhalten, er hatte damit dann "vorgegessenes Brot".
 
 Brotbuch
 
-![](image651.png)
+![](images/image651.png)
 
 *Wehener Brotfabrik*
 
@@ -82,7 +82,7 @@ Branntweinbrenner brauten Branntwein für die Bauern, die das Korn dafür liefer
 
 > Quelle: Wikipedia
 
-![](image652.jpeg)
+![](images/image652.jpeg)
 
 So kann man sich auch eine Strinzer Weinbrandbrennerei vorstellen. Das hier gezeigte Bild stammt aus 1855.
 
@@ -90,7 +90,7 @@ Hirte
 
 Im Ort gab es eigene Hirten, die sich um die Tiere des Dorfes kümmerten. Schon im Jahre 1499 ist in einem Idsteiner Steuerregister ein Kuhhirte (der Koewehyrt) erwähnt.
 
-![](image653.jpeg)
+![](images/image653.jpeg)
 
 Den Hirten stand ein eigenes Haus zur Verfügung, das Hirtenhaus, welches in der Scheidertalstraße gegenüber dem Hirtenpfad stand. Es ist heute nicht mehr vorhanden, und wurde durch einen Neubau ersetzt.
 
@@ -100,7 +100,7 @@ Schäfer Wilhelm Hankammer
 
 Schäfer Hankammer im Jahre 1947
 
-![](image654.jpeg)
+![](images/image654.jpeg)
 
 Wilhelm Ludwig Hankammer war einer der letzten Schäfermeister in Hessen.
 
@@ -194,7 +194,7 @@ Kramer
 
 Im frühen 20. Jahrhundert wird der Beruf des Krämers wie folgt beschrieben: „Kramer (=Krämer) sind Minderkaufleute im Sinne des Handelsrechts. Der Kleinhändler heißt auch Krämer, seine Tätigkeit „Kramhandel“.
 
-![](image655.jpeg)
+![](images/image655.jpeg)
 
 Im Jahre 1863 gab es in StM keine sesshaften Kramer, sondern 2 herumziehende Kramer.
 
@@ -206,7 +206,7 @@ Der Kohlwald am Strinzer Weg
 
 In der Strinzer Gemarkung gibt es einen Wald mit dem Namen Kohlwald. Dies weist darauf hin, dass dort früher einmal ein Kohlenmeiler stand.
 
-![](image656.png)
+![](images/image656.png)
 
 Köhler bezeichnet einen in Deutschland nahezu ausgestorbenen Beruf, dessen Aufgabe es ist, aus Holz Holzkohle herzustellen. Der zugehörige Handwerksbetrieb nennt sich Köhlerei.
 
@@ -219,7 +219,7 @@ Bereits im Altertum wurde Holzkohle in Meilern hergestellt. Hierbei werden Holzs
 
 Köhler bei der Arbeit (Wikipedia/WFM)
 
-![](image657.png)
+![](images/image657.png)
 
 Im Feuerschacht wird der Meiler entzündet, sodass bei einer Temperatur zwischen 300 und 350 °C der Verkohlungsprozess einsetzt. Der Prozess dauert sechs bis acht Tage – bei großen Meilern auch mehrere Wochen, während der Köhler darauf achten muss, durch Regelung des Windzugs (durch Aufstechen und Wiederverschließen von kleinen Löchern) den Meiler weder erlöschen noch in hellen Flammen aufgehen zu lassen. Am aus dem Meiler austretenden Rauch konnte der Köhler den Status des Verkohlungsprozesses erkennen. War der Rauch dick und grau, war das Holz noch roh; dünner, blauer Rauch zeigte eine gute Verkohlung an.
 
@@ -235,7 +235,7 @@ Wenn es hier in StM einen Berufszweig gab, der die Stütze des Dorfes war, so is
 
 Hier will ich nach und nach etwas aus der Geschichte der Landleute erzählen.
 
-![](image658.jpeg)
+![](images/image658.jpeg)
 
 *Taunusbauern in traditioneller Kleidung im Jahre 1847*
 
@@ -243,7 +243,7 @@ Leineweber
 
 Leineweber oder Leinweber ist die historische Berufsbezeichnung für Weber von Leinen, d. h. von − häufig im bäuerlichen Nebenberuf − auf Handwebstühlen in Leinwandbindung hergestelltem Gewebe, das ganz oder zu erheblichem Teil aus Leinengarn, d. h. mit aus Flachsfasern gesponnenem Garn, besteht.
 
-![](image659.jpeg)
+![](images/image659.jpeg)
 
 Der Webstuhl ermöglichte dem Weber, Stoffe von hoher Qualität zu produzieren. Im Jahre 1863 gab es in StM sogar 2 Leinenweber.
 
@@ -261,7 +261,7 @@ In Strinz gibt es die Zinkenmühle, deren Geschichte in dieser Chronik unter „
 
 Die Zinkenmühle
 
-![](image660.jpeg)
+![](images/image660.jpeg)
 
 *Die Adolfsecker Mühle*
 
@@ -271,11 +271,11 @@ Nach Aufhebung des Mühlenbanns wurde in StM eine Mühle erbaut.
 
 Schmied
 
-![](image661.jpeg)
+![](images/image661.jpeg)
 
 *Ehem. Dorfschmied Willi Klein*
 
-![](image662.jpeg)
+![](images/image662.jpeg)
 
 So könnte die alte Strinzer Dorfschmiede ausgesehen haben.
 
@@ -283,7 +283,7 @@ Schuhmacher
 
 Schuhmacher Karl Ernst
 
-![](image663.jpeg)
+![](images/image663.jpeg)
 
 *Wagner*
 
@@ -293,7 +293,7 @@ Seit der Einführung industrieller Fließbandfertigung sank die Bedeutung der Wa
 
 > Quelle: Wikipedia / Red
 
-![](image664.jpeg)
+![](images/image664.jpeg)
 
 *So könnte es in der Strinzer Wagnerrei aussehen können (Bild: Schwarzer)*
 
@@ -301,7 +301,7 @@ Zimmermann
 
 In frühen Zeiten war nahezu jeder Hausbesitzer auch ein Zimmermann, da er sich sein Haus meist selbst zimmern musste. Als sich später die Berufe mehr und mehr spezialisierten, wurde auch der Zimmererberuf eigenständig.
 
-![](image665.jpeg)
+![](images/image665.jpeg)
 
 Durch die Herausbildung von Zünften und der damit einhergehenden Qualitätssicherung von besonders wichtigen Arbeitstechniken (Dachausmittlung, Schiftung oder Vergatterung) im Mittelalter wurde der Zimmermann unentbehrlich.
 
@@ -311,10 +311,10 @@ In der Gemarkung gefundene
 
 Zimmerernägel
 
-![](image666.jpeg)
+![](images/image666.jpeg)
 
 *Strinzer Zimmersleute - vermutlich in Breithardt*
 
 Ehemalige Zimmerei May
 
-![](image667.jpeg)
+![](images/image667.jpeg)

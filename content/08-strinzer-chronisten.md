@@ -12,7 +12,7 @@ In den nächsten Kapiteln könnt Ihr Euch über die Strinzer Chronisten informie
 
 Pfarrer Ludwig Schmidtborn kann man getrost auch als einen DER Strinzer Chronisten bezeichnen. Er war sehr fleißig in Bezug auf das Führen der Kirchenchronik, wodurch wir viel aus der Zeit des 19. Jahrhunderts erfahren können.
 
-![](image344.jpeg)
+![](images/image344.jpeg)
 
 55 Jahre war er der Seelsorger hier in Strinz-Margarethä und hatte es nicht immer leicht mit den Strinzer, aber lest doch selbst seine Geschichte."
 
@@ -130,13 +130,13 @@ Schriften:
 
 Weißer stirbt im Jahre 1950 in Bad Schwalbach.
 
-![](image345.jpg)
+![](images/image345.jpg)
 
 ## Lehrer Horst Witt
 
 Horst Witt wurde im Jahre 1914 in Stolp/Pommern geboren. Dort besuchter er die Oberrealschule.
 
-![](image346.jpeg)
+![](images/image346.jpeg)
 
 Sein Lehrerstudium absolvierte er an der Hochschule für Lehrerbildung in Lauenburg/Pommern.
 

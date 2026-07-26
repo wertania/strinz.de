@@ -6,13 +6,13 @@ slug: presseartikel
 
 # Presseartikel
 
-![](image707.png)
+![](images/image707.png)
 
 ## Der Brunnen ist nicht nur ein Blickfang
 
 Von Thorsten Stötzer 30.03.17
 
-![](image708.png)
+![](images/image708.png)
 
 Derzeit umrahmen etliche Ostereier an den umliegenden Sträuchern den Brunnen. Fotos: Thorsten Stötzer
 
@@ -24,7 +24,7 @@ Am Brunnen prangt die Jahreszahl 1888
 
 Damals wurde das gusseiserne Stück vermutlich in der Michelbacher Hütte gebaut, und genau dort vollzog sich die jüngste Sanierung. Der Strinzer Michael Hahn hat die Restauration bei der heutigen ACO Passavant Guss GmbH in Aarbergen übernommen. „Die Ecken wurden neu gegossen, das sieht man an den Schweißnähten“, erklärt Schwarzer. Blau schimmert der Brunnen mit der achteckigen Säule. Am Edelstahlbecken, das kürzer und höher ist als üblich, fallen goldene Ornamente wie ein Löwenkopf auf. „Die habe ich eine volle Woche lang gestrichen“, schildert Schwarzer. Das macht deutlich, wie viele Eigenleistungen investiert wurden. Dillmann schätzt die Zahl der unentgeltlichen Arbeitsstunden von Ortsbeiratsmitgliedern auf über 200.
 
-![](image709.png)
+![](images/image709.png)
 
 Der stellvertretende Ortsvorsteher Frank Schwarzer (links) und Ortsvorsteher Jürgen Dillmann freuen sich über den Brunnen.
 
@@ -36,7 +36,7 @@ Dazu fließen 1000 Euro aus der „Zukunft Dorfmitte“. Insgesamt werde der Pla
 
 Im Frühjahr soll noch das Buswartehäuschen auf der anderen Straßenseite gestrichen und eventuell mit Bänken ausgestattet werden. Anschließend ist Zeit für ein Fest, um den neuen Platz und das Ende der vorangegangenen Bauarbeiten an Straße und Brücke zu feiern, sagt Dillmann. Gute Erfahrungen hat der Ortsbeirat bereits beim ersten „Lebendigen Adventskalender“ gemacht: Als der Brunnen und die Anlagen ringsum Station waren, trafen sich dort über 100 Menschen.
 
-![](image707.png)
+![](images/image707.png)
 
 ## Frankfurterin trifft nach 70 Jahren ihr ehemaliges Kindermädchen in Strinz-Margarethä wieder
 
@@ -46,7 +46,7 @@ Die alte Schule im Hintergrund ist ein Anlaufpunkt beim Wiedersehen von Marei Ha
 
 > Foto: Thorsten Stötzer
 
-![](image710.png)
+![](images/image710.png)
 
 STRINZ-MARGARETHÄ - Alte Schwarz-Weiß-Fotos liegen auf dem Tisch mit Männern darauf, die Knickerbocker tragen. Und ein Kalenderblatt, auf dessen Rückseite Marei Hartlaub einst mit Kinderschrift das Strinzer Lied geschrieben hat, sorgt für Aufmerksamkeit. „Die Strinzer Hymne könnte ich immer noch singen“, ist sie sich sicher, als sie bei der Familie Hartwig zu Besuch ist.
 
@@ -59,7 +59,7 @@ Die Schrecken des Krieges sind noch präsent
 Die Geschwister Gudula, Sabine, Peter und Marei einst in Strinz-Margarethä.
 Foto: Familie Hartlaub
 
-![](image711.png)
+![](images/image711.png)
 
 „Die waren ja brav“, sagt Irma Kugelstadt über ihre Schützlinge. Erinnerungen werden wach an Spiele wie „Ochs am Berg“ oder „Blinde Kuh“. Zugleich sind die Schrecken des Krieges noch präsent. Kurz vor dem Einmarsch der Amerikaner sprengten deutsche Truppen ein Flak-Geschütz, das sie nicht um eine Hausecke brachten. Ein Munitionswagen stand in der Nähe, es brannten Häuser und Scheunen.
 
@@ -75,7 +75,7 @@ Der Großvater war Lehrer im Dorf, für das er sich wegen des schönen Namens in
 
 Als sein Enkel und Cousin Marei Hartlaubs wurde 1944 in Bad Schwalbach der Schriftsteller Jörg Fauser geboren (gestorben 1987), der ebenfalls frühe Kindheitstage in Strinz verbrachte. Seine Mutter Maria Fauser erlebten viele Hörer später als HR-Moderatorin.
 
-![](image707.png)
+![](images/image707.png)
 
 ## Strinz-Margarethä: Frank Schwarzer hat eine ungewöhnliche Flaschensammlung ergraben
 
@@ -85,7 +85,7 @@ Viele Stunden hat Frank Schwarzer im Freien verbracht, um seine Flaschensammlung
 
 > Foto: Thorsten Stötzer
 
-![](image712.png)
+![](images/image712.png)
 
 STRINZ-MARGARETHÄ - An der eckigen Form und dem dünnen Hals erkennt noch heute jedes Kind eine Maggi-Flasche. Beim Exemplar, das Frank Schwarzer präsentiert, handelt es sich dennoch um eine Rarität, denn sie ist mindestens 80 Jahre alt und ungewöhnlich groß. Die Ein-Liter-Flasche war speziell für die Gastronomie im Handel, erläutert der Heimathistoriker aus Strinz-Margarethä.
 
@@ -107,14 +107,14 @@ Limo von Bluna und Krystalla aus der Nachkriegszeit, Apothekenfläschchen und Cr
 
 So sieht Schwarzer in seiner Sammlung „Geschichte im Kleinen“. Er betreibt eine Internetseite zur Historie Strinz-Margarethäs, will sich aber nicht nur mit Schriftgut befassen. So sind für ihn die Flaschen gleichfalls Zeugnisse der Vergangenheit: „Das gehört für mich dazu, da haben inzwischen verstorbene Strinzer draus getrunken.“
 
-![](image707.png)
+![](images/image707.png)
 
 ## Vor 100 Jahren endeten auch in Strinz-Margarethä Krieg und Monarchie
 
 Anfang Oktober ahnte der evangelische Seelsorger, dass Deutschland ein „schmachvoller Frieden“ bevorstehe, die Leute zeichneten schon keine Kriegsanleihen mehr.
 Von Thorsten Stötzer 28.11.2018
 
-![](image713.png)
+![](images/image713.png)
 
 Zeugnis aus Kriegsbesatzungstagen: Frank Schwarzer präsentiert die Erkennungsmarke von Francois Prunier.
 
@@ -136,7 +136,7 @@ Katholische Gottesdienste in französischer Sprache
 
 Es wurden im evangelischen Dorf katholische Gottesdienste in französischer Sprache gehalten. „Franzosenmusik in Herdlings“ ist für den 31. August 1919 vermerkt, sie war ein Beitrag zur „friedlichen Durchdringung“, die die Besatzer verfolgten. Bis zu einer Partnerschaft, wie sie Strinz-Margarethä seit 44 Jahren mit Aube in der Normandie pflegt, war es aber noch lange hin. Ein Relikt aus der Zeit vor 100 Jahren bewahrt Frank Schwarzer auf. Es ist die Erkennungsmarke von Francois Prunier, der 1907 zum Militärdienst nach St. Malo eingezogen wurde. Die Marke fand sich am Hermannsweg.
 
-![](image707.png)
+![](images/image707.png)
 
 ## Von Millionären und Wolfsplagen in Strinz
 
@@ -147,7 +147,7 @@ Frank Schwarzer am Küchenherd, einem Schmuckstück seiner privaten, lokalgeschi
 
 > Foto: Thorsten Stötzer
 
-![](image714.png)
+![](images/image714.png)
 
 STRINZ-MARGARETHÄ - Der erste Millionär in Strinz-Margarethä hieß Heinrich Hankammer. Zu diesem Status verhalf ihm eine Kuh, die er im Inflationsjahr 1923 für 1,8 Millionen Mark verkaufte – bald waren auch alle Nachbarn nominell Millionäre. Das ist eine der Episoden, die Frank Schwarzer preisgibt, wenn er in sein rund 20 Quadratmeter großes, privates Heimatmuseum einlädt.
 
@@ -167,14 +167,14 @@ Doch es wird nicht nur zugehört, sondern auch geraten. Ein kleines Gerät von d
 
 Während das 1928 hergestellte Grammophon mit der Handkurbel eiern darf, wurde das drei Jahrzehnte jüngere Radio mit Bluetooth-Technik modernisiert, ohne dass dies äußerlich erkennbar ist. So weit in die Gegenwart führt die Zeitreise allerdings nicht, der Vortrag endet mit einem Luftbild aus dem Jahr 1945.
 
-![](image707.png)
+![](images/image707.png)
 
 ## Briefe spiegeln Kriegsschicksale zweier Strinzer
 
 Frank Schwarzer aus Strinz-Margarethä wertet Feldpost aus dem Zweiten Weltkrieg aus. Dabei kommen interessante Details ins Blickfeld.
 Von Thorsten Stötzer 24.08.2019
 
-![](image707.png)
+![](images/image707.png)
 
 ## Essen gab es nur auf Bezugskarte
 

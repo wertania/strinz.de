@@ -1,7 +1,7 @@
 #!/usr/bin/env node
-// The 714 plates live inside the original Word document, which is committed as
-// a split zip. They are not committed a second time, so the first build
-// extracts them. Everything else the site needs is committed as JSON.
+// The plates are committed under content/images as part of the Markdown export.
+// This is only a safety net for a tree where they are missing — it unpacks them
+// again from the original Word document.
 
 import { existsSync } from "node:fs";
 import { readdir } from "node:fs/promises";
@@ -10,7 +10,7 @@ import path from "node:path";
 import { fileURLToPath } from "node:url";
 
 const ROOT = path.resolve(path.dirname(fileURLToPath(import.meta.url)), "../..");
-const MEDIA = path.join(ROOT, "data/media");
+const MEDIA = path.join(ROOT, "content/images");
 
 const count = existsSync(MEDIA) ? (await readdir(MEDIA)).length : 0;
 if (count > 700) process.exit(0);

@@ -310,7 +310,7 @@ def main():
             after_image = False
 
             for image in block.get("images", []):
-                lines += [f"![]({image})", ""]
+                lines += [f"![](images/{image})", ""]
                 after_image = True
         flush_verse()
 

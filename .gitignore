@@ -1,6 +1,5 @@
 # Committed: content/*.md and the JSON the site imports. Regenerate everything
 # with `python3 tools/pipeline.py`.
-data/media/
 data/_chronik.docx
 site/public/bilder/
 site/dist/

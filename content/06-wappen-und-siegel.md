@@ -6,7 +6,7 @@ slug: wappen-und-siegel
 
 # Wappen und Siegel
 
-![](image1.png)
+![](images/image1.png)
 
 ## Geschichte des Strinzer Wappens
 
@@ -58,76 +58,76 @@ Aufgrund der zusätzlich entstehenden Kosten, hat man dann doch auf eine Veränd
 
 ## Siegel und Stempel
 
-![](image6.jpeg)
+![](images/image6.jpeg)
 
 Bei der Durchsicht älterer Dokumente fallen mir immer wieder diverse Stempel und Siegel aus Strinz-Margarethä auf. Diese gehören ebenfalls zur Geschichte des Ortes. Aus diesem Grund wurden diese hier zusammengetragen.
 
 Gemeinde
 
-![](image7.jpeg)
+![](images/image7.jpeg)
 
-![](image8.jpeg)
+![](images/image8.jpeg)
 
-![](image9.jpeg)
+![](images/image9.jpeg)
 
-![](image10.jpeg)
+![](images/image10.jpeg)
 
-![](image11.jpeg)
+![](images/image11.jpeg)
 
-![](image12.jpeg)
+![](images/image12.jpeg)
 
-![](image13.jpeg)
+![](images/image13.jpeg)
 
-![](image14.jpeg)
+![](images/image14.jpeg)
 
-![](image15.jpeg)
+![](images/image15.jpeg)
 
-![](image16.jpeg)
+![](images/image16.jpeg)
 
 *1951*
 
 Standesamt
 
-![](image17.jpeg)
+![](images/image17.jpeg)
 
-![](image18.jpeg)
+![](images/image18.jpeg)
 
-![](image19.jpeg)
+![](images/image19.jpeg)
 
-![](image20.jpeg)
+![](images/image20.jpeg)
 
-![](image21.jpeg)
+![](images/image21.jpeg)
 
 *Kirchengemeinde*
 
-![](image22.jpeg)
+![](images/image22.jpeg)
 
-![](image23.jpeg)
+![](images/image23.jpeg)
 
-![](image24.jpeg)
+![](images/image24.jpeg)
 
-![](image25.jpeg)
+![](images/image25.jpeg)
 
-![](image26.jpeg)
+![](images/image26.jpeg)
 
 *Ortsgericht*
 
-![](image27.jpeg)
+![](images/image27.jpeg)
 
-![](image28.jpeg)
+![](images/image28.jpeg)
 
 *Ortsbeauftragter Winterhilfswerk*
 
-![](image29.jpeg)
+![](images/image29.jpeg)
 
 *Verband der Kriegsbeschädigten*
 
-![](image30.jpeg)
+![](images/image30.jpeg)
 
 *Ausgabestelle der Angestelltenversicherung*
 
-![](image31.jpeg)
+![](images/image31.jpeg)
 
 *Volksschule*
 
-![](image32.jpeg)
+![](images/image32.jpeg)
