@@ -1,81 +1,82 @@
 ---
 import Base from "../../layouts/Base.astro";
-import { parts, fullOutline, isRendered } from "../../lib/chronik.js";
+import { chapters, epochs, stats } from "../../lib/chronik.js";
 
-// Where a heading of the original book can be read on this site.
-const target = new Map();
-for (const part of parts) {
-  for (const section of part.sections) {
-    target.set(section.number, `/kapitel/${part.slug}/#abschnitt-${section.number.replace(/\./g, "-")}`);
-  }
-}
-const partHref = new Map(parts.map((p) => [p.number, `/kapitel/${p.slug}/`]));
-const linkFor = (entry) =>
-  target.get(entry.number) ??
-  (entry.number === "7" || entry.number.startsWith("7.") ? "/chronik/" : partHref.get(entry.number));
+const sectionCount = chapters.reduce((n, c) => n + c.sections.length, 0);
 ---
 
 <Base
   title="Kapitel"
-  description="Das vollständige Inhaltsverzeichnis der Ortschronik von Strinz-Margarethä mit allen 209 Überschriften und Buchseiten."
+  description="Das vollständige Inhaltsverzeichnis der Ortschronik von Strinz-Margarethä, wie es im Buch steht."
 >
   <div class="wrap pagehead">
     <p class="eyebrow">Das Buch</p>
     <h1>Kapitel und Inhalt</h1>
     <p class="lede" style="margin-top:1rem">
-      Die Ortschronik gliedert sich in sechzehn Teile. Unten steht ihr
-      vollständiges Inhaltsverzeichnis, so wie es im Buch aufgeführt ist.
+      Die Ortschronik gliedert sich in {chapters.length + 1} Teile mit
+      {sectionCount} Abschnitten. Unten steht ihre vollständige Gliederung, so
+      wie das Buch sie selbst führt.
     </p>
   </div>
 
   <section class="wrap" style="margin:3rem auto">
     <div class="cards">
-      {parts.map((part) => (
-        <a class="card" href={`/kapitel/${part.slug}/`}>
-          <h3>{part.title}</h3>
+      <a class="card" href="/chronik/">
+        <h3>Chronik nach Jahren</h3>
+        <p>{stats.years} überlieferte Jahre von {stats.yearFrom} bis {stats.yearTo}.</p>
+        <p class="card__meta">{epochs.length} Zeitalter</p>
+      </a>
+      {chapters.map((chapter) => (
+        <a class="card" href={`/kapitel/${chapter.slug}/`}>
+          <h3>{chapter.title}</h3>
           <p class="card__meta">
-            {part.sections.length} {part.sections.length === 1 ? "Abschnitt" : "Abschnitte"}
-            {part.page ? ` · ab Seite ${part.page}` : ""}
+            {chapter.sections.length} {chapter.sections.length === 1 ? "Abschnitt" : "Abschnitte"}
           </p>
         </a>
       ))}
-      <a class="card" href="/chronik/">
-        <h3>Chronik nach Jahren</h3>
-        <p class="card__meta">Fünfzehn Zeitalter · ab Seite 35</p>
-      </a>
     </div>
   </section>
 
-  <section class="wrap" style="margin:4rem auto">
+  <section class="wrap" style="margin:4rem auto;max-width:52rem">
     <p class="eyebrow">Inhaltsverzeichnis</p>
-    <h2 style="font-size:1.9rem;margin:0.4rem 0 1.5rem">Alle {fullOutline.length} Überschriften</h2>
+    <h2 style="font-size:1.9rem;margin:0.4rem 0 1.5rem">Alle Abschnitte</h2>
     <ul class="toc">
-      {fullOutline.map((entry) => {
-        const href = linkFor(entry);
-        const cls = `lvl${Math.min(entry.level, 3)}`;
-        return (
+      <li>
+        <a href="/chronik/">
+          <span class="num">7</span>
+          <span class="title">Chronik nach Jahren</span>
+          <span class="page">{stats.years} Jahre</span>
+        </a>
+      </li>
+      {epochs.map((epoch) => (
+        <li>
+          <a href={`/chronik/${epoch.slug}/`} class="lvl2">
+            <span class="num" />
+            <span class="title">{epoch.title}</span>
+            <span class="page">{epoch.years.length} Jahre</span>
+          </a>
+        </li>
+      ))}
+      {chapters.map((chapter) => (
+        <>
           <li>
-            {href ? (
-              <a href={href} class={cls}>
-                <span class="num">{entry.number}</span>
-                <span class="title">{entry.title}</span>
-                <span class="page">S. {entry.page}</span>
-              </a>
-            ) : (
-              <span class={`dim ${cls}`} title="Zu dieser Überschrift ließ sich in der Vorlage kein eigener Text zuordnen">
-                <span class="num">{entry.number}</span>
-                <span class="title">{entry.title}</span>
-                <span class="page">S. {entry.page}</span>
-              </span>
-            )}
+            <a href={`/kapitel/${chapter.slug}/`}>
+              <span class="num">{chapter.number}</span>
+              <span class="title">{chapter.title}</span>
+              <span class="page" />
+            </a>
           </li>
-        );
-      })}
+          {chapter.sections.filter((s) => !s.lead).map((section) => (
+            <li>
+              <a href={`/kapitel/${chapter.slug}/#${section.slug}`} class="lvl2">
+                <span class="num" />
+                <span class="title">{section.title}</span>
+                <span class="page" />
+              </a>
+            </li>
+          ))}
+        </>
+      ))}
     </ul>
-    <p style="margin-top:1.5rem;font-size:0.9rem;color:var(--ink-faint)">
-      Grau gesetzte Überschriften stehen im Inhaltsverzeichnis des Buches, ihr
-      Text ließ sich in der digitalen Vorlage aber keinem eigenen Abschnitt
-      zuordnen — <a href="/ueber/">warum, steht hier</a>.
-    </p>
   </section>
 </Base>

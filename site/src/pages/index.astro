@@ -1,18 +1,18 @@
 ---
 import Base from "../layouts/Base.astro";
-import { stats, epochs, parts, years, plates } from "../lib/chronik.js";
+import { stats, epochs, chapters, plates } from "../lib/chronik.js";
 
 const highlights = [
-  { slug: "geschichten", blurb: "Vom Kadettenmord bis zum abgestürzten Starfighter — die erzählten Stücke der Dorfgeschichte." },
-  { slug: "mundart", blurb: "Wörterbuch und Mundartproben der heimatlichen Sprache." },
-  { slug: "brauchtum", blurb: "Geburt, Kerb, Polterabend, Weihnachten — das Jahr im Dorf." },
-  { slug: "gemarkung", blurb: "Wald, Linde, Steinbrüche, Laufbrunnen und die alten Flurnamen." },
+  { slug: "strinzer-geschichten", blurb: "Vom Weilburger Kadettenmord bis zum abgestürzten Starfighter — die erzählten Stücke der Dorfgeschichte." },
+  { slug: "die-heimatliche-mundart", blurb: "Wörterbuch und Mundartproben der heimatlichen Sprache." },
+  { slug: "strinzer-brauchtum", blurb: "Geburt, Kerb, Polterabend, Weihnachten — das Jahr im Dorf." },
+  { slug: "strinzer-gemarkung", blurb: "Wald, Linde, Steinbrüche, Laufbrunnen und die alten Flurnamen." },
 ]
-  .map((h) => ({ ...h, part: parts.find((p) => p.slug === h.slug) }))
+  .map((h) => ({ ...h, part: chapters.find((c) => c.slug === h.slug) }))
   .filter((h) => h.part);
 
-const firstYear = years[0]?.year;
-const teaser = years.find((y) => y.year === 1184) ?? years[0];
+const allYears = epochs.flatMap((e) => e.years);
+const teaser = allYears.find((y) => y.year === 1184) ?? allYears[0];
 const teaserText = teaser?.groups
   .flatMap((g) => g.blocks)
   .find((b) => b.type === "paragraph" && b.text.length > 120);
@@ -55,7 +55,7 @@ const teaserText = teaser?.groups
     <div class="stat-row">
       <div class="stat"><b>1184</b><span>Erste Erwähnung</span></div>
       <div class="stat"><b>{stats.years}</b><span>Dokumentierte Jahre</span></div>
-      <div class="stat"><b>{stats.blocks.toLocaleString("de-DE")}</b><span>Einträge</span></div>
+      <div class="stat"><b>{stats.entries.toLocaleString("de-DE")}</b><span>Einträge</span></div>
       <div class="stat"><b>{plates.length}</b><span>Bildtafeln</span></div>
     </div>
   </section>
@@ -71,12 +71,11 @@ const teaserText = teaser?.groups
 
   <section class="wrap section-block">
     <p class="eyebrow">Die Chronik</p>
-    <h2>Fünfzehn Zeitalter, Jahr für Jahr</h2>
+    <h2>{epochs.length} Zeitalter, Jahr für Jahr</h2>
     <p class="prose" style="color:var(--ink-soft)">
       Das Herzstück der Ortschronik ist eine Aufzeichnung nach Jahren: wer Amt und
       Würden trug, was sich ereignete, was die Kirchenchronik vermerkte und wie
-      viele Menschen im Dorf lebten. Sie beginnt {firstYear} und reicht bis zum
-      Jahr 2000.
+      viele Menschen im Dorf lebten. Sie beginnt {stats.yearFrom} und reicht bis zum Jahr {stats.yearTo}.
     </p>
     <ul class="chips">
       {epochs.map((e) => (

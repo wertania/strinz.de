@@ -12,7 +12,7 @@ import { fileURLToPath } from "node:url";
 import sharp from "sharp";
 
 const ROOT = path.resolve(path.dirname(fileURLToPath(import.meta.url)), "../..");
-const SRC = path.join(ROOT, "assets/quelle/final_markdown/images");
+const SRC = path.join(ROOT, "data/media");
 const OUT = path.join(ROOT, "site/public/bilder");
 const FULL = path.join(OUT, "gross");
 const THUMB = path.join(OUT, "klein");
@@ -23,13 +23,7 @@ const CONCURRENCY = 8;
 
 async function main() {
   const content = JSON.parse(await readFile(path.join(ROOT, "data/content.json"), "utf8"));
-  const wanted = new Set();
-  const walk = (blocks) => {
-    for (const b of blocks ?? []) if (b.type === "image") wanted.add(b.file);
-  };
-  for (const part of content.parts) for (const s of part.sections) walk(s.blocks);
-  for (const y of content.years) for (const g of y.groups) walk(g.blocks);
-  walk(content.front);
+  const wanted = new Set(content.plates.map((p) => p.file));
 
   await mkdir(FULL, { recursive: true });
   await mkdir(THUMB, { recursive: true });

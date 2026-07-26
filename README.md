@@ -1,109 +1,103 @@
 # Chronik Strinz-Margarethä
 
 A pre-rendered website for the Ortschronik of Strinz-Margarethä (Gemeinde
-Hohenstein, Taunus) — 774 book pages, ~8.300 content entries, 657 plates,
-and a year-by-year chronicle from 1100 to 2000.
+Hohenstein, Taunus) — 774 book pages, 150.727 words, 691 plates, and a
+year-by-year chronicle from 1100 to 2000.
 
 ```
-assets/quelle/   the raw material: the machine dump of the original Word file
-tools/           the data pipeline (Python) that turns it into usable content
-data/            the prepared content (committed, regenerate with the pipeline)
-site/            the Astro site; `npm run build` writes static HTML to site/dist
+assets/quelle/file/  the original Word document, committed as a split zip
+tools/               the pipeline that turns it into content
+content/             the chronicle as Markdown, one file per chapter
+data/                the same content as JSON, for the site
+site/                the Astro site; `npm run build` writes site/dist
 ```
 
-## Why there is a pipeline
+## The rule
 
-The chronicle was only available as a keyword-sorted dump of a Word document
-(`assets/quelle/final_docx_parser.py` produced it). That dump is unusable as a
-source for a website:
+**The wording is never changed.** Only the structure is worked out. Every run of
+the pipeline verifies this by comparing all 150.727 words of the Markdown with
+those of the Word document; the build fails if a single one differs.
 
-* almost every **paragraph had become its own `##` heading**, so the text reads
-  as 4.685 disconnected fragments;
-* the paragraphs were **scattered across 20 files** by keyword matching, which
-  destroyed the reading order of the book;
-* sources, rubrics and images were mixed into the running text.
-
-Two signals survived and make a reconstruction possible:
-
-1. the **image files are numbered in document order**, so every one of the 657
-   plates is an exact anchor into the original text flow;
-2. the **year chronicle labels itself** — bare year paragraphs in ascending
-   order across roughly half the book;
-3. the book's **own table of contents** survived, giving all 215 headings with
-   their page numbers.
-
-## The pipeline
+## Running it
 
 ```bash
 cd site && npm install
-npm run dev                        # or: npm run build  -> site/dist
+npm run dev                  # or: npm run build  -> site/dist
 ```
 
-`data/*.json` is committed, so a clone builds straight away; the image
-derivatives are not, so `dev` and `build` regenerate them first (~15 s once,
-skipped afterwards). Only a change to the source material needs the Python
-side:
+`content/*.md` and `data/*.json` are committed, so a clone builds right away.
+The 714 plates are not committed twice — the first build unpacks them from the
+Word document, which needs Python once. Rebuilding the content after a change
+to the source document:
 
 ```bash
-python3 tools/pipeline.py          # steps 1-4 below, then the quality report
-cd site && npm test                # builds, then runs data + browser tests
+python3 tools/pipeline.py
+cd site && npm test          # builds, then runs data + browser tests
 ```
 
 | step | script | what it does |
 | --- | --- | --- |
-| 1 | `tools/reconstruct.py` | merges the 20 files back into one paragraph stream. Image numbers are the initial anchors; the resulting order yields a global year→position curve, which is fed back as further anchors until it converges. |
-| 2 | `tools/build_outline.py` + `tools/toc.py` | recovers the book's outline from its own table of contents, splitting `12.8.9Hagelunwetter1886523` into number, title and page. |
-| 3 | `tools/build_content.py` + `tools/match_headings.py` | locates the headings in the stream, cuts the stream into sections and year entries, separates sources from prose, groups the chronicle rubrics, builds the office-holder register. |
-| 4 | `tools/evaluate.py` | quality metrics (see below). |
-| 5 | `site/scripts/optimize-images.mjs` | 113 MB of mixed scans → 43 MB of WebP in two sizes. |
-| 6 | `astro build` | 37 static pages, no client framework. |
+| 1 | `tools/extract_docx.py` | reads the docx verbatim into `data/document.json`: paragraph styles, outline levels, tables, list levels, run formatting and the position of every image. |
+| 2 | `tools/write_markdown.py` | decides what each block *is* and writes `content/*.md`. |
+| 3 | `tools/verify_markdown.py` | compares every word of the Markdown with the docx. |
+| 4 | `tools/build_site_data.py` | the same classification, emitted as `data/content.json`. |
+| 5 | `site/scripts/optimize-images.mjs` | 113 MB of mixed scans → WebP in two sizes. |
+| 6 | `astro build` | 34 static pages, no client framework. |
 
-## How good is the reconstruction
+## What the structural work consists of
 
-`tools/evaluate.py` reports, on the current data:
+The Word file carries its own outline — 26 chapter headings, 96 sections, 112
+subsections, 27 tables — and that is used as-is. What it does not mark up is
+decided in `tools/write_markdown.py`, each decision taken by reading the chapter
+it applies to:
 
-```
-headings located          : 182/215
-heading order vs book page: 98.6% of pairs correct
-year markers              : 525, 8 inversions (1.5%)
-```
+* **The year chronicle** marks its years by bold type and its rubrics
+  (Obrigkeiten, Ereignisse, Statistik, Wahlen, Kirchenchronik) as bare
+  paragraphs. Both become real headings.
+* **The dialect dictionary** is a set of tables with two term/translation pairs
+  per row and a spacer column between them. The pairs are resolved, so each word
+  keeps exactly the dialect form standing next to it in the source.
+* **Songs, poems and rhymes** are stored as one paragraph per line, typographically
+  indistinguishable from prose. They are set as stanzas; the prose sentence
+  introducing a song stays prose.
+* **Enumerations** — name forms, currency tables, livestock counts, trade
+  directories — were never marked up as lists and now are.
+* **Source notes** are lifted out of the running text and attached to the
+  paragraph they belong to, keeping their original label (Quelle, Foto, Bild).
+* **Captions** — a short line directly below a plate.
+* Nine paragraphs in „Keine ‚Aarstraße‘ für StM“ carry the Heading-1 style by
+  mistake in the Word file and are put back to running text.
 
-The second line is the meaningful one: the table of contents gives an
-independent page number for every heading, so if the reconstructed order were
-wrong, the located headings would not come out in page order.
-
-Nothing is discarded. Text that could not be attached to a chapter with
-confidence goes to `/kapitel/anhang/`; office holders and population figures
-that lost their year go to `/register/`, where years are only shown when they
-are internally consistent. `/ueber/` explains all of this to the reader.
+`/ueber/` explains all of this to the reader as well.
 
 ## The site
 
-Astro, static output, no client-side framework. One small inline script for the
-light/dark toggle and one for the search, which loads `/suchindex.json` and runs
+Astro, static output, no client-side framework. One inline script for the
+light/dark toggle, one for the search, which loads `/suchindex.json` and runs
 entirely in the browser.
 
 ```
-/                     Startseite
-/chronik/             the 15 epochs of the year chronicle
-/chronik/1800-1899/   one page per epoch
-/kapitel/             all chapters plus the full table of contents
-/kapitel/geschichten/ one page per part of the book
-/register/            office holders and population figures
-/bilder/              all 657 plates
-/suche/               full-text search
-/ueber/               editorial note on sources and method
+/                            Startseite
+/chronik/                    the epochs of the year chronicle
+/chronik/chronik-von-1800-1899/   one page per epoch
+/kapitel/                    all chapters and the full table of contents
+/kapitel/strinzer-geschichten/    one page per chapter
+/register/                   office holders and population figures
+/bilder/                     all plates
+/suche/                      full-text search
+/ueber/                      editorial note on sources and method
 ```
 
 ## Tests
 
-`site/tests/data.test.mjs` guards the pipeline — chronology, no extraction
-artefacts, no duplicates, every referenced image present, nothing silently
-dropped. `site/tests/site.test.mjs` drives the built site in Chromium: every
-internal link resolves, no console errors, no broken images, search works, no
-horizontal scrolling on a phone, dark mode applies, metadata present.
+`site/tests/data.test.mjs` guards the pipeline — wording identical to the docx,
+chronology intact, no export artefacts, sources separated, songs set as verse,
+the dictionary paired correctly, every image present.
+`site/tests/site.test.mjs` drives the built site in Chromium: every internal
+link resolves, no console errors, no broken images, search works, no horizontal
+scrolling on a phone, dark mode applies, metadata present.
 
 ## Deployment
 
 `site/dist` is a plain directory of static files. The `Dockerfile` in the repo
-root builds everything from source and serves the result with nginx.
+root builds everything from the Word document and serves the result with nginx.
