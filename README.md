@@ -20,6 +20,8 @@ those of the Word document; the build fails if a single one differs.
 
 ## Running it
 
+Needs Node.js 22.23.4 or newer (Node 24 LTS recommended) and Python 3.
+
 ```bash
 cd site && npm install
 npm run dev                  # or: npm run build  -> site/dist
@@ -101,3 +103,17 @@ scrolling on a phone, dark mode applies, metadata present.
 
 `site/dist` is a plain directory of static files. The `Dockerfile` in the repo
 root builds everything from the Word document and serves the result with nginx.
+
+## Maintenance
+
+Dependabot opens a monthly PR for npm packages, GitHub Actions and the Docker
+base images; CI builds and runs the full test suite on each one. nginx serves
+the site with `server_tokens off` and the security headers in
+`site/security-headers.conf` (CSP, `nosniff`, no framing, referrer policy).
+
+## License
+
+The code — pipeline, site, tests and configuration — is released under the
+[MIT License](LICENSE). The chronicle itself (text in `content/`, `data/` and
+the Word document in `assets/`, and all plates) is not covered by it; its rights
+stay with the authors and the respective sources.
