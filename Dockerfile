@@ -1,6 +1,6 @@
 # Builds the whole thing from source and serves the result with nginx.
 # Nothing runs at request time: the image contains static files only.
-FROM node:24-alpine AS build
+FROM node:26-alpine AS build
 RUN apk add --no-cache python3
 WORKDIR /app
 
